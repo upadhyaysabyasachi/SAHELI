@@ -1,0 +1,3417 @@
+Anemia Mukt Bharat Training Module1
+ANEMIA MUKT BHARAT  
+TRAINING TOOL KIT
+TEST
+TREAT
+TALK
+SUPPLY
+DASHBOARD
+Reproductive and Child Health Division
+Ministry of Health and Family Welfare
+Government of India
+November 2019
+ANEMIA MUKT BHARAT  
+TRAINING TOOL KIT
+INTRODUCTION
+The Ministry of Health and Family Welfare (MoH&FW) has launched Anemia Mukt Bharat Programme 
+with special focus on the health and nutrition needs of children, adolescents, women of reproductive age 
+group and pregnant mothers and lactating mothers. 
+This will be achieved through six interventions, implementation of which will be facilitated by six robust 
+institutional mechanisms. T o facilitate seamless implementation of the interventions, a training tool kit has been developed which will be used to orient and train different stakeholders at various levels for effective implementation of Anemia Mukt Bharat (AMB) strategy. 
+Guiding principles:  
+i. Beneficiary centred approach: Commitment to improve health outcomes and reduce anemia 
+prevalence among the target age groups
+ii. Inclusive partnerships: Facilitate participation of all stakeholders to achieve the common goal
+iii. Accountability: Commitment to inculcate accountability for service delivery among all  
+service providers
+iv. Minimizing duplication: Leverage existing institutional mechanisms for capacity building processes
+Contents of the training tool kit:
+Unit 1: Anemia- An IntroductionUnit 2: T est and Treat Anemia
+Unit 3: T alk Anemia
+Unit 4: IFA Supply Chain Management Unit 5: AMB Dashboard Portal
+Purpose of AMB training tool kit:
+The training tool kit is developed for diverse set of stakeholders (programme managers, medical officers, 
+staff nurse, ANM, procurement managers, data entry operators, teachers, ASHAs and AWWs) to enable 
+them to function effectively and understand their role for effective implementation of various components under AMB. All the stakeholders have been categorized under three groups according to capacity development requirement. 
+Group Training requirement on tool kit
+Group 1–Managers Anemia-Introduction, AMB Dashboard, IFA Supply Chain Management 
+(Planning- forecasting- Indent- procurement- Storage and Distribution- 
+Reporting)
+Group 2–Service 
+ProvidersAnemia-Introduction, T est-Treat Anemia, T alk Anemia: Solid Body, Smart Mind Campaign, IFA Supply Chain Management (Indent, Reporting)
+Group 3–Field functionariesAnemia-Introduction, T alk Anemia: Solid Body, Smart Mind Campaign, IFA Supply Chain Management (Indent, Reporting)
+Plan of training:
+A one-day training/orientation of the National trainers (resource persons) will be organized by the 
+National Centre of Excellence and Advanced Research on Anemia Control (NCEAR-A), AIIMS, New Delhi. The National trainers will then train the master trainers at the State and further training of the district- block- field-level functionaries at the States will be planned by the State in a cascade mode. • Group 1–Managers:  Programme and Process Managers (Procurement, Distribution, Reporting, 
+Pharmacist etc.), Data Entry Operators
+ • Group 2–Service providers:  Medical Officers, Staff Nurse, ANM
+ • Group 3–Field functionaries: ASHA, AWW, T eachers
+
+CONTENT
+Unit 1   Anemia: An Introduction          7-13
+Activity 1: Identifying anemia           8   
+Activity 2: Introduction to Anemia Mukt Bharat     11
+Unit 3 T alk Anemia: Social & Behaviour Change Communication on   
+ Solid Body, Smart Mind Campaign for Service Providers   
+ 
+Session 1: Understanding the Behaviour Change Process     48 
+Part I: T elling a story using the story cards      49 
+Part II: Presenting the first chart depicting the seven steps in behaviour change 53 
+Part III: Sharing of personal experiences in changing behaviour by participants  55 
+Part IV: Presentations from groups and discussion     55
+Session 2: Communication Activities And How to Use Anemia Mukt Bharat   58 
+Communication Materials for IPC and Dialogue with Clients Unit 2   T est and Treat Anemia          15-46
+DIAGNOSIS AND TESTING FOR ANEMIA      16-23  
+Session 1: Diagnosis of Anemia       16  
+Activity 1:  Diagnosing anemia         16  
+Session 2: T esting for Anemia        18 
+Activity 1:  Why to use point of care devices      18 
+Activity 2: Hemoglobin estimation using digital hemoglobinometer   19
+PROPHYLAXIS OF ANEMIA       24-30 
+Session 1: Prophylactic Iron and Folic Acid (IFA) Supplementation   24  
+Activity 1:  Iron and folic acid supplementation prevents anemia    24  
+Session 2: Deworming       29  Activity 1:  Deworming: Why and how       29
+TREATMENT OF ANEMIA       32-45 Session 1: Oral Iron Folic Acid Therapy      32 
+Activity 1:  Service delivery platform for testing and treatment of anemia   32 
+Activity 2: Treatment of anemia using iron folic acid (IFA) tablets   34  
+Session 2: Parenteral Iron Therapy       38  
+Activity 1: Parenteral iron therapy: An introduction     38 
+Activity 2: Parenteral iron therapy during pregnancy     40
+& Field  Functionaries        47-62
+Unit 4 Supply Chain Module for Programme Managers  63-93  
+ and Service Providers  
+Section 1: Public Health Supply Chain Management      66 
+Section 2: IFA Supply Chain Process and Action Plan    69  
+Section 3: Roles and Responsibilities of State/district/block T eam    84
+Unit 5 Anemia Mukt Bharat Dashboard: One Stop Portal for 95-114    
+ Reporting,  Monitoring and Review  
+Session  1: Introduction       96 
+Session  2: Data         99 
+Session  3: Quarterly Progress Report       109 
+Session  4: Resources        113
+ANEMIA:  
+AN INTRODUCTION
+1UNIT
+Activity 1: Identifying anemia 
+Activity 2: Introduction to Anemia Mukt Bharat
+Anemia Mukt Bharat Training Module8Reena’s story
+Reena is a 13-year-old girl. She lives with her parents, two brothers and a younger sister in 
+Rampur, a town in Uttar Pradesh Reena goes to school and also helps her mother with all 
+the household work. Her normal diet is rice and watery dal twice a day, and vegetables once 
+a while. She is very fond of noodles and burgers which she frequently enjoys in the school 
+canteen during recess. She feels very weak and is always exhausted. Her grades are falling as 
+she cannot concentrate in the class. She feels irritable and does not like playing as she starts 
+panting even on slight effort.  Step 1:  Project the case study “Reena’s story” and ask a participant to read it.Activity 1: Identifying anemia
+ Step 2:   Lead a discussion by asking:
+ •What has happened to Reena?
+ •What other signs and symptoms might Reena be having?Duration: 15 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •describe anemia and its importance
+ •identify the signs and symptoms of anemia
+Materials Required:
+Chart papers, Markers, Board, Board markers/Flipcharts, Case study “Reena’s 
+story”, LCD projector, PowerPoint slides on various signs of anemiaMethodology:
+Case study, Question Answer Discussion
+Anemia Mukt Bharat Training Module9Facilitator’s Guide 1.1
+Signs and symptoms of anemia
+Definitive diagnosis of anemia is made by estimation of hemoglobin (Hb) levels in the blood. 
+However, there are some signs and symptoms that may assist in identifying anemia. They 
+include:
+ •Paleness or pallor in the inner rims of the lower eyelid (lower palpebral conjunctiva)
+ •Tongue
+ •Overall skin
+ •Nails and palms of the hand
+ •Soreness of the tongue
+ •Cracks at the corners of lips
+ •Brittle and spoon shaped nails
+ •Dizziness, tiredness, fatigue and low energy
+ •Unusually rapid heartbeat, particularly during exercise
+ •Shortness of breath 
+ •Frequent headaches, particularly with exercise
+ •Lethargy, lack of interest in playing and studies
+ •Difficulty or inability to concentrate
+ •Leg cramps
+ •Lowered resistance to infections and frequent illness Step 3:   Add to the discussion using the Facilitator’s Guide 1.1
+Anemia Mukt Bharat Training Module10 Step 4:  Project the following PowerPoint slides (without the headings) on various clinical signs of 
+anemia and ask the participants to identify them.
+       [Alternatively, a short (10 Min) video can be shown]
+Pallor of lower 
+Palpebral conjunctiva 
+Pallor of hands GlossitisKoilonychiaPale skin
+Anemia Mukt Bharat Training Module11Slide 1
+ANEMIA MUKT BHARAT
+Intensified National Iron Plus Initiative Program 
+Target for accelerating the annual rate of decline of anemia from one to three 
+percentage points.
+6x6x6 strategy   
+6 Beneficiaries:
+1. Children 6-59 months
+2. Children 5-9 years 
+3. Adolescent girls and boys (10-19 years)
+4. Women of reproductive age (15-49 years)
+5. Pregnant women
+6. Lactating mothers
+6 Interventions:
+ •Prophylactic Iron Folic Acid Supplementation 
+ •Deworming Step 5: Conclude by emphasizing  “The signs and symptoms of anemia may not be clinically 
+visible until anemia status is severe. However, negative health consequences occur even 
+before the onset of severe anemia.”
+Activity 2: Introduction to Anemia Mukt Bharat
+Duration: 20 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •list the strategies under Anemia Mukt Bharat 
+Materials Required:
+LCD projector, PowerPoint slides on various signs of anemiaMethodology:
+PowerPoint presentation, Discussion
+Anemia Mukt Bharat Training Module12 •Intensified year-round Behaviour Change Communication Campaign including assured 
+delayed cord clamping 
+ •Testing of anemia using hospital digital methods and point of care treatment
+ •Mandatory provision of iron folic acid fortified food in public health programmes 
+ •Addressing non-nutritional causes of anemia in endemic pockets, with special focus on 
+malaria, hemoglobinopathies and fluorosis
+6 Institutional mechanisms:
+ •Intra-ministerial coordination 
+ •National Centre of Excellence and Advanced Research on Anemia Control 
+ •Strengthening supply chain and logistics
+ •National Anemia Mukt Bharat Unit 
+ •Convergence with other Ministries 
+ •Anemia Mukt Bharat Dashboard and digital portal—one-stop shop for anemia
+What is new?
+1. Routine Testing and Treating for adolescent girls and boys in government and government-
+aided schools (through RBSK) and pregnant women (ANC clinics)
+2. Delayed cord clamping 
+3. Switch from 100 mg to 60 mg elemental iron in prophylactic dose of elemental iron for women and adolescents. The IFA tablets will be sugar coated. 
+4. Mandating use of fortified food in public health programmes 
+5.	 Special	focus	on	use	of 	double	fortified	salt	–iodine	and	iron	
+6. Use of invasive digital methods of hemoglobin estimation and point of care treatment.
+7. Using Intra venous Iron Sucrose/Ferric Carboxy Maltose for management of moderate/
+severe anemia. 
+8.	 Special	focus	on	newly-wed	women	20–24	years.
+9. Covering private schools in addition to government/government aided schools 
+10. Setting up Programme Management Units for Anemia Mukt Bharat at National and State 
+levels 
+11. Denominator and HMIS based quarterly progress reports and awards 
+12. Dedicated AMB dashboard and portal (www.anemiamuktbharat.info) 
+13. Strengthening programmes to address non-nutritional causes of anemia with special focus on linkage with malaria, fluorosis and haemoglobinopathies 
+14. Establishment of National Centre of Excellence and Advanced Research on Anemia Control 
+at All India Institute of Medical Sciences (AIIMS), New Delhi
+15. State Institutes of Excellence and Advanced Research on Anemia Control 
+16. Creating a Jan Andolan through intensive communication and newly developed communication material and communication activities
+Anemia Mukt Bharat Training Module13 Step 6: Conclude the activity by saying that the Anemia Mukt Bharat campaign envisages the 
+detailed guidelines for prevention and treatment of anemia as Intensified National Iron 
+Plus Initiative Program.
+ 5Anemia is present when there is less haemoglobin levels as per age and sex
+ 5Anemia leads to poor health, economic loss and social burden
+ 5Anemia can be diagnosed by estimation of hemoglobin (Hb) levels in the blood and clinical 
+signs and symptoms
+ 5Anemia is caused by nutritional deficiency, infections and genetic illnesses leading to poor 
+production, more destruction of red blood cells or blood loss 
+ 5The signs and symptoms of anemia may not be clinically visible until anemia status is severe. However, negative health consequences occur even before the onset of severe anemia
+ 5The prevalence of anemia across all ages has been more than 50% amongst the vulnerable groups in India and in the last 10 years, the percentage point reduction of anemia prevalence 
+has been extremely low in most age groups
+ 5Anemia control programme in India started in 1970 as National Nutritional Anemia 
+Prophylaxis Program (NNAPP) and evolved in 2018 as Anemia Mukt Bharat.Points to remember:
+Anemia Mukt Bharat Training Module15
+TEST AND TREAT  
+ANEMIA   
+2UNIT
+DIAGNOSIS AND TESTING FOR ANEMIA
+PROPHYLAXIS OF ANEMIASession 1: Diagnosis of Anemia  
+Activity 1:  Diagnosing anemia 
+Session 2: T esting for Anemia  
+Activity 1:  Why to use point of care devices 
+Activity 2:  Hemoglobin estimation using digital hemoglobinometer
+Session 1: Prophylactic Iron and Folic Acid (IFA) Supplementation  
+Activity 1:  Iron and folic acid supplementation prevents anemia 
+Session 2: Deworming  
+Activity 1:  Deworming: Why and how
+TREATMENT OF ANEMIA
+Session 1: Oral Iron Folic Acid Therapy 
+Activity 1: Service delivery platform for testing and treatment of anemia  
+Activity 2: Treatment of anemia using iron folic acid (IFA) tablets 
+Session 2: Parenteral Iron Therapy  
+Activity 1: Parenteral iron therapy: An introduction 
+Activity 2: Parenteral iron therapy in pregnancy
+Anemia Mukt Bharat Training Module16Session 1: Diagnosis of Anemia
+ Step 1: Welcome the participants and remind them about Module 1 wherein they have learnt 
+about identification of anemia 
+ Step 2:  Ask the participants:
+What are the ways to assess whether a person is anemic?Note down the responses on the board/flipchart. The responses may be:
+ •... by identification of signs and symptoms
+ •... by estimation of hemoglobin
+DIAGNOSIS AND TESTING  
+FOR ANEMIA
+Duration: 15 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •State the hemoglobin levels as criteria for diagnosis of anemia in various 
+age groups
+ •Assess the severity of anemia based upon the diagnostic criteria in various 
+age groups 
+Materials Required:
+LCD projector, PowerPoint slidesMethodology :
+PowerPoint presentation DiscussionActivity 1: Diagnosing anemia
+Anemia Mukt Bharat Training Module17
+ Step 3: Thank the participants and say, “the diagnosis of anemia has to be based upon some 
+criterion. Also, the identification of signs and symptoms helps to identify anemia, it does 
+not accurately help to assess the severity of anemia.
+ Step 4: Project the PowerPoint Slide 1
+Source: (WHO 2011)
+ Step 5:  Let a volunteer read the criteria for diagnosing anemia and assessing its severity for a 
+particular age group. Continue the process till all age groups are covered. Answer the 
+questions, if any .
+ Step 6: Summarize the activity by saying the diagnosis of anemia and its severity is decided 
+by World Health Organization (WHO) criteria for diagnosis and assessment of anemia 
+based upon the haemoglobin levels for various age groups.Population No Anemia 
+(gm/dL)Mild Anemia (gm/dL)Moderate Anemia (gm/dL)Severe Anemia (gm/dL)
+Children 6-59 months 
+of age ≥11.0 10-10.9 7.0-9.9 <7.0
+Children 5-11 years  of age≥11.5 11.0-11.4 8.0-10.9 <8.0
+Children 12-14 years  of age ≥12.0 11.0-11.9 8.0-10.9 <8.0
+Non-pregnant women 
+(15 years of age and above)≥12.0 11.0-11.9 8.0-10.9 <8.0
+Pregnant women ≥11.0 10.0-10.9 7.0- 9.9 <7.0
+Men (15 years of age and above)≥13.0 11.0-12.9 8.0-10.9 <8.0
+Anemia Mukt Bharat Training Module18Session 2: T esting for Anemia
+ Step 1: Remind the participants about the six interventions in “Anemia Mukt Bharat” campaign 
+ Step 2: Tell them “testing of hemoglobin using digital hemoglobinometers and Point of Care 
+treatment of anemia” is a new intervention under Anemia Mukt Bharat campaign. Mass 
+screening for anemia amongst the vulnerable age groups is imperative for initiation of 
+appropriate treatment as per the severity of anemia.
+ Step 3: Tell them the devices for testing of anemia at facility level and field level are as follows:
+1. At the facility level (block level and above):
+ •Hemoglobin level estimation will by using Semi-Auto Analysers.
+2. At the health facilities below block level (where haematology analysers are  not available) and field level:
+ •Digital hemoglobinometer will be used for testing of hemoglobin level. The digital hemoglobinometers are point of care testing devices, as they can be used for 
+estimation of hemoglobin, near the beneficiary (for example, at his/her home) 
+outside the hospital. Activity 1: Why to use point of care devices
+Duration: 10 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •Measure hemoglobin level by using digital hemoglobinometer 
+Materials Required:
+LCD projector, AV Film on using digital hemoglobinometerMethodology :
+Discussion
+Anemia Mukt Bharat Training Module19Facilitator’s Guide 2.1
+Advantages of using Point of Care devices
+ •Faster access to test results which helps in rapid clinical decision making and treatment, 
+ultimately leading to improved health outcome
+ •Relative ease of obtaining the blood samples compared to venepuncture, especially in children. Capillary sampling can be done from finger, heel or ear lobe
+ •Less volume of blood sample is required
+ •Larger number of beneficiaries can be served in a defined period of time
+ •Overcomes operational limitation of visiting the health facility by the beneficiaries
+ •No loss to follow upDiscuss the advantages of using Point of Care devices using 
+Facilitator’s Guide 2.1
+ Step 4:  Conclude the activity by saying that Point of Care digital hemoglobinometer devices have great advantages over traditional Sahli’s haemoglobinometer and hence they are used for 
+mass screening of anemia.
+ Step 1:  Inform them in the present activity, they will be learning how to use a digital 
+hemoglobinometer for estimating the hemoglobin levels.  
+ Emphasize the use digital hemoglobinometer for estimation of hemoglobin is approved 
+by WHO and Indian Council of Medical Research (ICMR). The digital hemoglobinometer 
+devices provided by the manufacturer should be approved for clinical use by a reputed 
+regulatory authority, e.g. FDA, European CE and other relevant Indian regulatory authority .Activity 2: Hemoglobin estimation using digital   
+      hemoglobinometer
+Duration: 40 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •Measure hemoglobin level by using digital hemoglobinometer 
+Materials Required:
+LCD projector, AV Film on using digital hemoglobinometerMethodology :
+Discussion AV Show /Demonstration using checklist
+Anemia Mukt Bharat Training Module20I. 	Choose	the	third	(middle)	or	fourth	(ring)	finger	of	the	non-dominant	hand	for	the	  
+finger	prick
+Figure 1: Fingers	for	blood	collection	–	3rd	or	4th			  
+     finger of the non-dominant hand 
+Figure 2: Choose finger and swab with alcohol 
+II. 	Ask	the	subject	to	rub	their	hands	to	promote	blood	flow
+III. 	Wipe	the	fingertip	with	the	alcohol	pad	and	let	it	air	dry	completely	Precautions:
+ •Avoid the thumb and 
+little finger
+ •Avoid fingers with thick calluses
+ •Avoid fingers with tight rings as they may 
+constrict blood flow
+Precautions:
+ •Do not blow on the finger 
+to dry the alcohol
+ •Do not wipe off the alcohol
+ •Do not perform the finger prick until alcohol is 
+completely evaporated Step 2:   Start audio-visual show and discuss the various steps in using a digital hemoglobinometer.  
+ Checklist for estimation of hemoglobin using digital hemoglobinometers:
+1. Digital hemoglobinometers with batteries or charger 
+2. Microcuvettes or strips
+3. Lancets 
+4. Alcohol swab/ spirit cotton
+5. Unsterile gloves
+6. Tissue paper
+7. Biohazard container to dispose the used lancets, microcuvettes/strips
+Anemia Mukt Bharat Training Module21
+Figure 3: Puncture sites on the finger
+IV. 	Hold	the	finger	firmly	just	below	the	centre	of	the	fingertip
+Figure 4: Place the lancet firmly on the finger 
+and push the trigger
+Figure 5: Cuvette holder in loading positionV. 	Press	and	trigger	the	lancet	flat	and	firmly	against	the	finger	at	the	puncture	sites	away	
+from	the	midline	as	shown	in	the	figure	4
+VI.  Discard lancet in biohazard container
+VII. 	Release	pressure	and	allow	a	full	drop	of	blood	to	collect	on	finger
+VIII. Once	a	drop	of	blood	has	collected	on	the	finger,	use	the	cotton	or	tissue	to	wipe	away	
+the	first	drop	of	blood
+IX. Use the second or third drop of blood for estimation of hemoglobin 
+Select the type of testing device used:
+a. Testing haemoglobin using microcuvette 
+1. Turn “ON” the meter. After the monitor shows three dashes, pull the cuvette holder in its 
+loading position 
+Anemia Mukt Bharat Training Module22
+Figure 6: Filling of the microcuvette
+Figure 7: Cuvette holder in measuring position2. Fill the microcuvette in one continuous process. The correct amount of blood (10 μl) is drawn 
+into the microcuvette. The microcuvette should be completely filled
+3. Wipe away any excess blood on the outside of the microcuvette tip
+4. Check for air bubbles in the filled microcuvette. If present, use a new microcuvette
+5. Place the filled microcuvette in the cuvette holder (within 40 seconds after filling the cuvette)
+6. Push the cuvette holder to its measuring position 
+7. Read and record the result. Remove and discard the microcuvette in the appropriate  
+bio-hazard container. Push the cuvette holder back into the instrument
+1. Use the microcuvettes prior to its expiry date.
+2. Store the microcuvettes at 100C - 400C. Do NOT refrigerate.
+3. An unopened box is stable till the date of expiry (printed on the package) at the temperature 10
+0C to 400C.
+4. An opened box is stable for a period 3 months from the date of opening the box or the date of expiry, whichever is earlier. 
+5. However, at temperature <10
+0C or >400C both opened and unopened boxes are stable 
+only for a period of 6 weeks. 
+6. Store the analyser at 00C to 500C. Operate the analyser at 100C to 400C, 5 to 90% non-
+condensing relative humidity .Precautions in using Microcuvette
+Anemia Mukt Bharat Training Module23b) Testing of hemoglobin level using strip
+ 1. Turn ON the meter. The system undergoes an autocheck and auto-calibration after    
+ which the battery level, date, time and strip’s batch code are displayed within 2 seconds.
+ 2. Enter the code mentioned on the strip bottle.
+ 3. The meter will flash a ‘strip’ symbol on the display . Insert a fresh test strip into the meter with   
+  the arrows on the strip facing up and pointing towards the display .
+ 4. Ensure the correct positioning of the strip with the guiding V notch.
+ 5. The meter will flash a ‘drop’ symbol on the display . Allow the second drop of the blood to  
+ fall to completely cover the white-coloured test area. 
+ 6. Read and record the result.
+ 7. Remove the used test strip from the meter and dispose in appropriate biohazard container.
+ Step 3:  Summarize the activity by saying that hemoglobin estimation by a digital 
+hemoglobinometer can be done either using microcuvette method or strip method. 
+However, one should prick only the middle or ring finger and follow the steps laid down for 
+microcuvette method or strip method, correctly .
+ 5“Testing of hemoglobin using digital hemoglobinometers and Point of Care treatment of anemia” is a new intervention under Anemia Mukt Bharat campaign.
+ 5Point of Care devices have great advantages over traditional Sahli’s hemoglobinometer and hence they are used for mass screening of anemia.
+ 5Point of care devices should be approved for clinical use by reputed regulatory authority e.g. FDA, European CE and other relevant Indian Regulatory Authority .
+ 5A digital hemoglobinometer is a Point of Care device which can be used to estimate 
+hemoglobin level using microcuvette or strip method.Points to remember:Precautions: Do not allow fingers or other foreign objects 
+to come in contact with the white test area of the test strip.
+
+Anemia Mukt Bharat Training Module24 Step 1: Lead the discussion by asking the participants:
+ •Why prophylaxis is needed for anemia? Note down the responses on the 
+flipchart/ board. 
+ Step 2:  Say, “Prophylaxis of anemia is important for prevention of anemia. It has two components:
+ •Iron and Folic Acid (IFA) supplementation which helps to replenish the body iron and folic acid stores and meets the iron and folic acid needs of the body at all ages, 
+irrespective of anemia status. 
+ •Deworming which helps to kill worms which cause loss of iron and protein leading to 
+anemia
+ Step 3: Inform the participants that they will participate in an exercise.
+ Step 4: Take a bowl containing the following Red and Blue slips:Session 1: Prophylactic Iron and Folic Acid (IFA) 
+Supplementation
+PROPHYLAXIS OF ANEMIA
+Activity 1: Iron and folic acid supplementation prevents  
+      anemia
+Duration: 30 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •prescribe the dosage for prophylactic iron and folic acid supplementation in 
+various age groups 
+Materials Required:
+Flipchart/White board, Markers, Pre-prepared Red and Blue Slips, LCD projector, 
+PowerPoint slidesMethodology :
+Pairing exercise PowerPoint presentation Discussion
+Anemia Mukt Bharat Training Module25
+Red slips
+Blue slipsChildren 6-59 months of age Children 5-9 years 
+of ageSchool-going adolescent girls and boys  (10-19 years) and out-of-school adolescent 
+girls 10-19 years of age
+Women of reproductive age 
+(non-pregnant, non- lactating) 
+20-49 yearsPregnant women Lactating mothers (0-6 months child)
+Bi-weekly, 1 ml of iron and 
+folic acid syrup. 
+Each ml of iron and folic 
+acid syrup containing 20 
+mg of elemental iron +100 
+mcg of folic acidWeekly, 1 iron and folic acid tablet.
+Each tablet containing 45 mg of 
+elemental iron + 400 mcg of folic 
+acidWeekly, 1 iron and folic acid tablet. 
+Each tablet containing 60 mg 
+of elemental iron + 500 mcg 
+of folic acid
+Weekly, 1 iron and folic acid 
+tablet.
+Each tablet containing 60 
+mg of elemental iron + 500 
+mcg of folic acidDaily, 1 iron and folic acid tablet starting from the fourth month of 
+pregnancy (that is from the second 
+trimester), 
+Continued throughout pregnancy 
+(minimum 180 days) 
+Each tablet containing 60 mg of 
+elemental iron + 500 mcg of folic 
+acidDaily, 1 iron and folic acid tablet
+To be continued for 180 days, 
+postpartum
+Each tablet containing 60 mg 
+of elemental iron + 500 mcg 
+of folic acid
+Mix both the slips.
+ Step 5: Ask 12 volunteers to come out of the group and pick up one slip each. Let them go and sit on their seats
+ Step 6: Tell them each “Red slip” represents a population group and the “Blue slip” contains the prophylactic dose and dosage of iron and folic acid corresponding to the population 
+group
+ Step 7: Let both the groups of the volunteers interact for 5 minutes.  
+ Ask each volunteer having “Red slip” to make a pair with the volunteer having “Blue slip” 
+containing the correct dose and dosage of iron and folic acid.
+ Step 8: After 5 minutes, ask one pair to come forward and read the red slip followed by blue slip.  
+ 
+Ask the larger group whether the dose and dosage of iron and folic acid in “Blue slip” 
+correspond to the population in “Red slip.”  
+ Let the process continue till the last pair.
+ Step 9:   Project PowerPoint Slide 1 and answer questions, if any .
+Anemia Mukt Bharat Training Module26Population Prophylactic dosage for iron and folic acid supplementation
+Children 6-59 
+months of ageBi-weekly, 1 ml of iron and folic acid syrup. 
+Each ml of iron and folic acid syrup containing 20 mg of elemental iron + 
+100 mcg of folic acid.
+Bottle (50 ml) to have an ‘auto-dispenser’ and information leaflet as per 
+MoHFW guidelines in the mono-carton.
+Prophylaxis with iron and folic acid should be withheld in case of acute 
+illnesses (fever, diarrhoea, pneumonia, etc.), and in a known case of 
+thalassemia major/ history of repeated blood transfusion. In case of severe 
+acute malnutrition (SAM) children, IFA supplementation should be continued 
+as per SAM management protocol.
+Children  
+5-9 years  
+of age Weekly, 1 iron and folic acid tablet. 
+Each tablet containing 45 mg of elemental iron + 400 mcg of folic acid  
+sugar-coated, pink-colour.
+School-going 
+adolescent girls and 
+boys (10-19 years 
+of age) and out-of-
+school adolescent 
+girls, 10-19 years of 
+age
+ Weekly, 1 iron and folic acid tablet. Each tablet containing 60 mg of elemental iron + 500 mcg of folic acid  
+sugar-coated, blue-colour
+All women in the reproductive age group (15-49 years) are advised to have 
+400 mcg of folic acid tablets, daily during the period of pre-conception up to 
+the first trimester of the pregnancy, to reduce the incidence of neural tube 
+defects in the foetus.
+Women of reproductive  
+age  
+(non-pregnant,  
+non- lactating)  
+20-49 yearsWeekly, 1 iron and folic acid tablet. 
+Each tablet containing 60 mg of elemental iron + 500 mcg of folic acid
+Sugar-coated, red-colourAll women in the reproductive age group (15-49 years) are advised to have 
+400 mcg of Folic Acid tablets, daily during the period of pre-conception up 
+to the first trimester of the pregnancy, to reduce the incidence of neural tube 
+defects in the foetus.
+Pregnant women Daily, one iron and folic acid tablet starting from the fourth month of 
+pregnancy (that is from the second trimester)
+Continued throughout pregnancy (minimum 180 days during pregnancy). 
+Each tablet containing 60 mg of elemental iron + 500 mcg of folic acid, 
+sugar-coated, red-colourSlide 1
+Prophylactic dosage for iron and folic acid supplementation
+Anemia Mukt Bharat Training Module27Prophylactic IFA service delivery platformLactating mothers 
+(with 0-6 months 
+child)
+  •Daily, one iron and folic acid tablet
+ •To be continued for 180 days, postpartum 
+ •Each tablet containing 60 mg of elemental iron+ 500 mcg of folic acid
+ •Sugar-coated, red-colour
+Age group Service delivery platform
+Children 6- 59 
+months •ASHA will receive required number of IFA bottles from PHC/SC
+ •For each child ASHA will provide biweekly dose of IFA syrup for 1st 
+week
+ •ASHA will train mother to administer IFA syrup and also recording/marking in the IFA compliance card  
+ •From 2nd week onwards up to the month end (remaining six doses of 
+the month), mother will administer IFA syrup to the child under ASHA 
+supervision. ASHA will undertake fortnightly home visits and encourage 
+mothers to administer IFA syrup in her presence 
+ •Thereafter mother will administer biweekly IFA syrup to her child on her own and mark the same on IFA compliance card 
+ •ASHA will supervise the mothers time-to-time
+Children 5-9 years
+In school children
+ •Weekly once Pink IFA tablets will be provided through Spot feeding 
+approach 
+ •In Government and aided schools - IFA tablets will be provided after mid-day meal 
+ •In Private schools - IFA tablets will be provided after lunch break
+Out of school children:
+ •ASHA will provide IFA tablets during home visits 
+Adolescents 10-19 years •School going adolescent 10-19 years:
+ •Weekly one blue IFA tablet will be given by school teachers
+ •Out-of-school adolescent girls 10-19 years
+ •Blue IFA tablet will be provided through quarterly Adolescent Health Day of Rashtriya Kishore Swasthya Karyakram (RKSK) at Anganwadi centres 
+Anemia Mukt Bharat Training Module28Facilitator’s Guide 2.2
+Consumption of IFA supplementation: Things to remember
+IFA tablets to be taken preferably about one hour after major meals to prevent side effects  
+such as nausea.
+Beneficiaries complaining of side effects are advised to take the IFA supplements after 
+dinner and before sleeping.
+IFA supplement should be consumed along with foods rich in vitamin C such as lemon in the 
+form of nimbu-paani, amla  (Indian gooseberry) etc. for improving the absorption of iron.
+Drinking of tea or coffee within an hour of consuming IFA should be discouraged, as it may reduce the iron absorption.
+Iron and calcium tablets should not be consumed together, as calcium interferes in iron 
+absorption. At least two hours of interval should be there between calcium and iron tablet 
+consumption. Step 10:   With the help of Facilitator’s Guide 2.2,  explain the important information while 
+consuming IFA supplementationWomen of 
+reproductive age 
+group •States are encouraged to integrate provision of IFA tablets, folic acid 
+tablets and deworming to WRA through immunization day/VHND 
+platform wherever feasible
+ •To begin, 20-24 years WRA will be provided IFA tablet in Nayi Pehal Kit using Mission Parivar Vikas platform 
+ •States should ensure preparation of eligible couple register 
+ •ASHA	will	mobilize	target	beneficiaries	(WRA)	to	 VHNDs	–	 ANM	will	
+counsel them on IFA consumption and deworming (albendazole) to 
+prevent anemia 
+ •If the WRA is planning for pregnancy, she should be counselled to stop IFA supplementation and initiate Folic acid supplementation and continue 
+till 12 weeks of pregnancy (first trimester) 
+ •Folic acid tablets will be provided at VHNDs/SCs by ANM.
+Pregnant women IFA tablets will be provided through antenatal care contacts (ANC clinics/
+VHND/PMSMA)
+Lactating women IFA tablets through VHND platform when they bring their child for immunization 
+Anemia Mukt Bharat Training Module29Session 2: Deworming
+Facilitator’s Guide 2.3
+Deworming
+Soil-transmitted	helminths	–	which	include	roundworms	(Ascaris lumbricoides ), whipworms 
+(Trichuris trichiura ) and hookworms (Necator americanus and Ancylostoma duodenale )	–	are	
+among the common causes of infestation in people who live in the developing world.
+Soil-transmitted helminths impair the nutritional status of an individual by multiple ways 
+including:
+ •Feeding on host tissues, including blood, which leads to a loss of iron and protein
+ •Internal bleeding which can lead to loss of iron, intestinal inflammation and obstruction
+ •Diarrhoea
+ •Impairment of nutrient intake, digestion and absorption
+Due to poor hygiene and open defecation practices, worm infestation has a high prevalence in our country across all ages.
+Worm infestation (particularly hookworm infestation) along with nutritional deficiency is an 
+important cause of anemia and thus deworming is an important intervention for prophylaxis 
+for anemia.Step 1: Lead the discussion by asking:
+1. Why deworming is important for prevention and treatment of anemia?
+2. Add the missing information using Facilitator’s Guide 2.3Activity 1: Deworming: Why and how
+Duration: 30 minutes
+Objectives: 
+After the session, the participants will be: Sensitized on the importance of 
+deworming in prevention and treatment of anemia
+ •Deworm various population groups following correct dose and regime 
+Materials Required:
+LCD projector, PowerPoint slidesMethodology :
+PowerPoint presentation discussion 
+Anemia Mukt Bharat Training Module30Step 2:   Discuss the dose and regime for deworming in various population groups using 
+PowerPoint Slide 2
+Step 3:   Conclude the activity by saying that deworming is an important step towards prevention of anemia along with iron and folic acid prophylaxis. However, correct dose and regime 
+needs to be followed for effective deworming.Slide 2
+Dose and regime for deworming
+Population group Dose and regime for deworming
+Children 12-59 months of ageBi-annual dose of 400 mg albendazole (½ tablet to children 12–24	months	and	1	tablet	to	children	24–59	months)
+Children 5-9 years 
+of ageBi-annual dose of 400 mg albendazole (1 tablet)
+School-going adolescent girls 
+and boys (10-19 
+years) and out-of-
+school adolescent 
+girls 10-19 years 
+of ageBi-annual dose of 400 mg albendazole (1 tablet)
+Women of 
+reproductive age 
+(non-pregnant, 
+non-lactating)  
+20-49 yearsBiannual dose of 400 mg albendazole (1 tablet)
+Pregnant women One dose of 400 mg albendazole (1 tablet), after the first 
+trimester, preferably during the second trimester
+Anemia Mukt Bharat Training Module31 5IFA supplementation helps to replenish the body stores and meets the needs of the body at 
+all ages, irrespective of anemia status
+ 5IFA supplement should be consumed along with foods rich in vitamin C for better absorption
+ 5Worm infestation (particularly hookworm infestation) along with nutritional deficiencies is an 
+important cause of anemia
+ 5Bi-annual dose of 400 mg albendazole (1 tablet) is given for deworming in all the age groups 
+except children of 12 months to 24 months, wherein half the dose (Tablet Albendazole 200 
+mg) is given
+ 5In pregnant women, one dose of 400 mg albendazole (1 tablet), after the first trimester, preferably during the second trimester
+ 5It is important taking iron-rich foods viz. meat, fish, egg, poultry, green leafy vegetables (mustard, fenugreek (methi), bathua, amaranth leaves, radish leaves), whole pulses (Bengal 
+gram whole, horse gram whole, etc.) and cereals (whole wheat flour, bajra, ragi, jowar). Inclusion of vitamin C rich foods like fruits (gooseberry, guava, lemon, orange, raw mango), 
+vegetables (drumstick leaves, amaranth leaves, capsicum) and sprouts help in improving iron 
+absorption. This helps in prevention of anemia.Points to remember:
+Anemia Mukt Bharat Training Module32Session 1: Oral Iron Folic Acid Therapy
+Duration: 30 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •describe the service delivery platforms for testing and treatment of anemia
+ •discuss the guidelines for oral iron folic acid therapy of anemia in various 
+population groups 
+Materials Required:
+Board, Markers, LCD projector, PowerPoint slidesMethodology :
+PowerPoint presentation discussionTREATMENT OF ANEMIA
+Activity 1: Service delivery platform for testing and treatment 
+of anemia
+ Step 1: Welcome the participants. Remind them about module 1 wherein they learnt about Anemia Mukt Bharat campaign.
+ Step 2:   Ask, “What are the service delivery platforms for IFA supplementation for various population groups?” Note down the responses on the board.
+ Step 3:   Tell that Anemia Mukt Bharat campaign service delivery platforms for IFA supplementation have been identified for various population (beneficiary) groups.
+ Step 4:  Project the power point Slide 3 on service delivery platforms for IFA supplementation. Answer the questions, if any .
+ Step 5: Conclude the activity by saying that all the members of the health team must be aware about service delivery platforms for IFA supplementation and the target population should 
+be made aware about the same for screening and treatment of anemia.
+Anemia Mukt Bharat Training Module33
+Target group A Children 6–59 months
+Who will screen and 
+place of screening •ANM: VHND/sub-centre/session site
+ •RSBK team: AWC/ school
+ •Medical officer: health facility
+Periodicity  •RBSK/ANM: as per scheduled microplan
+ •Medical officer: opportunistic
+Target group B Children 5–9 years
+Who will screen and place of screening •RSBK teams will screen in-school and out-of-school children  for anemia 
+ •All children with clinical signs and symptoms of anemia will be referred to SC/PHC for Hb estimation and further management
+Periodicity  •Once a year
+ •Opportunistic screening, e.g., routine Hb assessment of sick children 
+presenting to health facility
+Target group C All school going adolescents 10–19 years in government/  
+government-aided schools
+Who will screen and 
+place of screeningIn school premises by RBSK team
+Periodicity Annual
+Target group D
+ Pregnant women registered for antenatal care
+Who will screen and place of screeningHealth service provider at any ANC contact, including Pradhan Mantri Surakshit Matritva Abhiyaan (PMSMA)
+All pregnant women will be tested for anemia using digital 
+hemoglobinometers at any ANC contact point 
+Periodicity At every ANC contactSlide 3
+Service delivery platforms for testing and treatment of anemia
+The AMB strategy proposes that adolescent girls and boys will be tested for anemia using digital hemoglobinometers, in schools by RBSK team, annually . Similarly, pregnant women will be tested for 
+anemia using digital hemoglobinometers at all ANC contact points. At all high case load facilities at 
+the block level and above, hemoglobin estimation will be done using Semi-Auto Analysers.
+Anemia Mukt Bharat Training Module34 Step 1: Inform the participants that in the present activity they will be learning about the 
+guidelines for treatment of anemia using IFA tablets
+ Step 2:   Project the slides containing the flow charts for treatment of anemia in different age groups. Answer the questions, if any .Duration: 45 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •describe the service delivery platforms for iron folic acid supplementation
+ •discuss the guidelines for oral iron folic  acid therapy of anemia in various population groups 
+Materials Required:
+Board, Markers, LCD projector, PowerPoint slidesMethodology :
+PowerPoint presentation discussionActivity 2: Treatment of anemia using IFA tablets
+Flowchart 1: Treatment of anemia amongst children (6-59 months)
+No improvement in 
+Hb after 2 months
+Refer to FRU/DHProvide 1 ml of IFA 
+syrup, once daily for 
+2 months
+Improvement in Hb 
+to ≥ 11 g/dl
+Provide Prophylactic  
+IFA dose and  
+counselingProvide 1.5 ml of 
+IFA syrup, once 
+daily for 2 monthsProvide 2 ml of IFA 
+syrup, once daily for 
+2 monthsChildren 6–12 
+months (6–10.9 kg)Children >1-3 years 
+(11–14.9 kg)Children >3–5 
+years (15–19.9 kg)Refer urgently 
+to FRU/DHAnemia 
+(Hb <11g/dl)
+Severe anemia 
+(Hb: <7 g/dl)Mild and moderate 
+anemia 
+(Hb: 7–10.9 g/dl)
+Anemia Mukt Bharat Training Module35Flowchart 2:   Treatment of anemia amongst children  
+ (5–9 years)
+Refer urgently to 
+FRU/DH
+No improvement in 
+Hb after 2 monthsImprovement in Hb 
+to ≥11.5 g/dl
+Provide Prophylactic 
+IFA dose and  
+counselingSevere anemia 
+(Hb <8 g/dl)Mild and moderate 
+anemia 
+(Hb: 8–11.4 g/dl)
+3 mg of iron/kg/day  
+for 2 monthsAnemia
+Hb <11.5 g/dl
+Refer to 
+FRU/DH
+Anemia Mukt Bharat Training Module36Flowchart 3:   Treatment of anemia amongst adolescents  
+ (10–19 years)
+Severe anemia 
+(Hb <8 g/dl)
+Refer urgently to 
+FRU/DHTwo IFA tablets (each with 60 mg 
+elemental iron and 500 mcg folic acid), 
+daily for 3 months
+No improvement in 
+Hb after 3 monthsImprovement in Hb 
+to normal Hb**
+Provide Prophylactic IFA 
+dose and counselingMild anemia*,  
+moderate anemia 
+(Hb: 8–10.9 g/dlAdolescents with anemia*
+ Refer to FRU/DH
+Population Mild Anemia (g/dl)* No Anemia (g/dl)**
+Children (10-11 years of age) 11-11.4 ≥11.5
+Children (12-14 years of age) 11-11.9 ≥	≥12
+Women (15- 19 years of age) 11-11.9 ≥	≥12
+Men (15- 19 years of age) 11-12.9 ≥	≥13Classification of Anemia:
+Anemia Mukt Bharat Training Module37Flowchart 4:  Treatment of anemia amongst pregnant women
+ Step 3: Distribute	the	copies	of 	Flowcharts	1–5	to	all	the	participants
+ Step 4:   Summarize by saying mild and moderate anemia can be treated effectively at all ages by 
+recommended dose of IFA tablets. However, after the hemoglobin levels come to normal, 
+prophylactic IFA dose should be provided along with counselling.Anemia
+Hb <11 g/dl
+Gestational  
+age ≤  
+34 weeks  
+and non  
+compliant to 
+oral ironGestational  
+age ≤ 34 
+weeks and 
+compliant to 
+oral ironGestational  
+age >  
+34 weeks:Hb:
+ 5.0–6.9 g/dlHb <5 g/dl
+Immediate 
+hospitalization 
+irrespective of 
+gestation for 
+blood  
+transfusion
+Gestational age 
+≤ 34 weeks: 
+Refer urgently to 
+FRU/DH - treat-
+ment will be done 
+using IV Iron 
+Sucrose/Ferric 
+Carboxy Maltose
+Gestational age 
+> 34 weeks:  
+Immediate hos-
+pitalization and 
+blood transfusionParental iron  
+(IV Iron Sucrose 
+or Ferric Carboxy 
+Maltose)
+No improvement 
+of Hb (<1 g/dl  
+increase) after 
+one month of 
+treatmentImprove-
+ment in Hb 
+to > 10.9 g/dl
+No further 
+need for 
+prophylactic 
+IFA
+tablet if Hb 
+> 10.9 g/dl 
+post  
+parenteral 
+iron infusionTwo tablets of 
+Iron and Folic 
+Acid tablet (60 
+mg elemental 
+Iron and 500 
+mcg Folic Acid) 
+daily
+No improvement 
+of Hb (<1 g/dl 
+increase) after 
+one month of 
+treatment
+ Refer to 
+FRU/DHImprovement 
+in Hb > 1g/dl 
+Refer to 
+FRU/DHContinue 
+IFA tablets 
+and check 
+Hb at the 
+end of 2 
+monthsMild anemia (Hb: 10–10.9 gm/dl), 
+Moderate Anemia (Hb:9.9-7 g/dl)Severe anemia 
+(Hb: <7 g/dl)
+Anemia Mukt Bharat Training Module38Session 2: Parenteral Iron Therapy
+ Step 1: Welcome the participants and inform them they will be doing a group work
+ Step 2:   Divide the participants into four groups. Distribute the following topics to the groups:
+Group 1: Importance of parenteral iron therapy
+Group 2: Indications of parenteral iron therapy
+Group 3: Iron sucrose administration: Do’s and don’tsGroup 4: Iron sucrose administration: Precautions
+ Step 3:   Distribute charts and markers to the groups and let them work for 10 minutes
+ Step 4:  After 10 minutes, let the groups present their work one by one. After each presentation, 
+add the left out information from Facilitator’s Guide 2.4
+(Alternatively, after each presentation a PowerPoint slide from Facilitator’s Guide 2.4  may be projected)Activity 1: Parenteral iron therapy: An introduction
+Duration: 45 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •describe the importance of parenteral iron therapy
+ •identify the conditions where parenteral iron therapy is indicated
+ •provide treatment of anemia with intravenous iron sucrose in pregnancy 
+Materials Required:
+Chart papers, Markers, PowerPoint presentation, LCDMethodology :
+Group work and discussion
+Anemia Mukt Bharat Training Module39Facilitator’s Guide 2.4
+Parenteral iron therapy
+Why parenteral iron therapy
+Oral IFA supplementation is often associated with poor compliance mainly due to side 
+effects such as vomiting, nausea, constipation, indigestion, etc.
+Parenteral iron treatment circumvents the natural gastrointestinal regulatory mechanisms to 
+deliver non-protein bound iron to the red blood cells. Intra-venous (IV) iron helps in achieving 
+rapid correction of hemoglobin and iron stores, and is better tolerated than oral iron in treating iron deficiency anemia.
+Iron sucrose formulation Iron sucrose is the most common formulation used for parenteral iron therapy .Iron sucrose is a non-dextran intravenous iron formulation with a complex of polynuclear 
+iron	(III)	–	hydroxide	core	bounded	by	sucrose. 	It	has	short	half-life	of 	5–6	hours, 	which	
+is responsible for relatively rapid erythropoiesis and can provide quick rise in hemoglobin 
+within 5 to 7 days.
+Indications
+Intra-venous Iron Sucrose (IVIS) may be considered as the first line of management in 
+individuals identified with the following conditions:
+I. Moderate anemia during pregnancy (after the first trimester of pregnancy) and during 
+postpartum period if:
+ •Oral iron is not tolerated 
+ •Non-compliance to oral iron 
+ •No improvement in hemoglobin level or improvement less than 1gm/dL after one month  
+ of oral IFA treatment 
+II. Severe anemia (Hb 6.9 to 5 gm/dL) during 13 to 34 weeks of pregnancy 
+Contraindications: 
+I. Patients with evidence of iron overload 
+II. Patients with known hypersensitivity to iron preparation or any of its component
+III. Patients with anemia not caused by iron deficiency
+IV . Liver disorder like jaundice, cirrhosis or renal failure 
+V . Acute cardiac failure
+VI. Known case of thalassemia, sickle cell anemia or hemolytic anemia
+Iron sucrose administration: Dos and don’ts
+ •Iron sucrose is available in 5 ml vial, with 20 mg of elemental iron per ml of iron sucrose.
+ •IV iron sucrose should be administered as a slow infusion of 200 mg/dose in 100 ml 0.9% 
+saline administered over 20-30 minutes. 
+ •During the first five minutes, infusion should be given at the rate of 20-30 drops/minute and then increased to 80-90 drops/minute.
+ •Subsequent doses can be given over a period of 20 to 25 minutes. It is important to 
+administer the drug at this rate since too slow or too fast rates have been associated with 
+side effects.
+Anemia Mukt Bharat Training Module40 Step 6: Conclude the activity by thanking the participants and tell them they will be learning more 
+about parenteral therapy of anemia during pregnancy in the next activity .
+Duration: 45 minutes
+Objectives: 
+After the session, the participants will be able to:
+ •describe the importance of parenteral iron therapy
+ •identify the conditions where parenteral iron therapy is indicated
+ •provide treatment of anemia with intravenous iron sucrose in pregnancy 
+Materials Required:
+Chart papers, Markers, PowerPoint presentation, LCDMethodology :
+Discussion, PowerPoint presentation, ExerciseActivity 2: Parenteral iron therapy during pregnancy •Maximum dose should not exceed 600 mg (3 doses of 200 mg each) of iron sucrose in  a week.
+ •Iron sucrose should be administered at primary health care or higher level of health care 
+under the supervision of the medical officer.
+ •Vital signs such as blood pressure, heart rate, respiratory rate, temperature and foetal heart 
+rate should be monitored before, during (every 5 minutes after initiation of infusion) and at 
+the end of the infusion.
+ •The expected increase in hemoglobin level for pregnant women with severe and moderate anemia is approximately 2.5 gm/dL and 1.6 gm/dL, respectively after 3 weeks of complete 
+dose of IV iron sucrose treatment. 
+ •To avoid permanent discolouration of the skin due to extravasation of IVIS, patency of the cannula has to be checked by flushing normal saline before initiation of treatment.
+Precautions 
+ •All lifesaving equipment should be kept available to deal with any unexpected severe adverse reaction.
+ •Hand hygiene shall be performed before and after the contact with pregnant women.
+ •Use sterile and disposable intravenous (IV) infusion set, venflon and syringe.
+ •Patency of IV cannula has to be ensured, otherwise extravasation of iron could lead to 
+permanent staining of skin.
+ •Discard the remaining unused drug in the vial after withdrawing the required dose. Do not store the remaining IV iron sucrose for later use.
+ •In case of any reaction, administer one ampoule of inj. Avil (Pheniramine) and one vial of inj. Hydrocortisone intravenously immediately and contact the medical officer on duty .
+Anemia Mukt Bharat Training Module41Handout 1
+Treatment of anemia using intravenous iron sucrose during pregnancy
+Indications
+Parenteral therapy using intravenous iron sucrose during pregnancy is indicated in:Moderate anemia during pregnancy (after the first trimester of pregnancy) and during 
+postpartum period if:
+ •Oral iron is not tolerated 
+ •No improvement in hemoglobin level or improvement less than 1gm/dL after one month of 
+oral IFA treatment 
+Dosage calculation:
+Iron requirement for intravenous administration of iron sucrose can be calculated using 
+Ganzoni’s formula.
+Total iron deficit (mg) = Body weight* (kg) x (target Hb in gm/dL**– actual Hb in gm/
+dL) x 2.4 + 500***
+*Pre-pregnancy weight. If pre-pregnancy weight is not available, weight recorded during the first visit of 
+first trimester can be used
+**Target Hb for pregnant women = 11.0 gm/dL
+***500 mg for replenishing iron stores in the body of women weighing 35 kg
+If the pregnant women’s weight is less than 35 kg, allowance for iron store = 15mg/kg body 
+weight)
+Example:If a pregnant woman has a weight of 60 kg (pre-pregnant weight) a hemoglobin level 9.5 
+gm/dL:
+Total iron deficit = 60 x (11.0-9.5) x 2.4 + 500 = 716 mgSimplified method:A total dose of 200 mg of iron sucrose (10 ml of Iron Sucrose) can be infused at a time Step 1: Welcome the participants and tell them they will be learning about treatment of anemia 
+using intravenous iron sucrose during pregnancy .
+ Step 2:   Run the PowerPoint presentation and answer the queries, if any .
+ Step 3:   Distribute Handout 1: Treatment of anemia using intravenous iron sucrose during pregnancy .
+Anemia Mukt Bharat Training Module42Hb Wt 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70
+51000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.1 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.2 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.3 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.4 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.5 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.6 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.7 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.8 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+5.9 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+61000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.1 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.2 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.3 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.4 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.5 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.6 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.7 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.8 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+6.9 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7800 800 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.1 800 800 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.2 800 800 800 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.3 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.4 800 800 800 800 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.5 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.6 800 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.7 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.8 700 800 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+7.9 700 800 800 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8700 700 800 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.1 700 700 700 800 800 800 800 800 900 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.2 700 700 700 700 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.3 700 700 700 700 800 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.4 700 700 700 700 700 700 800 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.5 700 700 700 700 700 700 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.6 700 700 700 700 700 700 800 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.7 700 700 700 700 700 700 700 800 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.8 600 600 700 700 700 700 700 800 800 800 800 800 800 800 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000
+8.9 600 600 700 700 700 700 700 800 800 800 800 800 800 800 900 900 900 900 900 900 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000Total iron sucrose dose calculation sheet
+* If the pregnant women weighs less than 40 kg, weight category of 40 kg should be considered in the chart.
+This table can be used as a guide for Iron Sucrose dose calculation. However, it is advisable to use Ganzoni’s formula to calculate the 
+intravenous iron sucrose dose for each pregnant women
+Anemia Mukt Bharat Training Module43200 mg of IVIS 
+(1 vial) infusion – 
+1st dose200 mg of IVIS 
+(1 vial) infusion – 
+2nd dose200 mg of IVIS 
+(1 vial) infusion – 
+3rd dose100 mg of IVIS 
+(half vial) infusion – 
+4th doseIllustration:  A pregnant woman with 28 weeks of gestational age weighs 36 kg and if her 
+hemoglobin is 8.3 gm/dL, she will be requiring in total 700 mg doses of iron sucrose (according 
+to the table on page 41). She has to be given a total of 700 mg (three 10 ml iron sucrose 
+vials with 200 mg iron in each, plus half a dose in the 4th vial of iron sucrose (5 ml) for 100 mg of iron) of iron sucrose in four different visits (one 200 mg of iron sucrose at each visit in first week and 100 mg iron in the last visit during the second week).  She 
+has to make four visits. In each visit, 200 mg iron sucrose has to be transfused and at last visit, 100 mg is to be transfused. The flow diagram below depicts the administration of iron dose to pregnant women.
+WEEK 1 WEEK 2
+Documentation and post-infusion management
+Document the dose, date of infusion and side effects (if any) observations in the Antenatal 
+clinic (ANC) record and Mother and Child Protection Card (MCPC) of the pregnant woman. The 
+pregnant woman should be observed for 1 hour after infusion and can be discharged on the 
+same day if all vitals are stable.
+Follow-up of after iron sucrose administrationThe hemoglobin level of the pregnant woman should be checked 4 and 6 weeks after 
+administration of iron sucrose. If there is no change in hemoglobin levels at the end of IV iron 
+sucrose treatment, other causes of anemia should be investigated.
+Anemia Mukt Bharat Training Module44 Step 3: Divide the participants into four groups and distribute the following case studies. Ask the 
+groups to work on the case study and answer the questions give below.
+Questions for discussion:
+1. What will be the total required doses of 200 mg doses of iron sucrose?
+2. What will be the dosage schedule?
+3. How many visits will she require for the treatment?Sunita is a pregnant woman with 24 weeks of gestational age. She weighs 
+53 kg and her hemoglobin is 6.3 gm/dL CASE STUDY 1
+CASE STUDY 4CASE STUDY 2
+CASE STUDY 3Questions for discussion:
+1. What will be the total required doses of 200 mg doses of iron sucrose?
+2. What will be the dosage schedule?
+3. How many visits will she require for the treatment? 
+Rukhsana is having 32 weeks of gestational age. She weighs 39 kg and her hemoglobin is 5.9gm/dL 
+Questions for discussion:
+1. What will be the total required doses of 200 mg doses of iron sucrose?
+2. What will be the dosage schedule?
+3. How many visits will she require for the treatment? 
+Sarita is a pregnant woman with 24 weeks of gestational age. She weighs 68 kg and her hemoglobin is 5.6 gm/dL 
+Questions for discussion:
+1. What will be the total required doses of 200 mg doses of iron sucrose?
+2. What will be the dosage schedule?
+3. How many visits will she require for the treatment? 
+Vanita is a pregnant woman with 29 weeks of gestational age. She weighs 49 kg and her hemoglobin is 8.4 gm/dL 
+Anemia Mukt Bharat Training Module45  Step 4: Ask the groups to present their work. Answer questions, if any .
+  Step 5:   Conclude the activity by summarizing that parenteral therapy in pregnancy is done by 
+using intravenous iron sucrose. The dose is calculated using Ganzoni’s formula and the 
+treatment has to be spread over two weeks, giving 3-4 doses of 200 mg iron sucrose  
+per week.CASE STUDY 5
+CASE STUDY 6Zameela is pregnant with 35 weeks of gestational age. She weighs 69 kg 
+and her hemoglobin is 7.6 gm/dL 
+Questions for discussion:
+1. What will be the total required doses of 200 mg doses of iron sucrose?
+2. What will be the dosage schedule?
+3. How many visits will she require for the treatment? 
+Anita is a pregnant woman with 36 weeks of gestational age. She weighs 57 kg and her hemoglobin is 9.2 gm/dL 
+Questions for discussion:
+1. What will be the total required doses of 200 mg doses of iron sucrose?
+2. What will be the dosage schedule?
+3. How many visits will she require for the treatment?
+Anemia Mukt Bharat Training Module46 5Mild and moderate anemia can be effectively treated by oral iron folic acid therapy in all age 
+groups and pregnancy in recommended doses.
+ 5After the hemoglobin levels come to normal, prophylactic IFA dose should be provided along with counselling.
+ 5All cases with no improvement in Hb level after oral iron folic acid therapy for recommended duration, should be referred to FRU/ district hospital.
+ 5Parenteral iron therapy for anemia is done using Intra-venous Iron Sucrose (IVIS).
+ 5Intra-venous Iron Sucrose (IVIS) is considered as the first line of management in individuals with severe anemia (Hb 6.9 to 5.0 gm/dL) between 13-34 weeks of gestational age. 
+ 5Iron sucrose is contraindicated in patients with evidence of iron-over load, known hypersensitivity to iron preparation or any of its components or non-iron deficiency anemia. 
+ 5During pregnancy, Intra-venous Iron Sucrose (IVIS) may be considered in moderate anemia 
+where, diagnosis of anemia in late stages of pregnancy, no tolerance to oral iron, no 
+improvement in hemoglobin level (Hb level <1gm/dL) after one month of oral IFA treatment, 
+noncompliance for oral IFA tablets and also for anemia in postpartum period. 
+ 5The dose of iron sucrose is calculated with Ganzoni’s formula. 
+ 5The treatment has to be spread over 2-3 weeks, with 3 doses per week. 
+ 5The pregnant woman should be observed for 1 hour after infusion for any side effects.
+ 5The hemoglobin level of the pregnant woman should be checked 4 and 6 weeks after administration of iron sucrose.Points to remember:
+TALK ANEMIA:  
+SOCIAL & BEHAVIOUR CHANGE 
+COMMUNICATION ON SOLID 
+BODY, SMART MIND CAMPAIGN 
+FOR SERVICE PROVIDERS & 
+FIELD  FUNCTIONARIES3UNIT
+TALK ANEMIA
+Session 1: Understanding the Behaviour Change Process
+Part I: T elling a story using the story cards
+Part II: Presenting the first chart depicting the seven steps in 
+behaviour change
+Part III: Sharing of personal experiences in changing behaviour by 
+participants
+Part IV: Presentations from groups and discussion
+ Session 2: Communication Activities and How to Use AMB   
+Communication Materials for IPC and Dialogue with Clients  
+Anemia Mukt Bharat Training Module48Session 1: Understanding the Behaviour Change 
+Process
+Duration: 2 hours
+Learning Objectives: 
+After the session, the participants will be able to:
+ •Understand different steps in behaviour change process 
+ •Understand the importance of effective communication for behaviour 
+change.
+Focus will be on :
+1. Increase in knowledge on anemia
+2. Increase in risk perception of anemia
+3. Increase in motivation and self-efficacy for required behaviours to prevent/treat anemia
+4. Increase social support for anemia management.  
+Methodology :
+Case study, discussion (examples and case studies around the three behaviours for target groups for AMB: Children 6-59 months, Children 5-9 years, Adolescent Girls 
+15-19 years, Adolescent Boys 15-19 years, Women of Reproductive Age (WRA), 
+Pregnant Women, Lactating Women)
+The session is divided into four parts
+Part I:  Telling a story using the story cards
+Part II:  Presenting the first chart depicting the seven steps in the behaviour  
+ change process
+Part III:  Sharing of personal experiences in behaviour change first in groups; then  
+ each group shares one experience narrated in the group with the other  
+ groups in the plenary sessions
+Part IV:  Presenting the full chart and discussing each step in the behaviour   
+ change process Focusing on the chance that a person may drop out at  
+ any stage of the change process
+Materials Required:
+ •Story cards
+ •Blackboard and chalk or chart paper and sketch pens
+Anemia Mukt Bharat Training Module49Duration: 30 minutesPart I:  T elling a story using the story cards 
+Using the story cards narrate the following story: Shanta’s Story
+Story card 1: Poonam, the ASHA of Rampur Sub 
+Health Centre (SC), was concerned that a large 
+number of women and adolescents in the block 
+were anemic and many infants were malnourished. 
+She always took the opportunity to motivate them 
+whenever they visited the SC. She ensured that 
+she explained the importance of taking IFA tablets 
+regularly and talking to them about the importance 
+of having an iron rich diet. She also supported 
+other ASHAs in her area to motivate pregnant and 
+lactating women and their families to ensure that 
+IFA tablets are taken as prescribed.
+Story card 2: Shanta, who was about to enter the 
+fourth month of her pregnancy had come to the PHC from a nearby village for her first antenatal 
+check-up. Her husband also accompanied her. 
+After registering the pregnancy and conducting 
+all the necessary check-ups, Pooja the ANM at the 
+PHC explained the need for and benefits of taking 
+one IFA tablet – the red tablet – daily for the next 180 
+days (six months). Shanta said that she understood 
+the benefits of taking IFA tablets regularly but told 
+Poonam that her family, especially her mother-in-
+law, did not trust IFA tablets. Her sister-in-law who 
+had consumed IFA tablets during her pregnancy used to complain of nausea and also passed black 
+coloured stools. She had therefore, discontinued 
+taking IFA tablets. Also, both her mother and her 
+mother-in-law believed that taking IFA tablets may 
+result in the baby developing a dark complexion
+
+Anemia Mukt Bharat Training Module50Story card 3: In a friendly and caring manner, Pooja 
+explained to Shanta that taking IFA tablets regularly 
+was very important to ensure the good health of 
+the mother as well as the baby in the womb. She 
+gave her a strip of IFA tablets and also explained 
+the need to take an iron-rich diet such as green 
+leafy vegetables, whole grains and pulses, nuts and 
+oilseeds along with meat, eggs, liver and fish (if the 
+family consumes non-vegetarian food). She further 
+explained that including vitamin C-rich foods such 
+as lemons, tomatoes, guavas, oranges, amlas and 
+sprouts help in absorption of iron in the body. She cheerfully explained that the benefits of taking IFA 
+tablets were far greater than the few discomforts 
+that one might face initially after consuming the 
+tablets. Shanta assured Pooja that she would try to 
+convince her mother-in-law to let her take the IFA 
+tablets.
+Story card 4: About two weeks later, Pooja 
+visited Shanta’s village as part of the routine 
+supportive supervision provided to ASHAs. During 
+her conversation with Poonam, the village ASHA, 
+about the status of pregnant women in the 
+village, she remembered to check about Shanta. 
+Poonam reported that she had visited Shanta 
+and motivated her to start taking one IFA tablet everyday, preferably at the same time without fail. 
+She also told Pooja that although Shanta was keen 
+to start, she had been hesitant to take IFA tablets 
+and that her visit to Shanta’s place and explanation 
+to Shanta’s mother-in-law of the benefits of taking 
+IFA tablets had helped Shanta to start taking them. 
+Pooja decided to visit Shanta’s house along with 
+Poonam.
+
+Anemia Mukt Bharat Training Module51Story card 5: After exchanging pleasantries 
+with Shanta’s mother-in-law, Pooja and Poonam 
+enquired about Shanta. She complained that Shanta 
+experienced headaches and nausea after she started 
+taking IFA tablets and that she did not want her 
+grandchild to face any problems due to the mother’s 
+condition. She told Pooja and Poonam that Shanta had 
+stopped taking IFA tablets now. While they were talking, 
+Shanta came in offering water to both. She looked very 
+pale and tired.
+Story card 6: Together, Pooja and Poonam explained 
+the benefits of IFA tablets once again and the grave 
+dangers that it protected both mother and child 
+from. They gave examples of their own pregnancies 
+and how they had faced the same problems while 
+taking IFA tablets and that after some time they had 
+become used to them. The side effects of the tablets 
+also reduced in some time. Poonam was carrying a set 
+of dialogue cards that she used effectively to explain 
+why taking IFA tablets regularly along with an iron and vitamin C-rich diet (which includes dark green leafy 
+vegetables, locally produced fruits and vegetables like 
+pumpkin, papaya, orange, lemon and guavas) was very 
+important for the health of the mother and the baby. 
+Story card 7: Thereafter, Pooja and Poonam decided to 
+meet Shanta’s husband Ramlal who ran a small grocery 
+shop nearby. They went to meet him with the village 
+Pradhan whose daughter-in-law had recently delivered 
+a healthy baby in the PHC. They patiently explained 
+all the benefits of regular IFA tablet consumption to Shanta’s husband and requested him to ensure 
+Shanta took the tablets regularly. They also explained 
+that an anemic person may feel lethargic, experience 
+breathlessness, giddiness or weakness and get tired 
+easily. The village Pradhan helped in motivating Shanta’s 
+husband by narrating how his daughter-in-law and the 
+newborn were both healthy because they had followed 
+all the advice given by the ASHA and ANM didis. Poonam 
+also requested Ramlal to bring Shanta to the PHC for her 
+next ANC check-up which was due after two months.
+
+Anemia Mukt Bharat Training Module52Story card 8: During the next visit, both Ramlal and 
+his mother accompanied Shanta to the PHC where 
+along with other check-ups, Pooja also checked 
+Shanta’s haemoglobin levels. The results were 
+satisfactory. This was a result of Shanta taking her 
+daily dose of IFA tablets without fail. Now her family 
+also supported her in ensuring she took an iron-rich 
+diet along with daily IFA supplementation.
+Story card 9: Shanta delivered a healthy child at 
+the PHC after a few months. All the steps related to 
+healthy delivery such as delayed cord clamping 
+and early initiation of breastfeeding were ensured 
+by the medical team attending to Shanta. Pooja, as a capable team member, counselled Shanta and 
+her family members on continuing consumption of 
+IFA tablets for another 180 days (six months) as it is 
+equally important for lactating mothers to take IFA 
+tablets as it is for pregnant women. Not only does 
+Shanta take her IFA tablets regularly but she also 
+motivates other pregnant women and lactating 
+mothers in her village to take IFA tablets without fail 
+during pregnancy and lactation.
+Once you have completed narrating the story, ask the following questions:
+1. What did you think of the story? Do you find families like Shanta’s 
+who are reluctant to follow your advice?
+2. How did Pooja handle the case? Did she try to find out the reasons 
+for Shanta’s mother-in-law not supporting consumption of IFA 
+tablets? Did Shanta’s family accept her advice?
+3. How did Pooja finally convince the family and win Shanta’s support in 
+promoting health care? 
+4. What is it that Pooja could have done better? (Like counselling the 
+family regarding possible side effects of taking IFA tablets) 
+
+Anemia Mukt Bharat Training Module53Once you have completed narrating the story, ask the following questions:Allow sufficient time for participants to reflect and share their views on each of the above questions. 
+Keep asking questions to elicit the following:
+ •During Shanta’s first visit to the PHC, Poonam was able to create an ‘awareness’ as well as a ‘desire’ in Shanta to start taking IFA tablets. But her mother-in-law influenced Shanta and 
+dissuaded her.
+ •When Poonam visited Shanta at her home, she was able to convince Shanta and her mother-
+in-law so that Shanta could start taking IFA tablets. Thus, Poonam was able to get Shanta and 
+her mother-in-law to agree to test the ‘desired’ behaviour change.
+ •But again, the fact that Shanta felt nauseated and experienced headaches and also that they were not fully convinced about the cause, caused Shanta to discontinue taking IFA tablets.
+ •Again, Pooja and Poonam influenced and motivated the family by talking to Shanta’s mother-in-law and taking the village Sarpanch to meet Ramlal, Shanta’s husband and convince him. 
+They were successful in convincing the family to get Shanta to start taking IFA tablets daily .
+ •In this manner, the family realized that it was good to take IFA tablets daily and to follow the 
+advice of the ASHA and ANM. Shanta continued to take IFA tablets daily and started availing 
+other services, thereby ‘sustaining’ the behaviour change.
+ •Finally, Shanta also starting ‘advocating’ for both pregnant women and lactating mothers to take IFA tablets regularly .
+Duration: 30 minutesPart II:  Presenting the first chart depicting the seven steps in 
+behaviour change 
+Leading from the discussions on Shanta’s story in Part I, initiate discussion on the behaviour change process. 
+1
+2
+3
+4567
+The Behaviour  
+Change ProcessDropouts
+Dropouts
+DropoutsDropoutsDropoutsDropouts
+Awareness
+Desire
+Knowledge 
+Skill
+Tries Out RepeatsMaintainSustainStep 1  in the change 
+process is to become 
+AWARE  of the change 
+that needs to take place. 
+Write ‘Aware’ on the board 
+and discuss how Shanta 
+became aware about the 
+fact that taking IFA tablets 
+is beneficial for all women. 
+This awareness could 
+come from a neighbour, 
+a relative or a friend or 
+through the ASHA/AWW 
+or any other functionary 
+(using IEC materials 
+such as dialogue cards, 
+pamphlet or recipe book 
+etc.). It could also be 
+through	the	media	–	
+newspaper, radio or TV . 
+Anemia Mukt Bharat Training Module54Once the same message is heard several times (e.g. every woman and girl should take IFA tablets 
+regularly, every child should be immunised, every child should be in school, institutional deliveries 
+are safest for mother and child, etc.), one develops a DESIRE  to test the change. This is Step 2  of the 
+change process. Write ‘Desire’ on the board as shown in the chart and draw an arrow indicating that 
+awareness leads to a desire for change. 
+Now that one desires the change, one will look at ways to make the change and this could 
+be acquiring a new SKILL  (as in the case of the skill to breastfeed a baby the right way) or 
+KNOWLEDGE  (as in the case of finding out when and where one’s child can be immunized or when 
+an IFA tablet should be taken).
+An enabling environment consists of:
+ •Supportive family, relatives and neighbours.
+ •Functionaries and volunteers and other opinion leaders through their sustained 
+encouragement, through counselling and dialogue and provision of quality services.
+ •The media through repeated supportive messaging in jingles, spots, hoardings and wall 
+paintings.
+Therefore, Step 3  is acquiring the necessary skill or knowledge to make the behaviour change. Write 
+‘Knowledge’ (in Shanta’s case the knowledge was where to get IFA tablets as well as knowing that it 
+had to be taken every day) or ‘Skill’ (as in the case of being able to breastfeed a child the right way) 
+on the board as shown in the chart and draw an arrow to indicate that desire leads to acquiring the 
+necessary knowledge and/or skill to make that change.
+Now that one has acquired the knowledge and/or the skill, Step 4  will be to TRY OUT  that change 
+(e.g. starting to consume IFA tablets as advised by the ASHA or AWW). Write ‘Try out’ on the board 
+as shown in the chart and discuss this as the fourth step in the change process. Individuals analyse 
+the experience of trying out the change behaviour and if the assessment is negative (as in Shanta’s 
+case), the person drops out from the process.
+If it is positive, the tendency is to try it out once again. In other words, REPEAT  the action. This is  
+Step 5  of the cycle. Write ‘Repeat’ on the board as shown in the diagram and discuss the same with 
+the participants.
+If it is negative, like black stools or nausea after taking iron tablets, chances of falling back are high. 
+At this time, the person requires support, solutions, explanations and motivation from the functionary 
+or family to try again and repeat the action.
+If the experience of Step 5 was good, one will tend to repeat the action; in other words, MAINTAIN  
+(Step 6)  the behaviour and soon it becomes a SUSTAINED  (Step 7)  behaviour change or a habit. 
+Write ‘Maintain’ and ‘Sustain’ on the board as in the chart with the arrows linking them and discuss 
+these steps with the participants.
+The behaviour change process is thus completed.
+Anemia Mukt Bharat Training Module55Part III:  Sharing of personal experiences in changing 
+behaviour by participants
+Duration: 30 minutes
+Duration: 30 minutesDivide the participants into groups of six or seven members each. Request each participant to share 
+any one of their personal experiences in changing a health or nutrition related behaviour (encourage 
+them to share any experiences related to adopting behaviours that cure anemia) or acquiring a new 
+behaviour with the other members of their group. Request participants to share their experiences 
+keeping in mind the steps discussed and listed in Part II.
+1
+2
+3
+4567
+The Behaviour  
+Change Process
+DropoutsAwareness
+Discuss benefits  and risks
+DropoutsDropoutsDropouts
+Desire
+Knowledge 
+SkillProvide skill and support
+Motivate, Create supportive environmentDropouts
+DropoutsRepeatsMaintainSustain
+Project, Request to become your advocate
+Motivate, Reinforce, Maintain supportive environmentMotivate, Reinforce, Maintain supportive environment
+Motivate, Maintain supportive environment, Handling of problemsTries Out
+Once each member in the group has shared her/his experience, ask each group to select one of the 
+experiences shared within the group and share it with the other groups. One member from the group 
+has to present the experience.
+One member of each group presents one of the experiences from her/his group. They are given five 
+minutes each. Group members should be requested to supplement the presentation by their groups. Part IV: Presentations from groups and discussion
+Anemia Mukt Bharat Training Module56Summarize participants’ experiences in terms of the role played by them at each stage of the change 
+process. This will help them understand how there is a definite role to play at each step.
+Give sufficient time for participants to discuss each question and highlight the key points arising from 
+the discussions.
+Show the earlier diagram of the change process and explain/discuss their role at each step.
+Concluding the Session
+Using the diagram that was drawn in Part II of the session and the discussions from Part III, 
+complete the chart indicating that at any step of the cycle one could drop out from the change 
+process, unless there is someone motivating and ‘facilitating’ the person to make that particular 
+change.
+This is where the Medical Officer (MO)/Staff Nurse/ANM or any other worker should monitor and 
+support the individual to carry on with the change process. We know of many cases where women 
+and adolescent girls drop out after taking IFA tablets for the first few days. If we are to prevent such 
+dropouts, we need to follow up with each family ‘at risk’ of anemia and support them in understanding 
+the need for the changed behaviour. Therefore, it is critical that an ENABLING ENVIRONMENT  is 
+created and sustained to help individuals, families and communities make the desired change. An 
+enabling environment would consist of the following:Once you have completed narrating the story, ask the following questions:
+1. Whether they were aware of the different steps of the change 
+process discussed in Part II while they underwent the change.
+2. Whether any member had tried a changed behaviour and given up at any stage of the process. Allow sufficient time to elicit the fact 
+that people drop out and give up. Discuss what the reasons could 
+be for giving up.
+3. Whether there was someone motivating them or inspiring them to 
+go ahead with each step of the change process. 
+Supportive relatives 
+and neighbours.Functionaries and volunteers and other opinion leaders through their sustained 
+encouragement through counselling 
+and dialoguing and provision of quality 
+services.The media (press, radio, 
+TV etc.) through supportive 
+messaging.
+In conclusion, ask the participants how they found the entire session. Ask them what the major 
+learning outcomes were and whether they were able to relate to the behaviour change process. Tell 
+them that we will be building on the concept further and working on behaviour change.1 2 3
+Anemia Mukt Bharat Training Module57Once you have completed narrating the story, ask the following questions:
+Emphasize that the communicator plays an important role at every step of the change process. 
+In the case of Shanta, the ANM Poonam had first discussed the issue with Shanta at the PHC. 
+When this did not work, she went to her house and spoke to her husband and her mother-in-
+law and convinced them about the importance of taking IFA tablet. When the child missed the 
+second dose, she brought the Sarpanch and two of Ramlal’s friends and convinced the family . 
+Thus, at each stage, we have to be very conscious that the individual or family could drop out 
+and therefore we need to monitor them and ensure that we continue with our efforts to bring 
+about behaviour change with supportive strategies.Tips for the Facilitator
+Anemia Prevention in Children, Adolescent Girls  
+and Women – Diet, IFA, Deworming
+Behaviour Key messages
+Every	child	6–59	months	receives	
+biweekly iron folic acid syrup 
+Children	12–59months	receive	bi-annual	
+deworming	(½	tablet	to	children	12–24	months	and	1	tablet	to	children	24–59	
+months 
+Every	child	5–9	years	is	protected	against	
+anemia with adequate diet diversity, 
+weekly pink iron folic acid supplements 
+and twice yearly deworming•	Anemia is a serious condition and anemic children will become tired, weak and have difficulty studying and doing well in school. Anemia 
+results from a deficiency of iron in the blood. 
+•	Children should eat a variety of foods that include green leafy 
+vegetables, proteins and vitamins and consume IFA supplementation 
+every week to protect against anemia
+•	Intestinal worms can cause anaemia. Every child should be given 
+deworming tablets twice a year  
+•	Caregivers should ensure screening of girls and boys for anemia and seek for treatment as required
+Every	adolescent	(10–19	years)	is	
+protected against anemia with adequate 
+diet diversity, weekly blue iron and folic acid supplementation, twice yearly 
+deworming•	Without adequate iron in the blood, adolescent girls and boys become anaemic and experience tiredness, weakness, lack of appetite and 
+lack of interest in studies
+•	To protect against this, adolescents should eat foods rich in iron and 
+Vitamin C in a diverse diet.
+•	Adolescents should take weekly iron  
+supplementation and six monthly deworming tablets 
+•	Caregivers should screen girls and boys if they are anemic and then begin treatment 
+Every pregnant woman and lactating 
+mother has an adequately diverse diet, 
+takes iron and folic acid supplements daily, takes calcium, deworming and iodized salt•	Anemia is a serious condition and can lead to premature birth, low 
+birth weight babies and even maternal death 
+•	Growth of the child (mental and physical) starts in pregnancy, hence 
+prevent anemia in pregnancy
+•	Pregnant women need more iron. Ensure you consume the IFA 
+tablets daily during pregnancy and for at least six months while your 
+baby is exclusively getting nutrition from you through breastfeeding. 
+•	Pregnant and lactating mothers: take deworming tablets to help 
+prevent anemia
+Every pregnant woman and lactating 
+mother has access to family planning services•	Pregnant and lactating mothers need information and regular, easy supplies of family planning methods to delay the next pregnancy so they can recover from the previous birth
+Every child is protected from malaria through the use of bednets•	Malaria causes anemia, which impairs growth and development 
+•	To prevent malaria, children must sleep under a mosquito net
+•	In malaria endemic areas, all family members must sleep under a mosquito net
+Anemia Mukt Bharat Training Module58Session 2: Communication Activities and How to Use 
+AMB Communication Materials for IPC and Dialogue with Clients
+Duration: 1 hour
+Learning Objectives: 
+At the end of the session, participants will be able to: 
+Plan for communication activities, understand and practice their skills of using the 
+AMB communication package consisting of the following materials for IPC and 
+dialogue with clients:
+1. Set of posters 
+2. Dialogue cards
+3. Pamphlet
+4. Recipe booklet5. Playing cards
+6. 4 Mantra booklet
+7. TVCs	–	Thakaan	Mail, 	Toofan	Mail
+8. Radio	spots	–	 Thakaan	Mail, 	Toofan	
+Mail
+Methodology :
+Demonstration and mock sessions 
+ 
+Materials Required:
+ •Set of posters, dialogue cards, pamphlet, recipe booklet, playing cards, 4 
+Mantras booklets for adolescents, TVCs, radio spots
+ • Handout 2: How to Use AMB Communication Material
+ 
+Process :
+1. Demonstrate how to use the materials and also share the handout on how 
+to use the materials. Answer any questions that the participants may have. 
+2. Then ask 2-3 volunteers to conduct a mock session for using each material. 
+Share the handout on how to use the materials and ask participants to read it. This will take about 15 to 20 minutes. Answer any questions that the participants may 
+have. Prepare a checklist of how these materials can be used on a flip chart.
+Anemia Mukt Bharat Training Module59Handout 2: How to Use AMB Communication Materials
+Audience: Adolescent Girls, Pregnant and Lactating Women,  
+ WRA, Husbands, Fathers, Mother-in-law
+Audience: Adolescents and ParentsHOW TO USE DIALOGUE CARDS
+HOW TO USE BOOKLET •Position the dialogue cards in such a place 
+that a small group can see it. Or, circulate the 
+cards around the group.
+ •Point to the pictures and not to the written content.
+ •Face the audience (for group talks). Move around the room with the dialogue cards if the 
+whole group cannot see them at one time. Try 
+to involve the group.
+ •Ask the audience questions about the 
+illustrations to check their understanding.
+ •If the dialogue card has text, use it as a guide but familiarize yourself with the content beforehand so that you are not dependent on the text.
+ •The dialogue cards 1-13 are common for all target audiences and can be shown to all 
+of them. Dialogue card 14 is for children between 6-59 months, dialogue card 15 is for 
+children between 5-9 years, dialogue card 16 is for adolescents between 10-19 years, 
+dialogue card 17 is for WRA, dialogue card 18 is for pregnant women, and dialogue card 
+19 is for breastfeeding mothers and can be shown specifically to those target audiences or 
+their caregivers, as appropriate. 
+Booklets, like the 4 Mantra booklet for adolescents are designed to 
+reinforce or support information given verbally by the functionary . 
+If used properly, they will strengthen the messages that you give to 
+adolescents. 
+The following are suggestions on how to use booklets (this material 
+can primarily be used by AFHC counsellors):
+ •Go through each page of the booklet with the adolescent. This will give you a chance to show and tell about a problem 
+or practice and answer any questions that the adolescent 
+has.
+ •Point to the pictures and not the text. This will help the adolescent to remember what the illustrations represent.
+ •Assess the adolescent’s reactions. If s/he looks puzzled or worried, then discuss the worries or ask questions. Discussions will help establish a good relationship and build trust between you and the adolescent. A person who has confidence 
+in her/his health service provider will often transfer that confidence to the method or health 
+practice selected.
+ •Give the booklet to the adolescent. Suggest that s/he share it with others, even if the adolescent makes a decision not to adopt the health practice described. 
+
+Anemia Mukt Bharat Training Module60HOW TO USE PLAYING CARDS
+HOW TO USE PAMPHLETBefore you begin the game, read the 
+instructions provided on the box of the 
+playing cards carefully and then conduct 
+the session. The cards can be played with 
+different audiences that are literate and 
+semi-literate. Mix all the cards and distribute 
+them in the audience. All the participants 
+should have an equal number of cards. Then, 
+conduct the session as per the instructions 
+provided on the box.
+The pamphlet can be distributed to community 
+members who visit the facility for them to read 
+at their own pace. The pamphlet provides 
+a detailed description of the causes, signs 
+and symptoms of anemia, its prevention and control and do’s and don’ts. It can be used 
+effectively as an IEC material for people 
+who can read. It can be distributed among 
+community members during PMSMA events 
+and immunization events. It can also be given 
+during home visits after reminding about the 
+information given during a session.The recipe booklet provides information on the 
+various iron-rich recipes that can be prepared 
+such as poha, barfi, laddoos, chaat etc. using 
+locally available ingredients such as spinach, 
+bajra, soya flour, peanuts, jaggery etc. You can 
+share the recipes with women who visit the health 
+facility and engage them in conversations about 
+their cooking preferences. You can inform them 
+that these recipes are easy and the meals are 
+tasty and can be enjoyed by the entire family . You 
+can discuss recipes they like from the booklet and also give them a copy for their own reference. 
+HOME AUGMENTED IRON RICH 
+SNACKS/RECIPES
+HOW TO USE BOOKLET ON HOME-AUGMENTED IRON RICH SNACKS/RECIPES 
+Audience: Literate & Semi-literate Community Members, Adolescents, School Children
+Audience: SHG Women, Literate & Semi-literate WRA
+Audience: Literate Persons
+Anemia Mukt Bharat Training Module61HOW TO USE POSTERSHOW TO USE LEAFLET
+HOW TO USE TVC AND RADIO SPOTSThere are two kinds of posters:
+ •Posters to inform and trigger behaviour (AMB 
+posters	for	different	levels	of 	audiences	–	like	
+caregivers, WRA, pregnant women, lactating women and adolescents)
+ •Posters to educate (Do’s and don’ts poster)
+ •Display posters in places of high visibility in the facility such as in corridors, outside and in 
+the maternity ward, outside and in Adolescent 
+Friendly Health Clinics (AFHCs), at the medical 
+store etc. Think about what the poster is meant 
+to do and what community members will see.
+ •You also can use posters to initiate a discussion with target audiences.
+ •Ask the target audience what they see and what it means to them. If correct, reinforce their understanding positively . If incorrect, improve their understanding in a polite and patient way .The pamphlet can be distributed among clients for individuals to read at their 
+own pace. The pamphlet provides a 
+detailed description of the tips for each 
+target audience regarding diet and IFA 
+intake. It can be used effectively as an 
+IEC material for people who can read. It can be distributed among clients during 
+meetings, festivals and events. It can 
+also be given during home visits after 
+reminding about the information given during a session.
+A series of TVCs and radio spots have 
+been developed for different target 
+audiences as part of the Anemia Mukt 
+Bharat strategy . One such TVC and radio 
+spot is the Thakaan mail, Toofan mail 
+targeted towards adolescents. All the 
+TVCs and radio spots can be downloaded 
+from the Anemia Mukt Bharat website in the following link and relevant TVCs and radio spots can 
+be shown to specific target audiences by facility staff on their smartphones:
+Audience: Literate Persons
+Audience: Literate Persons
+Audience: Everyone
+Anemia Mukt Bharat Training Module62 •This session highlights the importance of using communication aids and aims to help 
+participants to assess their own knowledge of the communication tools that they can use.
+ •The handout should be shared with participants and the questions raised by them, if any, after going through it can be answered. However, the main purpose of the session is for 
+them to practice the use of the communication materials and the organisation of the 
+sessions. Also help them in generating a checklist for correct usage of materials, which 
+will reinforce learning from the handout.Tips for the FacilitatorConcluding the Session
+The greatest advantage of using communication materials is that they help you in keeping your 
+discussions focused on the topic. The conversation remains on target and brief which is the hallmark 
+of good communication.
+SUPPL Y CHAIN MODULE  
+FOR PROGRAMME MANAGERS 
+AND SERVICE PROVIDERS
+4UNIT
+Section 1: Public Health Supply Chain Management  
+ 
+Section 2: IFA Supply Chain process and action plan  
+ 
+Section 3: Roles and Responsibilities of State-District-Block 
+T eam  
+Anemia Mukt Bharat Training Module646 
+inte ventions6 institutional  
+mechanism s6x6x6 
+stra tegyBackground
+Anemia is widespread across most age groups and across all states in the country . As per NFHS-4, 
+every second person in the continuum of care (children-adolescents-women of reproductive age-
+pregnant and lactating women) in the country is anemic. Emerging experience from the field shows 
+that inadequate infrastructure, lack of training of personnel, issues in procurement and distribution 
+of Iron and Folic Acid (IFA), irregular and random supplies to pharmacies at the district and block 
+level and lack of reliable data on distribution and consumption are major hindrances in the entire 
+ecosystem of IFA service delivery . 
+The Anemia Mukt Bharat (AMB) strategy plans to build upon the learning of implementing the 
+National Iron Plus Initiative (NIPI) and Weekly Iron Folic Acid Supplementation (WIFS) programmes. 
+The strategic 6x6x6 intervention proposed under AMB focuses on ensuring services to six target beneficiaries on six interventions via six institutional mechanisms. One of the key institutional 
+mechanisms under the strategy is to strengthen the procurement and supply chain mechanisms. 
+450 million  
+beneficiaries – nearly 
+50% of the country’s 
+population will be 
+reached
+Rationale
+Many of the districts in the country are experiencing chronic shortages in IFA supplies in the last few 
+years. Random distribution of IFA as per availability at the State level, erratic reporting, irregular stock 
+audits, centralized forecast and estimation of supplies, poor knowledge on practice of indents and 
+floating demands have led to an increase in the existing demand-supply gap for IFA. 
+To ensure seamless (upstream and downstream) delivery of IFA at the state level, bottlenecks in IFA 
+procurement, deliveries, quality control, storage, disposal and distribution have to be addressed and a 
+robust system of documentation, monitoring and training of personnel has to be established across 
+key stakeholders [(Ministry of Health and Family Welfare (MoHFW), Ministry of Human Resource 
+Development (MHRD) and Ministry of Women and Child Development (MWCD)] via effective intra and 
+inter-ministerial convergence.
+IFA Supply Chain Management Manual for Programme Managers and Service Providers is aimed at 
+empowering users to adopt innovative strategies to establish and/or strengthen the existing supply 
+chain management system at the States. It attempts to inform stakeholders about the strategic 
+approach and types of investments needed to move from one stage to the next with the ultimate aim 
+to integrate the existing supply chain management system under the AMB strategy .Fig 1: 6x6x6 Intervention
+Anemia Mukt Bharat Training Module65Purpose of the manual
+The manual is developed for AMB Programme Managers: State, District and Block levels, Drug Store/
+Warehouse Managers and Store Supervisors under Health, Education and ICDS. Pharmacists: 
+District, Block and PHC levels, and Partners involved in defining strategies for strengthening supply 
+chain management activities under the AMB programme. 
+Overall learning objectives :
+ •To understand the pillars and process for effective supply chain 
+management 
+ •To understand the organizational structure and roles and responsibility of personnel involved in the supply chain management process 
+ •To strengthen the information management system as an integral process in the entire supply chain management system
+ •To evolve from the system based on assumptions and speculations, to an 
+informed, responsive and effective supplies and logistics management 
+system
+Methodology adopted :
+ •Power point presentations
+ •Discussion
+ •Calculation simulation
+ •Practice exercise
+ 
+Resources needed (for imparting training) :
+ •Laptop, projector, screen
+ •Charts, marker pens, writing board
+ 
+Sections:
+This manual is divided in three sections:
+1. Public Health Supply Chain Management and Supply Chain Evolution Model
+2. IFA Supply Chain Process and action plan
+3. Roles and Responsibilities of State-District-Block Teams in IFA Supply Chain 
+Management
+Anemia Mukt Bharat Training Module66Session 1: Public Health Supply Chain Management
+Duration: 2 hours
+Key focus of the section: 
+ •To understand processes and people involved in the supply chain 
+management process. 
+ •To understand importance of establishing a chain of events before initiating the supply chain process. 
+ •To evolve from the state of an assumption and speculation based system to a more organized and integrated system of supply chain management. 
+ 
+Duration of the training : 45 mins 
+Learning objectives:
+By the end of the session, the participants should be able to:
+ •Understand the various processes and players involved in the supply chain 
+management network
+ •Assess the status of existing supply chain management and identify ways 
+and measures to strengthen it
+ •Identify ways to increase coordination between stakeholders at every level to ensure timely and adequate supply of IFA to health facilities.
+ 
+Methodology adopted :
+ •PowerPoint presentations 
+Materials Required:
+ •Projector, laptop, screen
+Anemia Mukt Bharat Training Module67What is a public health supply chain?
+A public health supply chain is a network of interconnected organizations, people and processes that 
+ensures the availability of health commodities to the people who need them
+ •Public health supply chain management involves:
+ •Departments and Ministry of Health and Family Welfare (programmes, planning, procurement, drug regulatory boards, human resources, and health programmes) and allied ministries
+ •Central Medical Service Society, State Medical and Infrastructure Corporations
+ •State, Regional and District warehouses
+ •Health facilities, Anganwadi Centers (AWCs) and schools (Service Delivery Points) and 
+Community health workers
+ •Private sector partners, such as third-party logistics providers, drug manufacturers, transport and distributors etc.GOVERNANCE
+TRAININGPlanning 
+and 
+Forecasting 
+estimatesWarehouse 
+and 
+Inventory 
+ManagementIndent ProcurementPROCESSES
+HMIS AND DVDMS
+REVIEW AND SUPERVISIONDistributionEffective Supply Chain Management
+Effective supply chain management structureFig 2: Pillars of Effective Supply Chain Management 
+IFA available at 
+health facilities, 
+schools, AWCs
+Health Facilities, Schools, AWCsDistrict and 
+Block Points 
+are sufficiently 
+supplied
+District and  
+Block Drug  
+store Regional Warehouses 
+are sufficiently 
+supplied
+Regional  
+Drug StoreState/Central 
+Warehouses 
+are adequately 
+procured
+State/Central 
+Drug StoreSelection of manufacturers 
+and suppliers and 
+quantification of products 
+by programme managers 
+and policy makers 
+Suppliers and 
+Manufacturers SUPPLY
+DEMAND
+Anemia Mukt Bharat Training Module68Characteristic of integrated SCM
+Clarity of roles and responsibilities, agility, streamlined process, visibility of information, trust and 
+collaboration, alignment of objectives, robust technology support
+ 5It is critical to ascertain the various players (departments and personnel) and processes involved in the supply chain management system to ensure timely procurement and last mile 
+delivery of supplies 
+ 5To strengthen the existing supply chain management system, identify gaps in planning based on process and structure mentioned above
+ 5Capacity building of the key human resource at every level along with vigilant monitoring and reporting of activities (e-Aushadhi/DVDMS) remains main stay to strengthen linkage and 
+ensure transparency . Points to remember:
+Anemia Mukt Bharat Training Module69Section 2: IFA Supply Chain Process and Action Plan
+Key focus of the section: 
+ •To understand the flow of information/products at each level of the 
+programme management unit
+ •Focus on timeliness of activities and processes to be done in conjunction with allied Departments/Ministries. 
+ •To understand the steps involved in the entire chain of events to ensure IFA supplementation till the last mile
+ •To develop an effective logistic and supply chain action plan and implement 
+the same. 
+ 
+Duration of the training : 1.5 hours 
+Learning objectives:
+By the end of the session, the participants should be able to:
+ •Assess the status of existing supply chain management and identify ways 
+and measures to strengthen it 
+ •Identify ways to increase coordination between stakeholders at every level to 
+ensure timely and adequate supply of IFA to health facilities.
+ 
+Methodology adopted :
+ •PowerPoint presentations
+ •Calculation practice 
+Resources needed (for imparting training) :
+ •Projector, laptop, screen
+ •Charts, marker pen, pens, writing board
+Anemia Mukt Bharat Training Module70STATE-DISTRICT-BLOCK ACTION PLAN FOR IFA SUPPLY CHAIN 
+MANAGEMENT
+Supply chain management: Organogram
+In order to understand the gaps and to address issues in the existing IFA supply chain management, 
+it is imperative to define the internal structure and units involved to ascertain the relationship 
+amongst various departments, levels, teams as well as individuals. Setting up a Supply Chain 
+Management organogram will help improve visibility across the chain of events, define the line of 
+command, flow of authority and information from top to bottom and otherwise.
+VHNDs 
+(pregnant and  
+lactating women)AWCs
+(out of school 
+adolescent girls)Schools (5-9 and 
+10-19 year old 
+adolescents)Block 
+Pharmacy
+PHC, Sub Centre 
+(SC) etc.Block ICDS
+ OfficeBlock Education 
+OfficeState/Central 
+Drug Warehouse
+Supplier/ 
+ManufacturerRegional/  
+Divisional  
+Warehouse
+District 
+WarehouseDistrict CMO, District  
+Programme Officer, Store 
+Manager, District  
+Pharmacist, Data Entry 
+Operator, District Community 
+Mobilizer
+Block MOIC, Block  
+Pharmacist, Block  
+Programme Manager, 
+Community Mobilizer, Block 
+Resource Coordinator, Block 
+ICDS Officer
+ANM, AWW, ASHA 
+and Nodal School 
+Teachers and 
+PrincipalState Programme Nodal  
+Officer, State Procurement 
+Manager, Representative 
+State Medical Corporation, 
+State Inventory/Data  
+Manager Distribution Process                                                  Programme Management UnitFig 4:Flow chart depicting the IFA supply chain management 
+process and programme unit involved 
+Dash lines: Supply of IFA into the system | Solid lines:  Flow of information and supplies | Boxes: Concerned 
+stakeholders at each level | PHC: Primary Health Centre | VHND: Village Health and Nutrition Day |  
+AWC: Anganwadi Centre | ICDS: Integrated Child Development Services | ANM: Auxiliary Nurse Midwife |  
+AWW:  Anganwadi Worker
+Anemia Mukt Bharat Training Module71Plan to ensure regular supply of IFA 
+Defining the roles and responsibility of the programme management unit at each level will help in 
+streamlining the process to estimate requirement, timely procurement and adequate distribution 
+of the product till the last mile. Timely and accurate reporting of stocks and coverage from the Sub 
+Centre till the district level will further aid in estimating requirements and will also help in effective 
+management of the inventory . 
+ • Estimate annual target population (validated with district estimates)
+ • Estimate annual indents (validated with district estimates)
+ • Proposal and approval in Annual State PIPs
+ • Capacity building (Warehouse Manager, Data Entry Operator)
+ • Timely procurement and distribution of supplies
+ • Update stock status in Inventory Management System (DVDMS)
+ • Monitoring, review and supervision
+ • Estimate annual target population 
+ • Develop microplan (identify shortest route map to reach the health facilities, identify 
+delivery vehicle, plan of action in case of stock out or surplus)
+ • Estimate annual indents (IFA Syrup, Pink, Blue and Red)
+ • Capacity building (Block Pharmacist, Data Entry Operator, Block Programme 
+Manager and Community Mobilizer)
+ • Timely distribution of supplies
+ • Coordinate with Block Resource Coordinator and Block ICDS Officer to ensure reach of supplies and reporting formats
+ • Update stock status in HMIS and DVDMS
+ • Estimate annual indents (IFA Red) 
+ • Ensure buffer stock (10% of total indent) before re-order
+ • Maintain stock records (physical and HMIS)
+ • Maintain and update record of distribution of stocks
+ • Schools
+ • Maintain records on stock in hand and stock required (quarterly) 
+ • Update monthly progress report and submit to Block Resource Center or Block PHC/CHC • Estimate annual target population 
+ • Estimate annual indents 
+ • Capacity building (Drugstore Manager, Data Entry Operator, District Programme Manager and Community Mobilizer)
+ • Timely procurement (in case of local purchase) and distribution of supplies
+ • Develop microplan (map supply delivery points, identify shortest route map to reach the 
+blocks, identify delivery vehicle, plan of action in case of stock out or surplus)
+ • Update stock status in Inventory Management System (HMIS and DVDMS)
+ • Stock audit
+ • Monitoring, review and supervision
+Sub  
+Centre 
+Level
+Block 
+Level
+State  
+Level
+District 
+Level
+Anemia Mukt Bharat Training Module72IFA SUPPLY CHAIN PROCESS
+ Step 1:  Planning and forecasting
+The process of calculating target beneficiaries and forecasting supplies for the target population may 
+be made more participatory and inclusive by involving the district in calculating target beneficiaries 
+and involving the block in estimating the requirement of drugs based on population and coverage.
+Objective: To identify missed opportunities and ensure increased supply and coverage of 
+IFA (Red, Pink, Blue and Syrup) for all age groups under AMB via Sub Centres, AWCs and schools.
+Estimating the target population (denominators) is as follows:
+Children (6-59 months) Who:	Nodal	Officer	–	Child	Health 
+Where:  State and District level 
+How:  As per Census 2011 estimations 
+Data Compilation:  District → State
+Children (5-10 years) Who:	Nodal	Officer	–	Child	Health 
+Where:  State and District level 
+How:  As per Census 2011 estimations 
+Data Compilation:  District → State
+Adolescents (10-19 
+years) (in school and out of school)Who:
+	Nodal	Officer	–	 Adolescent	Health 
+Where:  State and District level 
+How:   
+In school:  Number of 10-19 year old enrolled in government and 
+government aided schools  
+Out of school:  Number of 10-19 year old registered at AWCs under ICDS 
+Data Compilation:  District → State
+Pregnant and lactating womenPregnant women:
+ Annual State and District PIP estimations 
+Lactating women: 	HMIS	report	–	Live	births
+Newlywed women and WRAWho:
+	Nodal	Officer	–	Family	Planning 
+Where:  Block and Sub Center level  
+How:  Number of eligible couples registered under Mission Parivar Vikas 
+Yojna* 
+Data Compilation:  Block→District→State
+*= States opting for 100% population of WRA may specify the annual target for deciding on WRA 
+denominator for AMB Dashboard
+  Step 2:   Indent (at the State and district level)
+The process of indent differs between districts and blocks. To streamline the process following 
+actions should be ensured.
+Anemia Mukt Bharat Training Module73Objective: To ensure that at every level of service delivery, an indent plan for IFA Red 
+(pregnant, 	lactating	women	and	WRA	group	–	Mission	Parivar	 Vikas)	and	 Albendazole	for	
+pregnant women, IFA syrup for children aged 6-59 months, IFA Pink for children aged 5-9 
+years, IFA Blue for adolescents aged 10-19 years are available around the year.Estimate annual 
+indents for target population (District and Block) including 
+buffer stock 
+(10%)Consider lead time (external and 
+internal) while 
+placing the indent to avoid delays in procurementCalculate final quantity of indent (for 100 percent target) based on maximum 
+stock required, stock 
+in hand/balance stock* sourced from HMIS data and pipeline stock#.
+1 2 3
+*= Stock available in hand (from the previous cycle) at the time of estimating supplies for next 
+procurement cycle  
+#= Stock expected to reach the warehouse from the supplier before the start of next procurement cycle. 
+S. 
+No.Target BeneficiaryCalculation of  
+Indent (for 100  
+percent target  
+population)Flow of 
+InformationVerification of Information bySource of Information
+1. Children aged 6-59 monthsEstimated IFA syrup bottle (50 
+ml each) supply = 2 x number 
+of children aged 6-59 months + additional 10% as buffer stock*
+Actual Indent = Estimated indent- 
+(stock in hand + pipeline stock)ASHA → ASHA 
+SUPERVISOR → BCM & BPM → DCM& DPM → STATE NODAL 
+OFFICERANM at the 
+Sub CentreLine list from MCTS and ASHA register
+2 Children aged 5-9 yearsIn school
+Estimated IFA tablet supply  = 
+(Number of children aged 5-9 
+years registered in schools x 52 
+tablets) + (52 tablets/teacher/year) + additional 10% as buffer stock*
+Actual Indent = Estimated 
+indent- (stock in hand + pipeline 
+stock)
+Out of schoolEstimated IFA tablet supply  = 
+(Number of children aged 5-9 
+years registered with ICDS x 52 tablets) + (52 tablets/year for each AWW + 52 tablets/year for ASHA) 
++ additional 10% as buffer stock*
+Actual Indent  = Estimated 
+indent- (stock in hand + pipeline 
+stock)SCHOOL NODAL TEACHER→ 
+BLOCK 
+RESOURCE CENTRE → BCM & BPM → DCM 
+& DPM → STATE 
+NODAL OFFICER
+Out of schoolAWW → BLOCK 
+ICDS OFFICER 
+→ BCM & BPM 
+→ DCM & DPM → STATE NODAL OFFICERBlock and District 
+Resource 
+Centre- MoHRD (UDISE)
+Block and 
+District ICDS officer- MoWCDStudents’ (boys and girls) 
+enrolment 
+register for classes 1-5
+Line list at 
+AWC
+Anemia Mukt Bharat Training Module74S. 
+No.Target BeneficiaryCalculation of  
+Indent (for 100  
+percent target  
+population)Flow of 
+InformationVerification of Information bySource of Information
+3 Adolescents aged 10-19 yearsIn school
+Estimated IFA tablet supply  = 
+(52 x total number of children 
+(both girls and boys) in 10-19 years) + (52 tablets/per teacher/year) + additional 10 % as buffer 
+stock*
+Actual Indent = Estimated 
+indent- (stock in hand + pipeline 
+stock)
+Out of school adolescent girls
+Estimated IFA tablet supply  
+= (number of adolescent girls 
+registered with ICDS x 52 tablets) + (52 tablets/year for each AWW 
++ 52 tablets/year for ASHA) + 
+additional 10% as buffer stock*
+Actual Indent  = Estimated 
+indent- (stock in hand + pipeline 
+stock)SCHOOLS 
+→ BLOCK RESOURCE CENTRE → BCM & BPM → DCM 
+& DPM → STATE 
+NODAL OFFICER
+Out of schoolAWW →BLOCK 
+ICDS 
+OFFICER→BCM & BPM→ DCM & DPM→ STATE NODAL OFFICERBlock and District Resource Centre- MoHRD 
+(UDISE)
+Block and 
+District ICDS officer- 
+MoWCDStudents’ (boys 
+and girls) enrolment register for classes 6-12 
+Line list at 
+AWC
+4 Pregnant 
+women and 
+lactating womenConsidering all pregnant women 
+requiring 180 IFA tablets (1 tablet 
+daily) and 50% pregnant women as anemic in India requiring 360 IFA tablets (2 tablets daily) during pregnancy
+Estimated IFA tablet supply  = 
+(half number of PW as per HMIS 
+x 180 tablets) + (half number of PW as per HMIS x 360 tablets) + 
+(number of live birth as per HMIS 
+x 180 tablets) + additional 10% as buffer stock*
+Actual Indent = Estimated 
+indent- (stock in hand + pipeline 
+stock)ANM	→	BPM	→	DPM	→	STATE	NODAL	
+OFFICERBPM and DPM HMIS records
+5 WRA group Estimated IFA tablet supply  
+= (number of eligible couples registered under Mission Parivar Vikas x 52 tablets) + additional 10% as buffer stock*
+Actual Indent  = Estimated 
+indent- (stock in hand + pipeline 
+stock)ANM → BPM → DPM → STATE NODAL OFFICERBPM and DPM Eligible Couple Register at Sub Centre
+Anemia Mukt Bharat Training Module75FOR INSTANCE:  
+1. ESTIMATION OF IFA RED AND ALBENDAZOLE FOR PREGNANT AND 
+LACTATING WOMEN
+IFA Red
+Annually, if there are 10,000 pregnant women registered and 9,000 live births reported under 
+HMIS in a district, the requirement of IFA for pregnant women (considering 50% of them are 
+anemic in the state) and lactating mothers will be as follows:
+A	–	Half	number	of 	pregnant	women	as	per	HMIS*180	tablets	=	5000*180	=	9,00,000
+B	–	Half	number	of 	pregnant	women	as	per	HMIS*360	tablets	=	5000*360	=	18,00,000
+C	–	Number	of 	live	births	as	per	HMIS*180	tablets	=	9,000*180	=	16,20,000
+D	–	10	%	Buffer	stock	=	(9,00,000	+	18,00,000	+	16,20,000)*0.1	=	4,32,000Total Requirement = (A + B + C + D) = (9,00,000 + 18,00,000 + 16,20,000 + 4,32,000) = 
+47,52,000In case if the state has 10,00,000 stock in hand left and 5,00,000 stock in pipe line.  
+The total final requirement will be Total Requirement- (stock in hand+ stock in pipe line)= 47, 52,000-(10,00,000+5,00,000)= 
+32,52,000
+Albendazole for pregnant women
+A	–	Number	of 	registered	pregnancies	as	per	HMIS	=	10,000
+B	–	Number	of 	tablets	required	=	1	per	pregnancy
+Total Requirement = A*B = 10,000*1 =10,000
+Note: Estimation of number of anemic pregnant women may vary from state to state depending on 
+the anemia prevalence as per NFHS-4
+Anemia Mukt Bharat Training Module762. ESTIMATION OF IFA BLUE FOR SCHOOL GOING ADOLESCENTS
+IFA Blue
+Say for an academic year, a district has 10,000 adolescents (10-19 year old girls and boys) 
+registered in school of which 7,000 are boys and 3,000 are girls in the district. The requirement 
+of IFA blue will be as follows:
+In school adolescents (girls and boys)
+Tablets required for prophylactic dose
+A	–	Number	of 	adolescents	in	school	=	10,000*52=	5,20,000
+Tablets required for therapeutic doseB	–	Anemic	adolescent	girls	identified	in	school	(estimated	to	be	50%)	to	be	given	therapeutic	
+dose of two IFA blue tablets once daily for 90 days  (3months)
+Therefore, B = 50% of 3,000 = 1,500 = (1,500*2)*90= 2,70,000C	–	Anemic	adolescent	boys	identified	in	school	(estimated	to	be	29%)	to	be	given	therapeutic	
+dose of two IFA blue tablets once daily for 90 days  (3 months)
+Therefore, C= 29% of 7,000= 2,030= (2,030*2)*90= 3,65,400Note: To avoid overestimation, the buffer stock estimate should be adjusted with the total 
+prophylactic dose required (A) as it includes prophylactic dose estimates for anemic 
+adolescents also. 
+Total requirement= (A+B+C)= 5,20,000+2,70,000+3,65,400= 11,55,400
+In case if the state has 2,00,000 stock in hand left and 1,00,000 stock in pipe line. The 
+total final requirement will be 
+Total Requirement- (stock in hand+ stock in pipe line)= 11,55,400-(2,00,000+1,00,000)= 
+8,55,400
+Note: Estimation of number of anemic adolescent girls and boys may vary from state to state 
+depending on the anemia prevalence as per NFHS-4
+Anemia Mukt Bharat Training Module773. ESTIMATION OF IFA PINK FOR 5-9 YEAR OLD IN SCHOOL AND OUT 
+OF SCHOOL CHILDREN
+IFA Pink
+Say for an academic year, a district has 10,000 children (5-9 year old girls and boys) registered 
+in school of which 7,000 are boys, 3,000 are girls and 200 children are out of school. The 
+requirement of IFA blue will be as follows:
+In school children, 5-9 years old (girls and boys)
+Tablets required for prophylactic dose
+A	–	Number	of 	children	in	school	=	(10,000*52)	=	5,20,000
+Tablets required for therapeutic dose: Anemic 5-9 year old girls and boys identified in school 
+(estimated to be 50%) to be given therapeutic dose of 3 mg iron/kg/day for 2 months. 
+Note: The average weight of 5-9 year old children ranges from 15-20 kgs. Hence, one tab of 45 
+mg iron and 400 mcg folic acid can be given once daily for 60 days (2 months) as therapeutic 
+dose.
+Therefore, B = 50% of 10,000 = 5,000 = (5000*1)*60 = 3,00,000Total requirement for in school children (C)= A+B = 5, 20,000+3,00,000= 8,20,000Note: To avoid overestimation, buffer stock estimate should be adjusted with the total prophylactic 
+dose required (A) as it includes prophylactic dose estimates for anemic children also.
+Out of school children, 5-9 years old (girls and boys)Tablets required for prophylactic doseD	–	Number	of 	out	of	school	children	=	(200*52)	=	10,400
+Tablets required for therapeutic dose: Anemic 5-9 year old out of school girls and boys 
+identified (estimated to be 50%) to be given therapeutic dose of 3 mg iron/kg/day for 2 months.
+Note: The average weight of 5-9 year old children ranges from 15-20 kgs. Hence, one tab of 45 
+mg iron and 400 mcg folic acid can be given once daily for 60 days (2 months) as therapeutic 
+dose.
+Therefore, E = 50% of 200 = 100 = (100*1)*60 = 6,000Total Requirement for out of school children (F) = D+E= 10,400+6000= 16,400
+Total requirement= (C+F)= (8,20,000+16,400) = 8,36,400
+Note: To avoid overestimation, buffer stock estimate should be adjusted with the total prophylactic 
+dose required (A) as it includes prophylactic dose estimates for anemic children also. 
+In case if the state has 2,00,000 stock in hand left and 1,00,000 stock in pipe line. The total 
+final requirement will be  
+Total Requirement- (stock in hand+ stock in pipe line)= 8,36,000-(2,00,000+1,00,000 )= 5,36,000
+Note: Estimation of number of anemic 5-9 year old children may vary from state to state depending 
+on the anemia prevalence as per NFHS-4
+Anemia Mukt Bharat Training Module784. ESTIMATION OF IFA SYRUP (50 ML) FOR 6-59 MONTHS CHILDREN
+i. For 6-12 months children:  Annually if there are 10,000 children aged 6-12 months old in 
+a district and each child has to be given 8-10 doses of IFA syrup per month i.e. 96-120 ml of 
+IFA syrup. It is estimated that each child will require two 50 ml bottles of IFA Syrup bottles as 
+prophylactic doses 
+A. IFA bottles for prophylactic dose:  for 10,000 children aged 6-12 months= (10, 000* 2) = 
+20,000
+B. IFA bottles for therapeutic dose :  Estimating 50% of anemic children aged 6-12 months 
+require 1ml of IFA Syrup/day for 2 monthsTherapeutic requirement of IFA syrup bottles will be = 5000*1 = 5000Total requirement of IFA Syrup bottles for 6-59 months (A+B) = 20,000+5,000= 25000ii. For children 1-3 years:  Annually if there are 10,000 children aged 1-3 years old in a district 
+and each child has to be given 8-10 doses of IFA syrup per month i.e. 96-120 ml of IFA syrup. 
+It is estimated that each child will require two 50 ml bottles of IFA Syrup bottles as prophylactic 
+doses
+C. IFA bottles for prophylactic dose:  for 10,000 children aged 1-3 years= (10, 000* 2) = 
+20,000
+D. IFA bottles for therapeutic dose :  Estimating 50% of anemic 1-3 years old children require 
+1.5ml of IFA Syrup/day for 2 months
+Therapeutic	dosage	of 	IFA	syrup	per	child	=	1.5	x	60	=	90	ml	=	˷	2	IFA	Syrup	bottle
+Therapeutic requirement of IFA syrup bottles for 50% anemic children = 5000X2= 10,000
+Total requirement of IFA Syrup bottles for 1-3 years children (C+D) = 20,000+10,000= 
+30,000
+iii. For children 3-5 years:  Annually if there are 10,000 children aged 3-5 years old in a district 
+and each child has to be given 8-10 doses of IFA syrup per month i.e. 96-120 ml of IFA syrup. 
+It is estimated that each child will require two 50 ml bottles of IFA Syrup bottles as prophylactic 
+doses
+E. IFA bottles for prophylactic dose:  for 10,000 children aged 3-5 years= (10, 000* 2) = 
+20,000
+F. IFA bottles for therapeutic dose : Estimating 50% of anemic 3-5 years old children require 
+2 ml of IFA Syrup/day for 2 months
+Therapeutic	dosage	of 	IFA	syrup	per	child	=	2	x	60	=	120	ml=	˷	2	IFSA	Syrup	bottle
+Therapeutic requirement of IFA syrup bottles for 50% anemic children = 5000X2= 10,000
+Total requirement of IFA Syrup bottles for 1-3 years children (E+F) = 20,000+10,000= 
+30,000
+Note: To avoid overestimation, buffer stock estimate should be adjusted with the total 
+prophylactic dose required as it includes prophylactic dose estimates for anemic children also
+Note: Estimation of number of anemic adolescent girls and boys may vary from state to state 
+depending on the anemia prevalence as per NFHS-4
+Anemia Mukt Bharat Training Module79Programme 
+Officers 
+estimate 
+indents and submit to procurement 
+teamProcurement 
+Committee 
+(PC) reviews 
+requirement and approves quantityState Medical and 
+Infrastructure 
+Corporation releases tender for 
+annual 
+requirements PC evaluates tender and 
+rates and 
+approves RC (minimum 2 years)Annual orders are 
+placed and 
+lead time from time of order to 
+delivery not 
+to be more than 60 daysVendors delivery 
+commodity 
+to state/regional/district 
+warehouseSupplies 
+received at 
+warehouse
+Programme Manager 
+estimates their 
+annual requirementsDistrict Hospital puts 
+together their annual 
+IFA estimation Procurement Committee 
+(PC) reviews requirement 
+and approves quantitySupplies 
+received at 
+warehouseMoHFW receives 
+annual estimation 
+from states 
+(for central procurement)Based on DCGI approval processes 
+for procurement of 
+IFA (new) to CMSSCMSS issues Rate Contract 
+(RC) to 
+shortlisted 
+manufacturers
+ Manufacturers 
+deliver 
+consignment to 
+states
+Blocks put together their requirements (includes PHC and SC) and send to the 
+district 
+PHC and SC put together their 
+requirement and send to the district Supplies received at pharmacy/Sub Centre/SchoolSupplies received at the warehouse
+Supplies received at pharmacy 
+(Education)Supplies 
+received at pharmacy 
+(Health)GOI STATE DISTRICT REGION BLOCK PHC/SC
+Solid lines: Flow of Information Dash: Flow of supplies Dash Dot: States opting for Central procurement Step 3:  Procurement
+Anemia Mukt Bharat Training Module80 Step 4:  Distribution
+Objective: To ensure timely and adequate distribution of supplies till the last mile i.e. Sub 
+Centres, VHNDs and schools.
+i. Before initiating distribution:
+ •Identify the supply delivery facilities and the distribution route
+ •Define the distribution cycle (monthly, quarterly, biannually) and ascertain the 
+quantity of supplies to be distributed to each delivery point (based on the indent request)
+ •Update DVDMS/e-Aushadhi and HMIS to maintain track of supplies (receipt, distribution) and stock-at-hand details respectively
+ii. Identify the stock delivery points receiving supplies:
+ •District/Block drug ware houses and health facilities dispensing products to end users should be identified as stock delivery points
+ •Tracking of monthly consumption of supplies at the stock delivery points should be done
+iii. Tracking of supplies:
+ •Bottom up tracking of supplies at the stock delivery points should be done to estimate consumption. For e.g. Block drug store should track the monthly stock 
+supplied to the health facilities (SC,PHC, Schools, AWC etc.) in its vicinity and 
+district drug store should track the stocks supplied to the block drug stores 
+respectively . 
+iv. Identify facilities:
+The facility list should contain information about each facility (including store houses) in the supply chain. In addition to the facility code and contact person, the list should have 
+the following information for each facility:
+ •Type of facility (for example, State/Regional/District Warehouse, Block 
+Pharmacy, health facility, State/District government office etc.) 
+ •Function of the facility (for example, warehouse, health facility or both) 
+ •List of drugs in stock (IFA Red, Blue, Pink Syrup, Albendazole etc.)
+ •Minimum and maximum months’ worth of stock
+v. Identify product category:
+It is essential to define the category of IFA to be tracked by assigning unique product category codes, specification of the product and the minimum shipment amount from the 
+central supplier. 
+To ensure seamless and smooth functioning of all activities linked with logistics of 
+supply chain management, the following components have to be ensured: 
+ 5Each facility receives products from one—and only one—supply link. 
+ 5Products are distributed only to facilities at the next level in the supply chain. 
+ 5All facilities report on the same software or on traditional reporting formats. 
+ 5Reports are submitted to the linked health facility (PHC, CHC etc.), which can 
+then electronically submit the data to the district or state level.
+Anemia Mukt Bharat Training Module81 Step 5:  Reporting
+The reporting of stock position has to be maintained on a monthly basis in the HMIS. At every level 
+of health facility, entry on the stock position has to be recorded by the concerned service provider/
+programme manager and validated by the officer in-charge. 
+The mechanism for reporting supply distribution and coverage data from schools is depicted in the 
+diagram below:
+BPHC or Block 
+Resource Centre 
+(Education)MPW/Health 
+Supervisor/
+ANMSchool Nodal 
+Teacher
+Fig 4: Solid lines: Flow of supplies Dotted line: Flow of information (coverage data) 5Reporting is relatively complete, timely, and accurate. 
+ 5Facilities report beginning stock levels, receipts, issues and adjustments for each product during each reporting period
+vi. Identify the delivery vehicle:
+Define the capacity of delivery vehicles in the distribution system and decide which vehicle to assign to a particular route in accordance with cargo volume and vehicle capacity .
+vii. Define delivery routes:
+After identifying the delivery vehicle and delivery personnel,
+ •Locate each health facility to ensure last mile delivery within the distribution network. 
+ •Create a distribution network with identified distribution routes, facilities assigned, 
+specified distance and traveling time between each facility in the route and between 
+each facility and distribution center.
+Facility wise historical distribution of supplies data can be obtained by timely and complete 
+data entry in the inventory management system (DVDMS/e-Aushadhi etc.)
+In case of stock-out:
+ •Identify the facility most in need of resupply and request for an indent
+ •Based on the consumption pattern, estimate the actual quantity to be delivered to the 
+facility
+ •Stocks can be deviated to the facility in need from facilities reporting surplus (based 
+on their consumption pattern)
+ •This will maximize the effectiveness of limited delivery resources by scheduling deliveries according to need
+Anemia Mukt Bharat Training Module82
+Where: Sub Center
+Who: ANM
+Source: Physical 
+HMIS formats 
+Frequency: MonthlyWhere: PHC (Block)
+Who: Data Entry 
+Operator
+Source: Physical 
+HMIS formats (SC 
+compiled) and PHC 
+How: Ofﬂine entry 
+in HMIS PHC and SC 
+format
+Frequency: MonthlyWhere:  CHC and 
+SDH
+Who:  Data Entry 
+Operator
+Source:  Physical 
+HMIS formats CHC 
+How:  Offline entry 
+in HMIS CHC and 
+SDH formats
+Frequency:  MonthlyWhere:  District
+Who:  Data Entry 
+Operator
+Source:  Warehouse 
+and Physical HMIS 
+records for District 
+Consolidated 
+Report 
+How:  Offline entry 
+in HMIS portal
+Frequency:  MonthlyWhere:  State
+Who:  Data Entry 
+Operator
+Source:  For District 
+Consolidated 
+Report from all 
+districts
+Frequency:  MonthlyThe process for flow of data in the HMIS is mentioned below:
+The HMIS data elements in which stock status has to be updated are mentioned below.
+HMIS DATA ELEMENTS FOR REPORTING ON STOCKS
+HMIS 19.6 IFA Tablets (Red)
+1. Balance from Previous Month
+2. Stock Received
+3. Unusable Stock
+4. Stock Distributed
+5. Total Stock
+HMIS 19.7 IFA Tablets (Blue) (Adolescent 10-19 years)
+1. Balance from Previous Month
+2. Stock Received
+3. Unusable Stock
+4. Stock Distributed
+5. Total Stock
+HMIS 19.8 IFA Tablets (Pink) (WIFS Junior 5–9 years)
+1. Balance from Previous Month
+2. Stock Received
+3. Unusable Stock
+4. Stock Distributed
+5. Total Stock
+HMIS 19.9 IFA Syrup (Pediatric)
+1. Balance from Previous Month
+2. Stock Received
+3. Unusable Stock
+4. Stock Distributed
+5. Total Stock
+HMIS 
+19.15Albendazole Tablets 400 mg
+1. Balance from Previous Month
+2. Stock Received
+3. Unusable Stock
+4. Stock Distributed
+5. Total Stock
+NEW Percentage of stocks available for Insecticidal Treated Nets (ITNs)
+Anemia Mukt Bharat Training Module83 5Identify the processes and personnel involved at the various level to improve transparency 
+and timely flow of information
+ 5Identify bottlenecks in IFA need forecasting and inconsistent supplies due to delays in supplier deliveries
+ 5Stock delivery point and facility route mapping should be done to ensure timely and adequate distribution of supplies till the last mile
+ 5Indents and supplies at the level of health facility and schools should be fixed to every 
+quarter to ensure feasibility and availability of sufficient stocks around the year 
+ 5Stock in hand and IFA coverage/distribution data should also be considered while estimating annual indents at the block and district level.
+ 5Records on stock received (quantity and quality check), batch number, stock distributed and balance stock should be maintained and made available for raising indents
+ 5Timely and complete monthly reporting of data in terms of coverage and stocks should be 
+uploaded on HMIS portal for effective planning and monitoring.Points to remember:
+Anemia Mukt Bharat Training Module84Session 3: Roles and Responsibilities of State/
+district/block T eam
+Key objective:
+ •To orient the programme management unit on their respective roles and 
+responsibilities in various processes under supply chain management  
+Duration of the training : 30 mins 
+Methodology adopted :
+ •Presentation and discussion (including AMB financial template) 
+Resources needed ( for imparting training) :
+ •Projector, laptop, screenTo establish an effective and efficient Supply Chain Management system, it is critical that the 
+programme management team involved in various processes of the supply chain not only 
+understand their respective roles but also strategically manage supplies across partners, logistics 
+functions and health system levels while monitoring the overall system performance and its 
+individual functions.
+Anemia Mukt Bharat Training Module85Process State Nodal Officer 
+(Child, Adolescent 
+and Maternal Health)State Procurement Manager (NHM Procurement)Manager – Procurement/ Drug Store, Medical Service  
+Infrastructure 
+Corporation  
+Limited (MSICL)State  Data  Entry Operator
+Planning and forecasting estimates »Process for including IFA supplementation 
+with newer 
+specifications in State-EDL
+ »Coordinate with 
+Department of 
+Education and DWCD for annual in school and out of school children 
+estimates for IFA 
+Blue and Pink
+ »Develop an annual estimation for IFA 
+(Red, Blue, Pink 
+and Syrup) and Albendazole
+ »Validate estimations with district targets
+ »Propose estimation in annual PIPs and ensure necessary approvals and funds
+ »Communicate requirement to NHM procurement cell. »Review revised technical specifications
+ »Ensure availability of funds in coordination 
+with programme 
+team »Map availability of suppliers on revised IFA tablet specification 
+and ensure fund 
+approvals for procurement.  »Maintain updated stock records in HMIS 
+and DVDMS 
+ »Share district 
+wise stock status report 
+with concerned 
+programme team for informed decision
+ »Analyse stock status and intimate programme 
+team on patterns 
+in reporting and compilation from districts
+Indent  »Estimation of indents to be done 
+as per calculations 
+mentioned in AMB guidelines
+ »Estimation for consecutive 
+financial year to 
+be completed before initiation of state PIP process (December-January)
+ »Ensure timely submission of indents to procurement division
+ »Solicit regular indents from districts to maintain transparency and accountability . »Share required indent placed 
+by districts 
+(updated in DVDMS or state specific LMIS) with programme 
+team for further 
+action
+ »In concurrence with programme team, ensure 
+timely release 
+of approved quantity of supplies to 
+the concerned 
+district.No specific procedure No specific procedure 
+Roles and responsibilities of personnel involved in AMB Supply Chain 
+Management: State team
+Anemia Mukt Bharat Training Module86Process State Nodal Officer 
+(Child, Adolescent 
+and Maternal Health)State Procurement Manager (NHM Procurement)Manager – Procurement/ Drug Store, Medical Service  
+Infrastructure 
+Corporation  
+Limited (MSICL)State  Data  Entry Operator
+Procurement  »Finalize quantity of supplies to be procured for the 
+state based on 
+distribution pattern, current stock available, stock 
+distributed, pipeline 
+inventory and safety (buffer) stock 
+ »Fix procurement cycle in conjunction 
+with State Medical 
+Service and Infrastructure Corporation Limited 
+in view of storage 
+space and shelf life of the product. »Float the tender for bids and convene 
+meeting with 
+the state procurement committee 
+to finalize 
+(technical and financial) bids
+ »Ensure necessary 
+checks on 
+manufacturers, for example, licenses and 
+regulatory 
+approvals, compliance to quality control measures, 
+quality 
+manufacturing practices etc.
+ »Solicit 
+necessary 
+approvals and issue Rate Contracts 
+ »In conjunction 
+with programme 
+team, decide procurement cycle depending 
+upon storage 
+capacity and stock delivery points within distribution 
+cycle. »Ensure manufacturer 
+compliance to the procurement cycle and 
+lead times
+ »Ensure timely receipt 
+of consignment and dispatch of concerned 
+storage unit/s within the 
+distribution cycle.
+ »Ensure strict adherence to norms and procedures such 
+as delivery time, 
+minimum shelf life, bank guarantee, quality checks etc. mentioned 
+in Rate Contract.
+ »Identify defaulters and 
+ensure appropriate penalty imposed »Update DVDMS or state LMIS with the 
+procurement 
+quantity, batch number, stock received, buffer 
+stock expiry 
+date etc.
+Anemia Mukt Bharat Training Module87Process State Nodal Officer 
+(Child, Adolescent 
+and Maternal Health)State Procurement Manager (NHM Procurement)Manager – Procurement/ Drug Store, Medical Service  
+Infrastructure 
+Corporation  
+Limited (MSICL)State  Data  Entry Operator
+Warehouse and inventory managementCoordinate with district AMB nodal officer to ascertain minimum and 
+maximum stock level 
+to be maintained at district drug warehouse depending upon target 
+beneficiaries and 
+distribution pattern. No specific procedure »Tack orders and systematically locate supplies in relation of 
+receiving, packing and 
+shipping areas
+ »Physical checks of consignment received 
+for quantity, quality 
+compliance, damage, pilferage, batch number, expiry, supplier details etc.
+ »Identify IFA category by assigning unique barcode, color etc.
+ »Identify delivery routes 
+within distribution 
+network and estimated delivery time based on distance in between districts and 
+from district to state 
+warehouse.
+ »Maintain and update Bin card (Tally) system 
+to update order receipt 
+details (batch wise)
+ »Identify delivery vehicle based on cargo volume and vehicle capacity
+ »Follow First-Expiry-First-Out (FEFO) system of inventory control to reduce 
+wastage and expiry
+ »Ensure aisles are 
+clear and supplies are stacked neatly in pre-designed place
+ »Ensure emergency exists and sprinklers are not blocked
+ »Safety expectation to 
+be placed in highly 
+visible locations
+ »Manage expired drugs, damaged materials and their quantification and 
+disposal. »Update DVDMS 
+or state LMIS with the 
+procurement 
+quantity, batch number, stock received, buffer 
+stock expiry 
+date etc.
+Anemia Mukt Bharat Training Module88Process State Nodal Officer 
+(Child, Adolescent 
+and Maternal Health)State Procurement Manager (NHM Procurement)Manager – Procurement/ Drug Store, Medical Service  
+Infrastructure 
+Corporation  
+Limited (MSICL)State  Data  Entry Operator
+Distribution  »Identify stock delivery points within the distribution circle 
+and ascertain the 
+quantity of supplies to be distributed 
+ »Intimate the state 
+warehouse (logistics 
+team) on scheduling deliveries according to the need to prevent stock out or 
+surplus. Follow up with 
+districts to timely update stock 
+receipt status in 
+DVDMS/state specific LMIS after dispatch from state 
+level. »Define minimum 
+shipment size
+ »Track vehicles 
+scheduled for delivery 
+and vehicles completed deliveries
+ »Ensure timely supplies 
+to respective stock 
+delivery point.
+ »Follow up with districts on timely receipt of supplies at the 
+warehouse.
+Reporting Coordinate with 
+district AMB nodal officers to report on monthly progress and 
+quarterly trend on 
+stock distribution and other coverage key performance indicators.Generate quarterly status on stock receipt and distribution within 
+the circle and share 
+with programme nodal officer for further action.No specific activity Follow up with districts to ensure timely data entry on stock 
+position (received, 
+distributed, in-hand) and service coverage in HMIS. (IFA HMIS data 
+elements annexed)
+Review and 
+supervision »Review district wise progress on stock distributed (monthly) 
+and service 
+coverage (quarterly) based on AMB Dashboard Portal
+ »Identify gaps 
+and areas for 
+improvement in service delivery (IFA Red, Pink, Blue, 
+Syrup)
+ »Identify good 
+practices on the ground to improve coverage and explore feasibility for 
+scale up 
+ »Encourage districts 
+to include review of stocks and supply 
+chain status under 
+AMB in monthly review meetings with CMOH and 
+District Collector.No specific 
+activity »Technical assistance to GM procurement on matters related to 
+purchase, storage and 
+distribution of drugs
+ »Convene meeting of district drug/store manager in order to 
+motivate them and 
+harness their skills.Provide handholding support to district 
+data entry operators 
+on queries related to source of data for stock position (balance, received, 
+used, unused and 
+distributed)
+Anemia Mukt Bharat Training Module89Roles and responsibilities of personnel involved in AMB Supply Chain 
+Management: District team
+Process District Programme Team (District 
+Programme Manager and Community Mobilizer)District Drug Manager District Data Entry Operator
+Planning and forecasting 
+estimates »Coordinate with Department of Education and WCD for annual in 
+school and out of school children estimates for IFA Blue and Pink
+ »Develop an annual estimation for IFA (Red, Blue, Pink and Syrup) and 
+Albendazole
+ »Propose estimation in annual district 
+PIPs and ensure necessary approvals and funds
+ »Communicate the requirement to state programme team »Ensure availability of 
+funds in coordination 
+with the programme team »Maintain updated 
+stock records in 
+HMIS and DVDMS 
+ »Share block wise stock status report with concerned 
+programme team 
+for informed decision
+ »Analyse stock 
+status and intimate 
+programme team on patterns in reporting and compilation from 
+blocks
+Indent  »Estimation of indents to be done as per calculations mentioned in AMB 
+guidelines
+ »Estimation for consecutive Financial Year to be completed before initiation 
+of district PIP process (December-
+January)
+ »Ensure timely submission of indent estimates to state programme team
+ »Solicit regular indents from blocks 
+to maintain transparency and 
+accountability . »Share required indent 
+placed by blocks 
+(updated in DVDMS or state specific LMIS) with programme team for 
+further action
+ »In concurrence with 
+programme team, ensure timely release of approved quantity of 
+supplies to concerned 
+district.No specific activity
+Procurement  »Finalize quantity of supplies to be procured for the district based on 
+distribution pattern, current stock 
+available, stock distributed and safety(buffer) stock 
+ »Communicate final quantity of drug to be procured.
+ »Ensure necessary checks on manufacturers for e.g. 
+licenses and regulatory 
+approvals, compliance to quality control measures, quality manufacturing 
+practices etc.
+In case of local purchase 
+ »Assist in floating tender 
+for bids and convene meeting of district procurement committee 
+to finalize (technical and 
+financial) bids
+ »Solicit necessary approvals and issue 
+Rate Contracts
+ »In conjunction with 
+programme team, decide procurement cycle depending upon storage 
+capacity and stock 
+delivery points within distribution cycleUpdate DVDMS or state specific LMIS and HMIS with 
+procurement quantity, 
+batch number, stock received, buffer stock expiry date etc.
+Anemia Mukt Bharat Training Module90Process District Programme Team (District 
+Programme Manager and Community Mobilizer)District Drug Manager District Data Entry Operator
+Warehouse and inventory 
+managementCoordinate with block medical officers to ascertain minimum and maximum stock 
+level to be maintained at block pharmacy depending upon target beneficiaries and distribution pattern.  »Tack orders and 
+systematically locate 
+supplies in relation of receiving, packing and shipping areas
+ »Physical checks of 
+consignment received 
+for quantity, quality compliance, damage, pilferage, batch number, 
+expiry, supplier details 
+etc.
+ »Identify IFA category by assigning unique barcode, color etc.
+ »Identify delivery routes within distribution network and estimated delivery time based on 
+distance in from districts 
+to blocks and within blocks
+ »Maintain and update Bin card (Tally) system 
+to update order receipt 
+details (batch wise)
+ »Identify delivery vehicle based on cargo volume 
+and vehicle capacity
+ »Follow First-Expiry-First-
+Out (FEFO) system of inventory control to reduce wastage and 
+expiry
+ »Ensure aisle are clear 
+and supplies are stacked neatly in the pre-
+designed place. »Update DVDMS and HMIS 
+(monthly) to provide accurate data on inventory position (stock 
+distributed and 
+stock at hand) and consumption to facilitate efficient 
+order and re-order.
+Distribution  »Identify stock delivery points within the distribution circle and ascertain the 
+quantity of supplies to be distributed 
+ »Intimate the district warehouse (logistic team) on scheduling deliveries to blocks according to their need to 
+prevent stock out or surplus. »Follow up with blocks to timely update 
+stock receipt status in DVDMS/state specific LMIS after dispatch from district level
+ »Define minimum shipment size
+ »Track vehicles scheduled for delivery and vehicles completed 
+deliveries
+ »Ensure timely supplies 
+to respective block pharmacy
+ »Follow up with blocks on timely receipt of supplies.No specific activity
+Anemia Mukt Bharat Training Module91Process District Programme Team (District 
+Programme Manager and Community Mobilizer)District Drug Manager District Data Entry Operator
+Reporting  »Coordinate with Block Medical Officers 
+to report on monthly progress and 
+quarterly trend on stock distribution and other coverage key performance indicators. »Generate quarterly 
+status on stock receipt 
+and distribution within the circle and share with District Programme Officer for further action. Follow up with blocks 
+to ensure timely data 
+entry on stock position (received, distributed, in-hand) and service coverage in HMIS.
+(IFA HMIS data 
+elements annexed in reporting section)
+Review and supervision »Review block wise progress on stock distributed (monthly) and service coverage (quarterly) based on HMIS 
+data
+ »Identify gaps and areas for 
+improvement in service delivery (IFA Red, Pink, Blue, Syrup)
+ »Identify good practices on the ground 
+to improve coverage and explore 
+feasibility for scale up
+ »Encourage blocks to include review of stocks and supply chain status under 
+AMB in monthly review meetings with 
+the BMOH.Convene meeting with block pharmacists in order to motivate them and harness 
+their skills.Provide handholding 
+support to block data entry operators 
+on queries related 
+to source of data for stock position (balance, received, used, unused and 
+distributed).
+Anemia Mukt Bharat Training Module92Roles and responsibilities of personnel involved in AMB Supply Chain 
+Management: Block (CHC or Nodal PHC) team
+Process Block Programme Team (Block Programme 
+Manager, Block Community Mobilizer and Block Programme Assistants)Block PharmacistBlock Data Entry Operator
+Planning and forecasting 
+estimates »Coordinate with Block Resource Coordinator and Block ICDS officer for annual in school and out 
+of school children estimates for IFA Blue and Pink
+ »Develop an annual estimation for IFA (Red, Blue, Pink and Syrup) and Albendazole
+ »Propose estimation in annual block PIPs and ensure necessary approvals and funds
+ »Communicate the requirement to district programme team.No specific activity »Maintain updated 
+stock records in 
+HMIS and DVDMS 
+ »Share stock status of PHC area (consolidated) 
+report with 
+the concerned programme team for informed 
+decision
+ »Analyse the stock 
+status and intimate the programme team on patterns 
+in reporting and 
+compilation from the blocks.
+Indent  »Estimation of indents to be done as per calculations mentioned in AMB guidelines
+ »Estimation for the consecutive Financial Year 
+to be completed before initiation of district PIP 
+process (December-January)
+ »Ensure timely submission of indent estimates to the district programme team
+ »Solicit regular indents (consolidated) from the 
+PHC to maintain transparency and accountability . »Share the 
+required indent placed 
+by health 
+facilities (updated in DVDMS or state specific 
+LMIS) with the 
+programme team for further action
+ »In concurrence with the programme team, ensure 
+timely release 
+of approved quantity of supplies to 
+the concerned 
+PHC. No specific procedure 
+Procurement  »Finalize the quantity of supplies to be 
+procured by each PHC on distribution pattern, 
+current stock available, stock distributed and safety(buffer) stock 
+ »Communicate the final quantity of the drug to be 
+procured.No specific procedureUpdate DVDMS or state specific LMIS 
+and HMIS with the procurement quantity, batch number, stock 
+received, buffer stock 
+expiry date etc.
+Warehouse and inventory management
+Coordinate with the PHC medical officer 
+to ascertain minimum and maximum stock 
+level to be maintained at the block pharmacy depending upon the target beneficiaries and 
+distribution pattern.No specific 
+procedureUpdate DVDMS and HMIS (monthly) to 
+provide accurate data 
+on inventory position (stock distributed and stock at hand) and consumption to 
+facilitate efficient order 
+and re-order.
+Anemia Mukt Bharat Training Module93Process Block Programme Team (Block Programme 
+Manager, Block Community Mobilizer and Block Programme Assistants)Block PharmacistBlock Data Entry Operator
+Distribution  »Identify stock delivery points within the 
+distribution circle and ascertain the quantity of 
+supplies to be distributed 
+ »Intimate PHC pharmacist on scheduling deliveries to PHCs according to their need to prevent stock out or surplus.Follow up with 
+PHCs to timely 
+update stock receipt status in DVDMS/state specific LMIS 
+after dispatch 
+from district level.
+Reporting Coordinate with PHC Medical Officers to report on monthly progress and quarterly trend on stock distribution and other coverage key performance indicators based on HMIS dataGenerate quarterly status on stock receipt and distribution 
+within the circle 
+and share with the Block Programme Officer for further 
+action.Follow up with PHCs 
+to ensure timely data entry on stock position (received, distributed, 
+in-hand) and service 
+coverage in HMIS. 
+(IFA HMIS data 
+elements annexed in reporting section)
+Review and 
+supervision »Review PHC wise (consolidated) progress on 
+stock distributed (monthly) and service coverage (quarterly) based on HMIS data
+ »Identify gaps and areas for improvement in service delivery (IFA Red, Pink, Blue, Syrup)
+ »Identify good practices on the ground to improve coverage and explore feasibility for scale up
+ »Encourage the PHC Medical Officer to include review of stocks and supply chain status under 
+AMB in monthly review meetings.No specific procedureProvide handholding 
+support to PHC data entry operators on queries related to source of data 
+for stock position 
+(balance, received, used, unused and distributed).
+ANEMIA MUKT BHARAT 
+DASHBOARD:   
+ONE STOP PORTAL FOR 
+REPORTING, MONITORING  
+AND REVIEW5UNIT
+SESSION 1: Introduction  
+ 
+SESSION 2: Data  
+ 
+SESSION 3: Quarterly Progress Report  
+ SESSION 4: Resources  
+Anemia Mukt Bharat Training Module96Session 1: Introduction
+Duration of the training : 30 minutes 
+Key Focus:
+ •Overall introduction to Anemia Mukt Bharat (AMB) online dashboard and 
+programme.
+ 
+Learning Objective: 
+ •To understand different aspects of the AMB strategy and exposure to 
+different elements of the AMB dashboard
+Methodology :
+ •Presentation 
+Resource:
+ •‘Introduction’ presentation, AMB mobile App in smartphones
+The AMB portal is a one-stop 
+shop of materials developed 
+under the AMB strategy in one 
+place, such as communication resource materials, survey data, 
+targets, State and district-wise 
+denominators, and State and 
+district-wise quarterly progress 
+reports.
+Open dashboard using: https://anemiamuktbharat.info/dashboard/#/AMB Dashboard and Digital Portal – One-stop Shop on Anemia
+Anemia Mukt Bharat Training Module97
+AMB Mobile Application
+Visualizing Six Targets Visualizing Six Eligible Groups of 
+BeneficiariesThe AMB mobile app available in Android and the 
+Apple Play Store has been designed to search for 
+data; easily visualize tables and graphs, create map 
+visualization reports and share them with others via 
+standard sharing options.
+ •Prophylactic Iron and Folic Acid 
+supplementation 
+ •Deworming
+ •Intensified year-round Behaviour Change 
+Communication (BCC) campaign (Solid Body, 
+Smart Mind) including ensuring delayed cord 
+clamping in newborns
+ •Testing of anemia using digital methods and 
+point of care treatment
+ •Mandatory provision of Iron and Folic Acid fortified foods in government-funded health 
+programmes 
+ •Addressing non-nutritional causes of anemia 
+in endemic pockets, with special focus on 
+malaria, haemoglobinopathies and fluorosis
+Visualizing Six Interventions
+Anemia Mukt Bharat Training Module98 •Intra-ministerial coordination
+ •National Anemia Mukt Bharat 
+Unit
+ •National Centre of Excellence and Advanced Research on 
+Anemia Control
+ •Convergence with other 
+Ministries
+ •Strengthening supply chain and logistics
+ •AMB dashboard and digital portal	–	One-stop	shop	on	
+anemiaVisualizing Six Institutional Mechanisms
+Current anemia prevalence and target to be achieved by 2022
+India Target@2022
+
+Anemia Mukt Bharat Training Module99Session 2: Data
+Duration: 1 hour
+Key Focus:
+ •Data mining and analysis
+ 
+Learning Objective: 
+ •To understand the various AMB data elements and their definition.
+Methodology :
+ •Presentation 
+Resource:
+ •AMB dashboard
+Anemia Mukt Bharat Training Module100Sr No Data Element SC PHC CHC SDH DH DHQ
+Part A. REPRODUCTIVE AND CHILD HEALTH                     (HMIS code on respective facility type)
+M1 ANC Detail
+1.2.4Data Element -Number of PW given 180 
+Iron Folic Acid (IFA) tablets1.2.4 1.2.4 1.2.4 1.2.4 1.2.4 NA
+1.2.6Data Element: Number of PW given one Albendazole tablet after 1st trimester1.2.6 1.2.6 1.2.6 1.2.6 1.2.6 NA
+1.4.2Data Element- Number of PW having Hb level<11 (tested cases) (7.1 to 10.9)1.4.2 1.4.2 1.4.2 1.4.2 1.4.2 NA
+1.4.3Data Element- Number of PW having Hb level<7 (tested cases)1.4.3 1.4.3 1.4.3 1.4.3 1.4.3 NA
+1.4.4Data Element- Number of PW having severe anaemia (Hb<7) (treated cases)NA 1.4.4 1.4.4 1.4.4 1.4.4 NA
+M6 Post Natal Care
+6.3Data Element - Number of mothers provided full course of 180 IFA tablets after delivery4.3 6.3 6.3 6.3 6.3 NA
+M9 Child Immunization 6.9 9.9 9.9 NA NA NA
+9.9Data Element-Number of children (6-59 
+months) provided 8-10 doses (1ml) of IFA 
+syrup (Bi weekly) NIPI6.9 9.9 9.9 NA NA NA
+9.10Data Element-Total Number of children (12-59 months) provided Albendazole6.10 9.10 9.10 9.10 9.10 NA
+Part D Monthly Inventory details
+H Stock Position (During the Month)
+M19 Other Items
+19.6 IFA tablets ( Adult) NA NA NA NA NA 3.6
+19.7 IFA - Blue ( Adolescent 10-19 yrs) NA NA NA NA NA 3.7AMB Data Elements Matrix based on HMIS Reporting
+Anemia Mukt Bharat Training Module101Sr No Data Element SC PHC CHC SDH DH DHQ
+19.8 IFA- Pink ( Junior 6-10 yrs) NA NA NA NA NA 3.8
+19.9 Iron and folic acid (IFA) Syrup-Paediatric NA NA NA NA NA 3.9
+19.15 Albendazole tablets 400mg
+Part E Other Programmes
+M22 Adolescent Health
+22.1 Coverage under Weekly Iron and Folic Acid (WIFS) Supplementation Programme
+22.1.1 Number of students (6th -12th class) provided 4 IFA tablets in schools
+22.1.1.aData Element- Girls (6th -12th class) 
+provided 4 IFA tablets in schoolsNA NA NA NA NA 6.1.1.a
+22.1.1.bData Element- Boys (6th -12th class) provided 4 IFA tablets in schoolsNA NA NA NA NA 6.1.1.b
+22.1.2 Number of students (6th -12th class) provided Albendazole in schools
+22.1.2.aData Element- Girls (6th -12th class) provided Albendazole in schoolsNA NA NA NA NA 6.1.2.a
+22.1.2.bData Element- Boys (6th -12th class) provided Albendazole in schoolsNA NA NA NA NA 6.1.2.b
+22.1.3Data Element- Number of out of school 
+adolescent girls (10-19 years) provided 4 
+IFA tablets at Anganwadi CentresNA NA NA NA NA 6.1.3
+22.1.4Data Element- Number of out of school adolescent girls (10-19 years) provided Albendazole at Anganwadi CentresNA NA NA NA NA 6.1.4
+M23Coverage under WIFS JUNIOR (Weekly Iron Folic Acid Supplementation Programme for children 6 - 10 years) - PINK IFA tablet
+23.1Data Element- Number of children covered under WIFS JUNIOR (6 - 10 years ) provided 4-5 IFA tablets in schoolsNA NA NA NA NA 7.1
+23.2Data Element- Number of children (6 - 10 years) provided Albendazole in schoolsNA NA NA NA NA 7.2
+23.3Data Element- Number of out of school 
+children (6-10 years) given 4-5 IFA tablets 
+at Anganwadi CentresNA NA NA NA NA 7.3
+23.4Data Element- Number of out of school children (6-10 years) provided Albendazole at Anganwadi CentresNA NA NA NA NA 7.4
+Anemia Mukt Bharat Training Module102Sr No Data Element SC PHC CHC SDH DH DHQ
+Part A. REPRODUCTIVE AND CHILD HEALTH
+1.2.4Data Element -Number of PW given 
+180 Iron Folic Acid (IFA) tablets1.2.4 1.2.4 1.2.4 1.2.4 1.2.4 NA
+Definition:  Total number of pregnant women who have given 180 IFA tablets (equivalent to 60 mg of 
+elemental iron and 0.5 mg of folic acid per tablet daily) during the re-porting month.
+Guideline:  The number of pregnant women who were given 180 IFA tablets are to be reported and 
+NOT the number of IFA tablets.
+If the number of IFA tablets given to a pregnant woman is less than 180, then she should not be 
+reported till she is given 180th tablet. If more than 180 IFA tablets are given to any pregnant woman, 
+she should be counted when she had received 180 IFA tablet and should not be counted for extra tablets given to her.
+This number should NOT be more than ANC registration. If it is more, then please check that any 
+person other than pregnant women is not included.
+Data Source	–	 Antenatal	Register	/	Pregnancy	Register
+1.2.6Data Element: Number of PW given 
+one Albendazole tablet after 1st 
+trimester1.2.6 1.2.6 1.2.6 1.2.6 1.2.6 NA
+Definition:  Total number of pregnant women who were given one tablet of Albendazole (400 mg) after 
+1st trimester for the reporting month.
+Guideline:  The number of pregnant women who were given one tablet of Albendazole(400 mg) is to be 
+reported and NOT the number of Albendazole tablets  
+(400 mg).
+This number should NOT be more than ANC registration. If it is more, then please check that any 
+person other than pregnant women is not included.
+Data Source	–	 Antenatal	Register	/	Pregnancy	Register
+1.4.2Data Element- Number of PW having 
+Hb level<11 (tested cases) (7.1 to 10.9)1.4.2 1.4.2 1.4.2 1.4.2 1.4.2 NA
+Definition:  Number of pregnant women having Haemoglobin (Hb) less than 11g/dl  
+(7.1 to 10.9 g/dl) during the reporting month.
+Guideline:  Only those cases are to be reported where the Hb was measured by a Hemoglobinometer 
+or any other acceptable laboratory method Examination of eye/nails is not to be reported. Only new 
+cases should be REPORTED.
+Data Source	–	 Antenatal	Register	/	Laboratory	Register
+1.4.3Data Element- Number of PW having 
+Hb level<7 (tested cases)1.4.3 1.4.3 1.4.3 1.4.3 1.4.3 NA
+Definition:  Number of pregnant women tested and found with Haemoglobin (Hb.) less than 7g/dl during 
+the reporting month.
+Guideline:  Only those cases are to be reported where the Hb was measured by a Hemoglobinometer 
+or any other acceptable laboratory method and was found to be less than 7g/dl. Examination of eye/
+nails is not to be reported. ONLY NEW CASES SHOULD BE REPORTED
+Data Source	–	 Antenatal	Register	/	Laboratory	RegisterData Definitions
+Anemia Mukt Bharat Training Module103Sr No Data Element SC PHC CHC SDH DH DHQ
+1.4.4Data Element- Number of PW having 
+severe anaemia (Hb<7) (treated cases)NA 1.4.4 1.4.4 1.4.4 1.4.4 NA
+Definition:  Total number of pregnant women with Haemoglobin (Hb.) less than 7g/dl treated during the 
+reporting month.
+Guideline:  Pregnant woman who has haemoglobin under 7 grams/dl (severe anaemia) and detected 
+at health facilities are to be either treated if there is no provision for treatment it should be referred to a 
+higher facility for treatment.
+Data Source	–	 Antenatal	Register	/	Laboratory	Register
+6.3Data Element - Number of mothers 
+provided full course of 180 IFA tablets after delivery4.3 6.3 6.3 6.3 6.3 NA
+Definition:  Total number of mothers who were given 180 IFA tablets (equivalent to 60 mg of elemental 
+iron and 0.5 mg of folic acid per tablet daily) during the reporting month.
+Guideline:  The number of mothers who were given 180 IFA tablets are to be reported and NOT the 
+number of IFA tablets. If the number of IFA tablets given to a mother is less than 180, then she should 
+not be reported till she is given 180th tablet. If more than 180 IFA tablets are given to any mother, she 
+should be counted when she had received 180 IFA tablets and should not be counted for extra tablets given to her.
+Any person other than woman (who has recently delivered) given IFA tablets should not be counted 
+here.
+Data Source	–Pregnancy	Register/Post-natal	Register
+9.9Data Element-Number of children  
+(6-59 months) provided 8-10 doses 
+(1ml) of IFA syrup  
+(Bi weekly) NIPI6.9 9.9 9.9 NA NA NA
+Definition:  Total number of children, aged 6-59 months, who were given 8-10 doses of IFA syrup during 
+the reporting month.
+Guideline:  As per National Iron Plus Initiative (NIPI), children aged 6-59 months should be given one 
+ml of IFA syrup containing 20 mg of elemental iron and 100 mcg of folic acid biweekly for 100 doses in 
+a year. Those children who were given biweekly dose of IFA syrup for all weeks in the reporting month 
+should be reported.
+Data Source: AMB Reporting format
+9.10Data Element-Total Number of children 
+(12-59 months) provided Albendazole6.10 9.10 9.10 9.10 9.10 NA
+Definition:  Total number of children, aged 12-59 months, who were given Albendazole (400 mg) tablet 
+during the reporting month.
+Guideline:  As per National Iron Plus Initiative (NIPI), children aged 12-59 months should be given 400 
+mg Albendazole tablet.Data Source: AMB Reporting format
+Part D Monthly Inventory details
+HStock Position (During the Month)Balance from Previous month: Balance remaining in the store on last day of the previous month.Stock received:  Stock received from 1st to last day of the reporting month.
+Unusable stock: The stock, which becomes unusable due to any reason during the reporting month. 
+Unusable Stock can occur due to a variety of reasons like breakage, expiry, Wastages etc. and this quantum/number is to be recorded. Recording this is necessary to arrive at the Total Stock in Hand.
+Stock Distributed: Stock distributed to the health facilities in the district during the reporting month.
+Total Stock: Stock balance in the store on the last day of the reporting month.
+Anemia Mukt Bharat Training Module104Sr No Data Element SC PHC CHC SDH DH DHQ
+M19 Other Items
+19.6 IFA tablets (Adult) NA NA NA NA NA 3.6
+19.7 IFA - Blue (Adolescent 10-19 yrs) NA NA NA NA NA 3.7
+19.8 IFA- Pink (Junior 6-10 yrs) NA NA NA NA NA 3.8
+19.9Iron and folic acid (IFA)  
+Syrup-PaediatricNA NA NA NA NA 3.9
+19.15 Albendazole tablets 400mg NA NA NA NA NA 3.15
+Part E Other Programmes
+M22 Adolescent Health
+22.1 Coverage under Weekly Iron and Folic Acid (WIFS) Supplementation Programme
+22.1.1 Number of students (6th -12th class) provided 4 IFA tablets in schools
+22.1.1.aData Element- Girls (6th -12th class) provided 4 IFA tablets in schoolsNA NA NA NA NA 6.1.1.a
+Definition: 	Total	number	of 	girls	(6th	–	12th	class)	consumed	4	IFA	tablets	through	supervised	
+ingestion in schools during the reporting month.
+Guidelines:  Adolescent Girls in Classes 6th to 12th studying in Government, Government Aided or 
+Municipal schools covered under the WIFS Programme who has consumed 4 IFA in the reporting 
+month. The IFA tablets should be given at the Schools and the ingestion of the tablets by the adolescent 
+should be supervised by Teacher.
+Data Source: Format-5, District Monthly Report
+22.1.1.bData Element- Boys (6th -12th class) 
+provided 4 IFA tablets in schoolsNA NA NA NA NA 6.1.1.b
+Definition: 	Total	number	of 	boys	(6th	–	12th	class)	consumed	4	IFA	tablets	through	supervised	
+ingestion in schools during the reporting month.
+Guidelines:  Adolescent Boys in Classes 6th to 12th studying in Government, Government Aided or 
+Municipal schools covered under the WIFS Programme who has consumed 4 IFA in the reporting 
+month. The IFA tablets should be given at the Schools and the ingestion of the tablets by the adolescent 
+should be supervised by Teacher.
+Data Source: Format-5, District Monthly Report
+Anemia Mukt Bharat Training Module105Sr No Data Element SC PHC CHC SDH DH DHQ
+22.1.2 Number of students (6th -12th class) provided Albendazole in schools
+22.1.2.aData Element- Girls (6th -12th class) 
+provided Albendazole in schoolsNA NA NA NA NA 6.1.2.a
+Definition: 	Total	number	of 	girls	(6th	–	12th	class)	consumed	 Albendazole	tablets	through	supervised	
+ingestion in schools during the reporting month.
+Guidelines:  Adolescent Boys in Classes 6th to 12th studying in Government, Government Aided or 
+Municipal schools covered under the WIFS Programme who has consumed Albendazole Tablets in the 
+reporting month. The IFA tablets should be given at the Schools and the ingestion of the tablets by the 
+adolescent should be supervised by Teacher.
+Data Source: Format 5, District Monthly Report
+22.1.2.bData Element- Boys (6th -12th class) 
+provided Albendazole in schoolsNA NA NA NA NA 6.1.2.b
+Definition: 	Total	number	of 	boys	(6th	–	12th	class)	consumed	 Albendazole	tablets	through	supervised	
+ingestion in schools during the reporting month.
+Guidelines:  Adolescent Boys in Classes 6th to 12th studying in Government, Government Aided or 
+Municipal schools covered under the WIFS Programme who has consumed Albendazole Tablets in the 
+reporting month. The IFA tablets should be given at the Schools and the ingestion of the tablets by the 
+adolescent should be supervised by Teacher.
+Data Source: Format 5, District Monthly Report
+22.1.3Data Element- Number of out of 
+school adolescent girls (10-19 years) provided 4 IFA tablets at Anganwadi CentresNA NA NA NA NA 6.1.3
+Definition: Total number of out of school adolescent girls(10-19 years) consumed 4 IFA tablets through 
+supervised ingestion at Anganwadi Centers (AWCs) during the reporting month.
+Guidelines:  Out of School Adolescent Girls (10-19 years of age) who have consumed 4 IFA Tablets in 
+the reporting month. IFA Tablets should be given at Anganwadi Centre and the ingestion of the tablet by 
+the adolescent girl should be supervised by Anganwadi Worker.
+Data Source: Format-5, District Monthly Report
+Data Element- Number of out of 
+school adolescent girls (10-19 years) provided Albendazole at Anganwadi CentresNA NA NA NA NA 6.1.4
+22.1.4Definition: Total number of out of school adolescent girls (10-19 years) consumed Albendazole tablets 
+through supervised ingestion at Anganwadi Centers (AWCs) during the reporting month.
+Guidelines:  Out of School Adolescent Girls (10-19 years of age) who have consumed Albendazole 
+Tablets in the reporting month. Albendazole tablet should be given at Anganwadi Centre and the 
+ingestion of the tablet by the adolescent girl should be supervised by Anganwadi Worker.
+Data Source: Format 5, District Monthly Report
+M23Coverage under WIFS JUNIOR (Weekly Iron Folic Acid Supplementation Programme for children 
+6 - 10 years) - 
+PINK IFA tablet
+Anemia Mukt Bharat Training Module106Sr No Data Element SC PHC CHC SDH DH DHQ
+23.1Data Element- Number of children 
+covered under WIFS JUNIOR (6 - 10 years ) provided 4-5 IFA tablets in schoolsNA NA NA NA NA 7.1
+Definition: Total number of children in classes 1st to 5th in a specified reporting school who have 
+received minimum four sugar-coated pink colored Iron-folic acid tablets during the reporting month 
+under the NIPI Weekly Iron Folic Acid Supplementation junior (WIFS junior) programmer.
+Data Source –Monthly WIFS junior report
+Data Element- Number of children 
+(6 - 10 years) provided Albendazole in 
+schoolsNA NA NA NA NA 7.2
+23.2Definition: Number of children aged 6-10 years are administered Albendazole tablets in government-
+government aided schools and private schools.
+Data Source –Coverage report of National Deworming Day
+Data Element- Number of out of 
+school children (6-10 years) given 4-5 IFA tablets at Anganwadi CentresNA NA NA NA NA 7.3
+23.3Definition: Total number of out-of-school children aged 5 to 10 years in a specified reporting AWC who 
+have received minimum four sugar-coated pink colored Iron-folic acid tablets during the reporting month under the NIPI Weekly Iron Folic Acid Supplementation junior (WIFS junior) programmer.
+Data Source –Monthly WIFS junior report
+23.4Data Element- Number of out of 
+school children (6-10 years) provided Albendazole at Anganwadi CentresNA NA NA NA NA 7.4
+Definition: Number of out of school children aged 6-10 years are administered Albendazole tablets in 
+Anganwadi centers
+Data Source –Coverage report of National Deworming Day
+(Type of Formats SC-Sub Centre, PHC-Primary Health Centre, CHC-Cummunity Health Centre, SDH-Sub 
+District Hospital, DH-District Hospital, DHQ-District Head Quarter
+Denominator
+“The denominators are the target beneficiary numbers across each age group of AMB. These 
+denominators are estimations (based on Census 2011 data) and reported programme targets. 
+The denominators for each of these target groups are fixed for the FY and no edits of the data are 
+allowed in the back end.”
+
+Anemia Mukt Bharat Training Module107Process of Coverage Data Updated in AMB Dashboard
+Data is being uploaded quarterly on the AMB portal. Each quarter is defined as Q1 (April to June), 
+Q2 (July to September), Q3 (October to December) and 
+Q4 (January to March). The used numerators are from 
+the HMIS Standard report generated from the HMIS 
+portal. The HMIS Standard report is downloaded after 
+one and half month completion of each quarter because 
+of reporting done after completion of each month and 
+compiled after 15 days. Thereafter data cleaning to 
+remove non-reporting is performed on downloaded 
+data according to the requirement of the AMB portal. 
+Based on the cleaned data, a Data Entry Sheet (DES) is 
+prepared and uploaded on the AMB portal. The percentage 
+calculation based on the denominator is an automated 
+process performed by pre-defined jobs. Thus the computed 
+percentage data is shown on the AMB portal.Prepare
+Data Entry
+Sheet
+(DES)
+Download
+Standard
+Reports from
+HMIS PortalData
+Cleaning &
+State wise
+Segregation
+for AMB
+ElementsUpload
+DES on
+AMB
+Portal
+ 5HMIS 9.9: Children provided 8-10 doses (1ml) of Iron and Folic Acid (IFA) syrup (Bi weekly
+ 5HMIS 23.1+23.3: Children covered under WIFS JUNIOR provided 4-5 iron and folic acid (IFA) tablets (In schools + out of school)
+ 5HMIS 22.1.1: Percentage of Adolescent (6-12 class) provided 4 IFA tablets in school
+ 5(NEW) Percentage of women of reproductive age (WRA) 20-24 years, provided 4 Iron and Folic Acid (IFA) tablets (Under Mission Parivar Vikas)
+ 5HMIS 1.2.4: Percentage of Pregnant Women given 180 Iron and Folic Acid (IFA) tablets
+ 5Percentage of Stock Availability of IFA Red, Blue, Pink and Syrup.Key Performance Indicator Report
+
+Anemia Mukt Bharat Training Module108Percentage of children 6-59 
+months provided 8-10 doses 
+(1ml) of Iron and Folic Acid 
+(IFA) syrup (Bi weekly)
+India	–	2019.03Key Performance Indicators
+Label and Drop Down
+Dadra & Nagar Havelli
+West Bengal
+Assam
+Gujarat
+Madhya Pradesh
+Andaman & Nicobar Islands
+Andhra Pradesh
+Himachal Pradesh
+Punjab
+Maharashtra
+Puducherry
+Chattisgrah
+Rajasthan
+Tamil Nadu
+Haryana
+Telengana
+Karnataka
+Sikkim
+Jharkhand
+Jammu & Kahmir
+Kerala
+Meghalaya
+Uttar Pradesh
+Daman & Diu
+Mizoram
+Manipur
+Nagaland
+NCT of Delhi
+Uttarakhand
+Lakshadweep
+Goa
+Orissa
+Tripura
+Arunachal Pradesh
+Bihar
+ChandigarhWest Bengal
+HMIS 9.9: Percentage of children 6-59 months 8-10 doses (1ml) of Iron and Folic Acid (IFA) syrup (Bi weekly) Percent : 55.8%
+Label
+The label is prevalence of anemia among 6 focused age groups. The purpose 
+here is to represent the achievable target of reduction in anemia prevalence by one-third of NFHS-4 levels by 2022. These are calculated as 3 percentage points’ reduction per year.
+Using the Label and Drop Down option, you can access Across State and District data in the Left Black box along with its download option.
+Anemia Mukt Bharat Training Module109Session 3: Quarterly Progress Report
+Duration: 45 minutes 
+Key Focus:
+ •Making an effective quarterly progress report
+ 
+Learning Objective: 
+ •To understand the quarterly report formulae and how to monitor the 
+progress of various key indicators.
+Methodology :
+ •Presentation 
+Resource:
+ •Quarterly report format
+Quarterly Progress Reports (QPR) are generated on age-group wise service deliveries and 
+information on distribution of Iron and Folic Acid (IFA) syrup and tablets - Pink, Blue & Red, 
+and Albendazole tablets among the 6 focused age groups. The information is derived on 
+the basis of data updates available from HMIS indicators (Numerator) calculated using the 
+eligible age specific respective denominators for each age group. 
+*The GoI quarter reporting year starts from April and ends in March of the subsequent year 
+(Q1-April to June, Q2-July to September, Q3- October to December and Q4 January to March 
+(of subsequent year)
+
+Anemia Mukt Bharat Training Module110Age Group HMIS Code IndicatorsQuarterly Progress Report Formulae
+Q1 Q2 Q3 Q4
+Children  
+6-59 monthsHMIS 9.9Children 
+6-59 months provided 
+8-10 doses  
+(1 ml) of iron and folic acid (IFA) syrup  (Bi weekly)(respective Q1  
+Numerator)  /3 x 100 
+Target)(respective Q2  
+Numerator)  /6 x 100 (Target)
+(respective  
+Q2 Numerator)  /6 x 100 (Target)(respective Q3 Numerator)  /9 x 100 
+(Target)(respective Q4 
+Numerator)  /12 x 100 
+(Target)
+HMIS 9.1Children 12-59 months 
+provided albendazole(respective Q1 
+Numerator)  
+/3 x 100 (Target)(respective Q2 
+Numerator)  
+/6 x 100 (Target)(respective Q3 
+Numerator) /9 
+x 100 (Target)(respective Q4 
+Numerator) /12 
+x 100 (Target)
+Children  
+5-9 yearsHMIS  
+23.1+23.3Children 
+covered under WIFS 
+JUNIOR 
+(5-9 years) provided 4-5 iron and folic acid (IFA) 
+tablets in 
+schools+out of school
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2 Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100(Target)(respective Q4 Numerator) /12 x 100 (Target)
+HMIS 23.2+23.4Children (5-9 years) 
+provided 
+albendazole in schools+out of school
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2 Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+Adolescents 10-19 yearsHMIS 22.1.1Adolescents (6-12 class) 
+provided 4 
+IFA tablets in schools
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2 Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+HMIS 22.1.1.aGirls (6-12 class) 
+provided 4 
+IFA tablets in schools
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2 Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+Adolescents 10-19 yearsHMIS 
+22.1.1.bBoys (6-
+12 class) provided 4 IFA tablets in schools
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2  Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+HMIS 22.1.2Adolescents  
+(6-12 class) provided albendazole 
+in schools
+(respective Q1 
+Numerator) /3 x 100 (Target)(respective Q2  Numerator)  /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)Quarterly Progress Report Formulae
+Anemia Mukt Bharat Training Module111Age Group HMIS Code IndicatorsQuarterly Progress Report Formulae
+Q1 Q2 Q3 Q4
+Adolescents 
+10-19 yearsHMIS 22.1.2.aGirls (6-
+12 class) 
+provided albendazole in schools(respective Q1 Numerator) /3 x 100 (Target)(respective Q2 Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+HMIS 22.1.2.bBoys (6-12 class) provided albendazole 
+in schools
+(respective Q1 
+Numerator) /3 x 100 (Target)(respective Q2  Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+Adolescents 10-19 yearsHMIS 22.1.3Out of school adolescent girls 10-
+19 years 
+provided 4 iron and folic acid (IFA) 
+tablets at 
+Anganwadi Centres
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2  Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+HMIS 22.1.4Out of 
+school 
+adolescent girls 10-19 years 
+provided 
+albendazole at Anganwadi Centres
+(respective Q1 Numerator) /3 x 100 (Target)(respective Q2  Numerator) /6 x 100 (Target)(respective Q3 Numerator) /9 x 100 (Target)(respective Q4 Numerator) /12 x 100 (Target)
+Pregnant womenHMIS 1.2.4Number of pregnant women (PW) 
+given 180 
+iron and folic acid (IFA) tablets
+respective Q1 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q2 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q3 Numerator x 100 (ANC 
+registered in 
+respective Q)respective  Q4 Numerator  x 100 (ANC 
+registered in 
+respective Q)
+HMIS 1.2.6Number of pregnant 
+women (PW) 
+given one albendazole tablet after 1st trimesterrespective Q1 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q2  Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q3 Numerator x 100 (ANC 
+registered in 
+respective Q)respective Q4 Numerator  x 100 (ANC 
+registered in 
+respective Q)
+Pregnant womenHMIS 1.2.6Number of pregnant women (PW) 
+given one 
+albendazole tablet after 1st trimester respective Q1 Numerator x 100 (ANC 
+registered in 
+respective Q)respective Q2 Numerator x 100 (ANC 
+registered in 
+respective Q)respective Q3 Numerator x 100(ANC 
+registered in 
+respective Q)respective Q4 Numerator  x 100 (ANC 
+registered in 
+respective Q)
+HMIS 1.4.2Number of pregnant women (PW) having Hb level<11 
+(tested 
+cases) (7.1 to 10.9)respective Q1 Numerator x 100 (ANC 
+registered in 
+respective Q)respective Q2 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q3 Numerator x 100 (ANC 
+registered in 
+respective Q)respective Q4 Numerator  x 100 (ANC 
+registered in 
+respective Q)
+Anemia Mukt Bharat Training Module112Pregnant 
+womenHMIS 1.4.3Number of pregnant women 
+having Hb 
+level<7 (tested cases)respective Q1 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q2 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q3 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q4 Numerator  x 100 (ANC 
+registered in 
+respective Q)
+HMIS 1.4.4Pregnant women 
+having 
+severe anaemia (Hb<7) 
+treatedrespective Q1 
+Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q2 Numerator  x 100 (ANC 
+registered in 
+respective Q)respective Q3 Numerator x 100 (ANC 
+registered in 
+respective Q)respective Q4 Numerator  x 100 (ANC 
+registered in 
+respective Q)
+Lactating women 
+0-6 monthsHMIS 6.3Number of 
+mothers 
+provided full 
+course of 180 iron and folic acid 
+(IFA) tablets 
+after deliveryrespective Q1 Numerator  x 100 (No. of 
+live birth/4)respective Q2 
+Numerator  x 100(No. of live 
+birth/4)*2respective Q3 
+Numerator  x 100 (No. of 
+live birth/4)*3respective Q4 
+Numerator  x 100 (No. of 
+live birth)
+Stocks availableHMIS 19.6IFA - Red 
+(Adult)
+respective Q1 Numerator  x 100 (Target 
+/4)respective Q2 
+Numerator  x 100 (Target 
+/4)*2respective Q3 
+Numerator  x 100 (Target 
+/4)*3respective Q4 
+Numerator  x 100 (Target)
+Stocks availableHMIS 19.7IFA - Blue  (10-19 Years Adolescent)
+respective Q1 Numerator  x 100 (Target 
+/4)respective Q2 
+Numerator  x 100 (Target 
+/4)*2respective Q3 
+Numerator  x 100 (Target 
+/4)*3respective Q4 
+Numerator  x 100 (Target)
+HMIS 19.8Iron and folic acid (IFA) tablets - Pink (Junior 6-10 years)respective Q1 Numerator  x 100 (Target 
+/4)respective Q2 
+Numerator x 100 (Target /4)*2respective Q3 Numerator  x 100 (Target 
+/4)*3respective Q4 
+Numerator  x 100 (Target)
+Stocks availableHMIS 19.9Iron and folic acid (IFA) 
+- Syrup- 
+Paediatricrespective Q1 Numerator  
+x 100 (Target 
+/4)respective Q2 Numerator  x 100 (Target 
+/4)*2respective Q3 
+Numerator  x 100 (Target 
+/4)*3respective Q4 
+Numerator  x 100 (Target)
+Stocks 
+availableHMIS 19.15Albendazole 
+tablets- 400 mg respective Q1 Numerator  x 100 (Target /4)respective Q2 Numerator  x 100 (Target /4)*2respective Q3 Numerator  x 100 (Target /4)*3respective Q4 Numerator  x 100 (Target)
+Reporting statusA.1No. of 
+facilities 
+reporting in the quarter
+respective Q1 Numerator  x 100 (Target) respective Q2 Numerator x 100 (Target) respective Q3 Numerator  x 100 (Target) respective Q4 Numerator  x 100 (Target)Age Group HMIS Code IndicatorsQuarterly Progress Report Formulae
+Q1 Q2 Q3 Q4
+Anemia Mukt Bharat Training Module113Session 4: Resources
+Duration: 15-20 minutes 
+Key Focus:
+ •Introduction to available resource materials
+ 
+Learning Objective: 
+ •To learn about different resource materials and how to use them
+Methodology :
+ •Presentation 
+Resource:
+ •Online e-material, to be downloaded before the day of the session
+Available Materials in Resources Section
+ •Communication materials like name slips, badge, poster, docket, brochure 
+etc.
+ •Operational Guidelines in English and Hindi language
+ •Interpersonal communication materials like logo
+ •Social media ads for AMB
+ •Merchandise like banners, shirt cap images, book marks, booth branding, selfie booth etc.
+ •Workshop of 18th September 2018 materials
+Anemia Mukt Bharat Training Module114
+View Your Data
+Raw data for the selected indicator is also available in View your data, using this numerator and 
+given denominator you can calculate your percentage through the portal given directly for use.
+NOTES
+..........................................................................................................................
+............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+..........................................................................................................................
+....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+..........................................................................................................................
+..........................................................................................................................
+SBCC Hub
