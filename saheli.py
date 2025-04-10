@@ -167,7 +167,7 @@ if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
 # -------------------- MAIN CHAT INTERFACE --------------------
-st.write("mention the condition of your patient, and we will help you with the best possible advice")
+st.write("Mention the condition of your patient, and we will help you with the best possible advice based on approved guidelines")
 
 # Display chat messages from history on app rerun
 for message in st.session_state.chat_history:
