@@ -1,11 +1,11 @@
+pip install openpyxl
+pip install sentence-transformers==2.2.2
 google-generativeai
 PyPDF2
 faiss-cpu
 numpy
 torch
-transformers
 huggingface-hub
 accelerate
-sentence-transformers
 streamlit
 pdfplumber 
