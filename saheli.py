@@ -249,5 +249,6 @@ with st.sidebar:
     - Classification by severity
 
 
-    **Step 4: My name is Sabyasachi. Built this with care and love. If you want to donate , UPI ID: sabyasachi.upadhyay4@okicici
+    **Step 4: Kind acknowledgement**
+     - My name is Sabyasachi. Built this with care and love. If you want to donate , UPI ID: sabyasachi.upadhyay4@okicici
     """)
