@@ -247,4 +247,7 @@ with st.sidebar:
     **Step 3: Testing**
     - Hemoglobin estimation
     - Classification by severity
+
+
+    **Step 4: My name is Sabyasachi. Built this with care and love. If you want to donate , UPI ID: sabyasachi.upadhyay4@okicici
     """)
