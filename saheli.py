@@ -167,7 +167,7 @@ if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
 # -------------------- MAIN CHAT INTERFACE --------------------
-st.write("Ask about anemia detection, treatment, and management per Anemia Mukt Bharat guidelines.")
+st.write("mention the condition of your patient, and we will help you with the best possible advice")
 
 # Display chat messages from history on app rerun
 for message in st.session_state.chat_history:
@@ -175,7 +175,7 @@ for message in st.session_state.chat_history:
         st.markdown(message["content"])
 
 # Accept user input
-if prompt := st.chat_input("Your question about anemia in maternal healthcare:"):
+if prompt := st.chat_input("Put the details of your patient here"):
     # Display user message in chat message container
     with st.chat_message("user"):
         st.markdown(prompt)
