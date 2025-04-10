@@ -1,8 +1,6 @@
-pip install --upgrade pip
 streamlit
-torch==1.13.1
-sentence-transformers==2.2.2
-transformers==4.36.2
+torch
+sentence-transformers
 google-generativeai
 pdfplumber
 pandas
