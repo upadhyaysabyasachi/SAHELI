@@ -81,7 +81,7 @@ steps_context = load_excel_steps()
 # -------------------- BUILD VECTOR STORE --------------------
 @st.cache_resource
 def create_embeddings(text_chunks, steps_text):
-    embedder = SentenceTransformer('emilyalsentzer/Bio_ClinicalBERT')
+    embedder = SentenceTransformer('pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb')
     # Create embeddings for PDF chunks
     pdf_embeddings = embedder.encode(text_chunks, convert_to_tensor=True)
     # Create embeddings for Excel steps
