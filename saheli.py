@@ -16,7 +16,7 @@ st.title("🤖 SAHELI: Maternal Healthcare Chatbot for Anemia Detection")
 
 # Configure Gemini API
 #"AIzaSyDJCxJZhceUiN__d1JO_Ha-N2o9v6Sf6Pg"
-genai.configure(api_key="AIzaSyDJCxJZhceUiN__d1JO_Ha-N2o9v6Sf6Pg")
+genai.configure(api_key="AIzaSyDH4qws17AvJht59_SETVEnU_lzPRj7m6E")
 
 @st.cache_resource
 def load_gemini_model():
