@@ -6,17 +6,25 @@ import pdfplumber
 import os
 import pandas as pd
 #from dotenv import load_dotenv
+import time
 
-# Load environment variables
+# -------------------- ENVIRONMENT SETUP --------------------
+# Load environment variables from .env file if it exists
 #load_dotenv()
+
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+
+# Get API key from environment variable
+#api_key = os.environ.get("GEMINI_API_KEY")
+#if not api_key:
+#    api_key = st.secrets.get("GEMINI_API_KEY", None)  # Try getting from Streamlit secrets
 
 # -------------------- CONFIGURATION --------------------
 st.set_page_config(page_title="SAHELI Assistant", layout="wide")
 st.title("🤖 SAHELI: Maternal Healthcare Assistant for Anemia Detection")
 
-# Configure Gemini API
-#"AIzaSyDJCxJZhceUiN__d1JO_Ha-N2o9v6Sf6Pg"
-genai.configure(api_key="AIzaSyDH4qws17AvJht59_SETVEnU_lzPRj7m6E")
+# Configure Gemini API with proper error handling
+
 
 @st.cache_resource
 def load_gemini_model():
