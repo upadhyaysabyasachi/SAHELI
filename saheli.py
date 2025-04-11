@@ -11,8 +11,8 @@ import pandas as pd
 #load_dotenv()
 
 # -------------------- CONFIGURATION --------------------
-st.set_page_config(page_title="SAHELI Chatbot", layout="wide")
-st.title("🤖 SAHELI: Maternal Healthcare Chatbot for Anemia Detection")
+st.set_page_config(page_title="SAHELI Assistant", layout="wide")
+st.title("🤖 SAHELI: Maternal Healthcare Assistant for Anemia Detection")
 
 # Configure Gemini API
 #"AIzaSyDJCxJZhceUiN__d1JO_Ha-N2o9v6Sf6Pg"
