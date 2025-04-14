@@ -1,0 +1,102 @@
+{
+    "Step 1": {
+        "Signs": {
+            "Eyes": {
+                "description": "Pale inner rims of lower eyelid",
+                "response_required": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Tongue": {
+                "description": "Pale",
+                "response_required": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Skin": {
+                "description": "Pale/Whitish",
+                "response_required": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "Palm": {
+                "description": "Pale/Whitish",
+                "response_required": [
+                    "Yes",
+                    "No"
+                ]
+            }
+        },
+        "Next Step Logic": "If any sign is marked as Yes, proceed to Step 3 for Hb assessment."
+    },
+    "Step 3": "Assess haemoglobin using digital Hb meter.",
+    "Step 4": {
+        "Grading and Management": [
+            {
+                "Hb (gm/dl)": ">11",
+                "Grade": "Normal",
+                "Gestation": "After First Trimester",
+                "Action": "Prophylaxis: One tablet of IFA (60 mg Iron, 500 mcg Folic acid)"
+            },
+            {
+                "Hb (gm/dl)": "10 to 10.9",
+                "Grade": "Mild",
+                "Gestation and Conditions": [
+                    {
+                        "Condition": "< 34 weeks & adherence to IFA",
+                        "Action": "Two Tablets of IFA"
+                    },
+                    {
+                        "Condition": "< 34 weeks & poor adherence",
+                        "Action": "Refer to Health Facility for IV Iron sucrose injection"
+                    },
+                    {
+                        "Condition": "> 34 weeks",
+                        "Action": "Refer to Health Facility for IV Iron sucrose injection"
+                    }
+                ]
+            },
+            {
+                "Hb (gm/dl)": "7.0 - 10.0",
+                "Grade": "Moderate",
+                "Gestation and Conditions": [
+                    {
+                        "Condition": "< 34 weeks & adherence to IFA",
+                        "Action": "Two Tablets of IFA"
+                    },
+                    {
+                        "Condition": "< 34 weeks & poor adherence",
+                        "Action": "Refer to Health Facility for IV Iron sucrose injection"
+                    },
+                    {
+                        "Condition": "> 34 weeks",
+                        "Action": "Refer to Health Facility for IV Iron sucrose injection"
+                    }
+                ]
+            },
+            {
+                "Hb (gm/dl)": "< 7",
+                "Grade": "Severe",
+                "Gestation and Conditions": [
+                    {
+                        "Condition": "< 34 weeks",
+                        "Action": "Immediate referral to Health Facility for IV Iron sucrose"
+                    },
+                    {
+                        "Condition": "> 34 weeks",
+                        "Action": "Immediate Hospitalization for Blood Transfusion"
+                    }
+                ]
+            },
+            {
+                "Hb (gm/dl)": "< 5",
+                "Grade": "Very Severe",
+                "Gestation": "Any gestational age",
+                "Action": "Immediate Hospitalization for Blood Transfusion"
+            }
+        ]
+    }
+}
