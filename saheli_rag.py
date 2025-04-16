@@ -185,7 +185,7 @@ for message in st.session_state.chat_history:
         st.markdown(message["content"])
 
 # Accept user input
-if prompt := st.chat_input("Put the details of your patient here"):
+if prompt := st.chat_input("Type 'start' to begin.."):
     # Display user message in chat message container
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -205,11 +205,12 @@ if prompt := st.chat_input("Put the details of your patient here"):
     )
 
     # Enhanced prompt with specialization for anemia
-    full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines.
+    full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines. This will be used
+    by a health worker based out of India for screening, detection and treatment.
 
-    Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
+Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
 
-    **Step 0: Ask whether she is pregnant ?**
+**Step 0: Ask whether she is pregnant ?**
     - If pregnant, then refer to 'Sheet 1' workflow
     - If not pregnant, then refer to 'Sheet 2' workflow 
 
