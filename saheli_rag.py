@@ -209,6 +209,10 @@ if prompt := st.chat_input("Put the details of your patient here"):
 
     Follow this 4-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
 
+    **Step 0: Ask whether she is pregnant ?**
+    - If pregnant, then refer to 'Sheet 1' workflow
+    - If not pregnant, then refer to 'Sheet 2' workflow 
+
 **Step 1: Physical Signs**
 - Check for visible signs of pallor (lower eyelids, tongue, skin, palms), and brittle nails.
 - If any are present, proceed to Step 2.
