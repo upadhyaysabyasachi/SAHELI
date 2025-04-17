@@ -12,7 +12,7 @@ genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 
 # -------------------- CONFIGURATION --------------------
 st.set_page_config(page_title="SAHELI Assistant", layout="wide")
-st.title("🤖 SAHELI: Maternal Healthcare Assistant for Anemia Detection")
+st.title("🤖 SAHELI: Maternal Healthcare Assistant")
 
 @st.cache_resource
 def load_gemini_model():
@@ -36,26 +36,17 @@ def load_chunks(pdf_path):
 chunks = load_chunks('data.pdf')
 
 @st.cache_data
-def load_excel_steps(excel_path='AnaemiaSTP.xlsx'):
+def load_all_excel_steps(excel_path='STP.xlsx'):
     try:
         xls = pd.ExcelFile(excel_path)
-        sheet1_df = pd.read_excel(xls, 'Sheet1', skiprows=1)
-        sheet2_df = pd.read_excel(xls, 'Sheet2', skiprows=1)
-        sheet_df = pd.concat([sheet1_df, sheet2_df], ignore_index=True)
-        return excel_to_text(sheet_df)
+        steps = {}
+        for sheet in xls.sheet_names:
+            df = pd.read_excel(xls, sheet, skiprows=1)
+            steps[sheet] = excel_to_text(df)
+        return steps
     except Exception as e:
-        st.warning(f"Could not load Excel file: {e}. Using default screening steps.")
-        return [
-            "Step 1: Physical signs - Check for pale lower eyelids: If inner eyelids appear pale, this indicates possible anemia",
-            "Step 1: Physical signs - Check for pale tongue: If tongue appears pale, this indicates possible anemia",
-            "Step 1: Physical signs - Check for pale skin: If skin appears pale, this indicates possible anemia",
-            "Step 1: Physical signs - Check for pale palms: If palms appear pale, this indicates possible anemia",
-            "Step 1: Physical signs - Check for brittle nails: If nails are brittle, this indicates possible anemia",
-            "Step 2: Symptoms - Ask about dizziness: If patient reports dizziness, this indicates possible anemia",
-            "Step 2: Symptoms - Ask about unusual tiredness: If patient reports unusual fatigue, this indicates possible anemia",
-            "Step 2: Symptoms - Ask about rapid heart rate: If patient reports heart palpitations, this indicates possible anemia",
-            "Step 2: Symptoms - Ask about shortness of breath: If patient reports difficulty breathing, this indicates possible anemia"
-        ]
+        st.warning(f"Could not load Excel file: {e}")
+        return {}
 
 def excel_to_text(df):
     steps_text = []
@@ -67,109 +58,141 @@ def excel_to_text(df):
             steps_text.append(f"{current_step} - Check {row[1]}: {row[2]}")
     return steps_text
 
-steps_context = load_excel_steps()
+all_steps = load_all_excel_steps()
 
 @st.cache_resource
-def create_embeddings(text_chunks, steps_text):
+def create_embeddings(text_chunks, all_steps):
     embedder = SentenceTransformer('pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb')
     pdf_embeddings = embedder.encode(text_chunks, convert_to_tensor=True)
-    steps_embeddings = embedder.encode(steps_text, convert_to_tensor=True)
-    return embedder, pdf_embeddings, steps_embeddings
+    step_embeddings = {k: embedder.encode(v, convert_to_tensor=True) for k, v in all_steps.items()}
+    return embedder, pdf_embeddings, step_embeddings
 
-embedder, corpus_embeddings, steps_embeddings = create_embeddings(chunks, steps_context)
+embedder, corpus_embeddings, step_embeddings = create_embeddings(chunks, all_steps)
 
-def retrieve_relevant_chunks(query, top_k=5):
-    query_embedding = embedder.encode(query, convert_to_tensor=True)
-    anemia_keywords = ["screening", "signs", "symptoms", "check", "detect", "detection", 
-                       "pale", "diagnosis", "diagnose", "test", "testing", "examine"]
-    pdf_scores = util.pytorch_cos_sim(query_embedding, corpus_embeddings)[0]
-    steps_scores = util.pytorch_cos_sim(query_embedding, steps_embeddings)[0]
-    if any(keyword in query.lower() for keyword in anemia_keywords):
-        steps_top_k = min(top_k, len(steps_context))
-        steps_top_results = torch.topk(steps_scores, k=steps_top_k)
-        steps_results = [steps_context[idx] for idx in steps_top_results[1].tolist()]
-        if steps_top_k < top_k:
-            pdf_top_results = torch.topk(pdf_scores, k=(top_k - steps_top_k))
-            pdf_results = [chunks[idx] for idx in pdf_top_results[1].tolist()]
-            return steps_results + pdf_results
-        return steps_results
-    else:
-        pdf_top_results = torch.topk(pdf_scores, k=min(top_k, len(chunks)))
-        pdf_results = [chunks[idx] for idx in pdf_top_results[1].tolist()]
-        if len(steps_scores) > 0:
-            max_step_score, max_step_idx = torch.max(steps_scores, dim=0)
-            if max_step_score > 0.5:
-                best_step = steps_context[max_step_idx.item()]
-                if len(pdf_results) >= top_k:
-                    pdf_results[-1] = best_step
-                else:
-                    pdf_results.append(best_step)
-        return pdf_results
+# -------------------- PATHWAY SELECTION --------------------
+if 'pathway_selected' not in st.session_state:
+    st.session_state.pathway_selected = False
+if 'selected_condition' not in st.session_state:
+    st.session_state.selected_condition = ""
 
-def build_context(chat_history, retrieved_chunks):
-    screening_steps = []
-    guidelines = []
-    for chunk in retrieved_chunks:
-        if "Step" in chunk and " - Check " in chunk:
-            screening_steps.append(chunk)
-        else:
-            guidelines.append(chunk)
-    screening_text = "\n".join(screening_steps) if screening_steps else ""
-    guidelines_text = "\n\n".join(guidelines) if guidelines else ""
-    history_text = "\n".join([f"User: {q}\nAssistant: {a}" for q, a in chat_history])
-    context = f"{history_text}\n\n"
-    if screening_text:
-        context += f"ANEMIA SCREENING PROTOCOL:\n{screening_text}\n\n"
-    if guidelines_text:
-        context += f"ANEMIA MUKT BHARAT GUIDELINES:\n{guidelines_text}\n\n"
-    return context
-
-# -------------------- STEPWISE INTERACTION --------------------
-stepwise_questions = [
-    "Step 0: Is the woman pregnant or not?",
-    "Step 1: Are there any physical signs of anemia (pale eyelids, palms, tongue, or brittle nails)?",
-    "Step 2: Is the woman experiencing any symptoms (dizziness, tiredness, fast heartbeat, breathlessness)?",
-    "Step 3: What is the hemoglobin value (if known)?",
-    "Step 4: Based on severity and gestation, has any treatment been started?"
-]
-
-if 'step_index' not in st.session_state:
-    st.session_state.step_index = 0
-if 'step_responses' not in st.session_state:
-    st.session_state.step_responses = []
-if 'chat_history' not in st.session_state:
-    st.session_state.chat_history = []
-
-# Display previously entered responses so far
-st.subheader("📝 Collected Observations")
-for step in st.session_state.step_responses:
-    st.markdown(f"- {step}")
-
-# Display next question only if in stepwise phase
-if st.session_state.step_index < len(stepwise_questions):
-    current_question = stepwise_questions[st.session_state.step_index]
-    user_input = st.text_input(current_question, key=f"step_{st.session_state.step_index}")
-
-    if user_input:
-        st.session_state.step_responses.append(f"{current_question} — Response: {user_input}")
-        st.session_state.chat_history.append({"role": "user", "content": user_input})
-        st.session_state.step_index += 1
+if not st.session_state.pathway_selected:
+    condition = st.radio("Which condition are you screening for?", ["Anemia", "Diabetes"])
+    if st.button("Start Screening"):
+        st.session_state.selected_condition = condition
+        st.session_state.pathway_selected = True
         st.experimental_rerun()
-
-# Once all steps are answered
 else:
-    user_summary = "\n".join(st.session_state.step_responses)
-    prompt = "Proceed with anemia diagnosis based on observations."
-    relevant_chunks = retrieve_relevant_chunks(user_summary)
-    context = build_context(
-        [(q["content"], a["content"]) for q, a in zip(
-            st.session_state.chat_history[::2], 
-            st.session_state.chat_history[1::2]
-        ) if a["role"] == "assistant"],
-        relevant_chunks
-    )
+    selected_condition = st.session_state.selected_condition
 
-    full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines.
+    stepwise_questions_map = {
+        "Anemia": [
+            "Step 0: Is the woman pregnant or not?",
+            "Step 1: Are there any physical signs of anemia (pale eyelids, palms, tongue, or brittle nails)?",
+            "Step 2: Is the woman experiencing any symptoms (dizziness, tiredness, fast heartbeat, breathlessness)?",
+            "Step 3: What is the hemoglobin value (if known)?",
+            "Step 4: Based on severity and gestation, has any treatment been started?"
+        ],
+        "Diabetes": [
+            "Step 0: Is the person pregnant or not?",
+            "Step 1: What is the fasting blood glucose level?",
+            "Step 2: What is the postprandial blood glucose level?",
+            "Step 3: Are there any symptoms (increased thirst, urination, fatigue)?",
+            "Step 4: Any medication or insulin being used currently?"
+        ]
+    }
+
+    if 'step_index' not in st.session_state:
+        st.session_state.step_index = 0
+    if 'step_responses' not in st.session_state:
+        st.session_state.step_responses = []
+    if 'chat_history' not in st.session_state:
+        st.session_state.chat_history = []
+
+    stepwise_questions = stepwise_questions_map[selected_condition]
+
+    # Display collected responses
+    st.subheader("📝 Collecting Observations")
+    for step in st.session_state.step_responses:
+        st.markdown(f"- {step}")
+
+    if st.session_state.step_index < len(stepwise_questions):
+        current_question = stepwise_questions[st.session_state.step_index]
+        user_input = st.text_input(current_question, key=f"step_{st.session_state.step_index}")
+
+        if user_input:
+            st.session_state.step_responses.append(f"{current_question} — Response: {user_input}")
+            st.session_state.chat_history.append({"role": "user", "content": user_input})
+            st.session_state.step_index += 1
+            st.experimental_rerun()
+
+    else:
+        user_summary = "\n".join(st.session_state.step_responses)
+        prompt = f"Proceed with {selected_condition.lower()} diagnosis based on observations."
+
+        # Decide which sheets to retrieve from
+        if selected_condition == "Anemia":
+            if "pregnant" in user_summary.lower():
+                steps_key = "Anemia-Pregnant"
+            else:
+                steps_key = "Anemia-NonPregnant"
+        else:  # Diabetes
+            if "pregnant" in user_summary.lower():
+                steps_key = "Diabetes-Pregnant"
+            else:
+                steps_key = "Diabetes-NonPregnant"
+
+        relevant_chunks = all_steps.get(steps_key, [])
+        embeddings = step_embeddings.get(steps_key)
+        if embeddings is not None:
+            query_embedding = embedder.encode(user_summary, convert_to_tensor=True)
+            scores = util.pytorch_cos_sim(query_embedding, embeddings)[0]
+            top_indices = torch.topk(scores, k=min(5, len(relevant_chunks))).indices.tolist()
+            retrieved_chunks = [relevant_chunks[i] for i in top_indices]
+        else:
+            retrieved_chunks = []
+
+        context = "\n".join(retrieved_chunks)
+        full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in {selected_condition.lower()} detection, screening, and follow-up based on national health protocols.
+
+You must:
+1. Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
+2. Follow the structured screening protocol for detection of anemia
+3. Recommend appropriate tests, treatments, and follow-ups based on evidence
+4. Use simple, clear language appropriate for healthcare workers in rural India
+5. Be concise but thorough in your explanations
+6. Never invent symptoms, treatments, or recommendations not supported by the provided context
+       
+Here are the observations:
+{user_summary}
+
+Relevant Guidelines:
+{context}
+
+User: {prompt}
+Assistant:"""
+
+        response = model.generate_content(full_prompt)
+        answer = response.text.strip()
+
+        with st.chat_message("assistant"):
+            st.markdown(answer)
+        st.session_state.chat_history.append({"role": "assistant", "content": answer})
+
+    with st.sidebar:
+        st.header("About SAHELI")
+        st.write(f"""
+        SAHELI helps healthcare workers screen, diagnose, and manage {selected_condition.lower()} in the field using national protocols.
+
+        This tool supports:
+        - Step-by-step screening
+        - Clinical decision support
+        - Treatment planning
+        - Follow-up suggestions
+        """)
+
+
+#sample prompt
+"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines.
      This will be used by a health worker based out of India for screening, detection and treatment.
 
 Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
@@ -204,31 +227,4 @@ You must:
 5. Be concise but thorough in your explanations
 6. Never invent symptoms, treatments, or recommendations not supported by the provided context
 
-Follow the official 5-step procedure:
-
-{user_summary}
-
-Here is relevant context to inform your response:
-{context}
-
-User: {prompt}
-Assistant:"""
-
-    response = model.generate_content(full_prompt)
-    answer = response.text.strip()
-
-    with st.chat_message("assistant"):
-        st.markdown(answer)
-    st.session_state.chat_history.append({"role": "assistant", "content": answer})
-
-with st.sidebar:
-    st.header("About SAHELI Anemia Detection")
-    st.write("""
-    SAHELI helps healthcare workers screen, diagnose, and manage anemia in women according to the Anemia Mukt Bharat (AMB) guidelines.
-
-    This tool supports:
-    - Step-by-step anemia screening protocols
-    - Clinical decision support
-    - Treatment guidelines
-    - Follow-up recommendations
-    """)
+Follow the official 5-step procedure:"""
