@@ -1,0 +1,36 @@
+# Major Comment Enhancements:
+
+## 1. Environment Setup Section
+- Added details about using Streamlit's secrets manager for secure API key storage
+
+## 2. PDF Loading Section
+- Explained the text cleaning process and purpose of chunking the PDF content
+- Clarified why paragraphs are formatted the way they are
+
+## 3. Excel Processing Section
+- Described the purpose of different Excel sheets (condition and pregnancy variations)
+- Explained how tabular data is converted into sequential protocol steps
+
+## 4. Embeddings Section
+- Added information about the specialized biomedical BERT model
+- Clarified why separate embeddings are created for different clinical pathways
+
+## 5. Clinical Assessment Workflow
+- Detailed the step-by-step assessment process based on medical protocols
+- Explained the logic for selecting different pathways based on patient conditions
+
+## 6. Response Generation
+- Described the semantic search process for finding relevant protocols
+- Explained context building and prompt construction for the AI
+
+## 7. Follow-up Support
+- Added details about how follow-up questions maintain context
+- Explained the session reset functionality for new patients
+
+Each comment now provides clear insight into:
+- What the code block does technically
+- Why the approach was chosen
+- How it contributes to the clinical assessment workflow
+- The medical context behind the implementation
+
+The enhanced comments make the code much more understandable to both technical developers and healthcare professionals who may review the application.
