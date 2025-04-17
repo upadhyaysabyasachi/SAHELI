@@ -140,15 +140,23 @@ if 'step_responses' not in st.session_state:
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
+# Display previously entered responses so far
+st.subheader("📝 Collected Observations")
+for step in st.session_state.step_responses:
+    st.markdown(f"- {step}")
+
+# Display next question only if in stepwise phase
 if st.session_state.step_index < len(stepwise_questions):
     current_question = stepwise_questions[st.session_state.step_index]
-    user_input = st.chat_input(current_question)
+    user_input = st.text_input(current_question, key=f"step_{st.session_state.step_index}")
 
     if user_input:
         st.session_state.step_responses.append(f"{current_question} — Response: {user_input}")
-        st.session_state.step_index += 1
         st.session_state.chat_history.append({"role": "user", "content": user_input})
+        st.session_state.step_index += 1
+        st.experimental_rerun()
 
+# Once all steps are answered
 else:
     user_summary = "\n".join(st.session_state.step_responses)
     prompt = "Proceed with anemia diagnosis based on observations."
@@ -162,6 +170,39 @@ else:
     )
 
     full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines.
+     This will be used by a health worker based out of India for screening, detection and treatment.
+
+Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
+
+**Step 0: Ask whether she is pregnant ?**
+    - If pregnant, then refer to 'Sheet 1' workflow
+    - If not pregnant, then refer to 'Sheet 2' workflow 
+
+**Step 1: Physical Signs**
+- Check for visible signs of pallor (lower eyelids, tongue, skin, palms), and brittle nails.
+- If any are present, proceed to Step 2.
+
+**Step 2: Symptoms**
+- Ask about dizziness, fatigue, rapid heartbeat, or shortness of breath.
+- If any symptoms are present (with or without Step 1 signs), proceed to Step 3.
+
+**Step 3: Hemoglobin Testing**
+- Recommend Hb testing using a digital hemoglobinometer.
+- Use the value to classify anemia by severity as per guidelines.
+
+**Step 4: Treatment Action**
+- Based on anemia grading and gestational age, recommend treatment using IFA, IV Iron, or hospital referral.
+- Always align with the trimester-based action plan.
+
+Expose the above steps at the beginning only for the healthcare worker to respond.
+
+You must:
+1. Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
+2. Follow the structured screening protocol for detection of anemia
+3. Recommend appropriate tests, treatments, and follow-ups based on evidence
+4. Use simple, clear language appropriate for healthcare workers in rural India
+5. Be concise but thorough in your explanations
+6. Never invent symptoms, treatments, or recommendations not supported by the provided context
 
 Follow the official 5-step procedure:
 
@@ -184,7 +225,7 @@ with st.sidebar:
     st.header("About SAHELI Anemia Detection")
     st.write("""
     SAHELI helps healthcare workers screen, diagnose, and manage anemia in women according to the Anemia Mukt Bharat (AMB) guidelines.
-    
+
     This tool supports:
     - Step-by-step anemia screening protocols
     - Clinical decision support
