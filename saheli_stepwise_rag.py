@@ -33,10 +33,14 @@ def load_chunks(pdf_path):
                 chunks.append(paragraph)
     return chunks
 
-chunks = load_chunks('data.pdf')
+# Load both PDFs and combine their chunks
+anemia_chunks = load_chunks('data.pdf')
+diabetes_chunks = load_chunks('diabetes.pdf')
+chunks = anemia_chunks + diabetes_chunks
+
 
 @st.cache_data
-def load_all_excel_steps(excel_path='STP.xlsx'):
+def load_all_excel_steps(excel_path='STP_v2.xlsx'):
     try:
         xls = pd.ExcelFile(excel_path)
         steps = {}
@@ -152,7 +156,7 @@ else:
             retrieved_chunks = []
 
         context = "\n".join(retrieved_chunks)
-        full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in {selected_condition.lower()} detection, screening, and follow-up based on national health protocols.
+        full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in {selected_condition.lower()} detection, screening, and follow-up based on national health protocols and attached pdfs added as context.
 
 You must:
 1. Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
@@ -191,40 +195,3 @@ Assistant:"""
         """)
 
 
-#sample prompt
-"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines.
-     This will be used by a health worker based out of India for screening, detection and treatment.
-
-Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
-
-**Step 0: Ask whether she is pregnant ?**
-    - If pregnant, then refer to 'Sheet 1' workflow
-    - If not pregnant, then refer to 'Sheet 2' workflow 
-
-**Step 1: Physical Signs**
-- Check for visible signs of pallor (lower eyelids, tongue, skin, palms), and brittle nails.
-- If any are present, proceed to Step 2.
-
-**Step 2: Symptoms**
-- Ask about dizziness, fatigue, rapid heartbeat, or shortness of breath.
-- If any symptoms are present (with or without Step 1 signs), proceed to Step 3.
-
-**Step 3: Hemoglobin Testing**
-- Recommend Hb testing using a digital hemoglobinometer.
-- Use the value to classify anemia by severity as per guidelines.
-
-**Step 4: Treatment Action**
-- Based on anemia grading and gestational age, recommend treatment using IFA, IV Iron, or hospital referral.
-- Always align with the trimester-based action plan.
-
-Expose the above steps at the beginning only for the healthcare worker to respond.
-
-You must:
-1. Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
-2. Follow the structured screening protocol for detection of anemia
-3. Recommend appropriate tests, treatments, and follow-ups based on evidence
-4. Use simple, clear language appropriate for healthcare workers in rural India
-5. Be concise but thorough in your explanations
-6. Never invent symptoms, treatments, or recommendations not supported by the provided context
-
-Follow the official 5-step procedure:"""
