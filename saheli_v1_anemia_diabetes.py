@@ -4,6 +4,7 @@ import torch
 import google.generativeai as genai
 import pdfplumber
 import pandas as pd
+#from image_gen import text2im
 
 # -------------------- CONFIGURATION --------------------
 genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
@@ -13,8 +14,14 @@ st.title("🤖 SAHELI: Maternal Healthcare Assistant")
 @st.cache_resource
 def load_model():
     return genai.GenerativeModel("gemini-2.5-pro-exp-03-25")
+
 model = load_model()
 
+@st.cache_resource
+def load_image_model():
+    return genai.GenerativeModel("imagegeneration")  
+
+image_model = load_image_model()
 # -------------------- LOAD PDFs --------------------
 @st.cache_data
 def load_chunks(path):
@@ -193,22 +200,18 @@ Assistant:"""
     st.session_state.chat_history.append({"role": "assistant", "content": answer})
 
 if needs_nutrition(prompt):
-        img_prompt = (
-            "A colourful photo-style collage of common iron-rich Indian foods like "
-            "spinach (palak), methi leaves, chana, soya bean, sesame seeds (til), "
-            "amla and citrus fruits, served on a traditional thali plate"
-        )
-        img_resp = model.generate_content(
-            [
-                img_prompt,
-                {
-                    "type": "image_generation",
-                    "size": "512x512"
-                }
-            ]
-        )
-        st.image(img_resp["data"][0]["url"],
-                 caption="Example iron-rich foods")
+    img_prompt = (
+        "A colourful photo-style collage of common iron-rich Indian foods like "
+        "spinach (palak), methi leaves, roasted chana, soyabean, sesame seeds, "
+        "amla and oranges served on a traditional thali plate"
+    )
+
+    try:
+        img_resp   = image_model.generate_image(img_prompt, size="512x512")
+        img_url    = img_resp.images[0].uri          # first image URL
+        st.image(img_url, caption="Example iron-rich foods")
+    except Exception as e:
+        st.warning(f"Image generation failed: {e}")
 
 # -------------------- END SCREENING --------------------
 st.markdown("---")
