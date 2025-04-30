@@ -178,7 +178,7 @@ if st.button("🔁 End Screening"):
         if key in st.session_state:
             del st.session_state[key]
     st.success("✅ Session ended. Ready for a new screening.")
-    st.experimental_rerun()
+    st.rerun()
 
 # -------------------- SIDEBAR --------------------
 with st.sidebar:
