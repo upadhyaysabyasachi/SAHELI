@@ -30,6 +30,13 @@ def load_chunks(path):
 anemia_chunks = load_chunks("data.pdf")
 diabetes_chunks = load_chunks("diabetes.pdf")
 
+nutrition_chunks = load_chunks("icds_operational_guidelines_for_wifs.pdf")  # new PDF
+all_pdf_chunks   = {
+    "anemia"   : anemia_chunks,
+    "diabetes" : diabetes_chunks,
+    "nutrition": nutrition_chunks           # keyed separately
+}
+
 # -------------------- LOAD EXCEL STP --------------------
 @st.cache_data
 def load_steps(path="STP_v2.xlsx"):
@@ -74,9 +81,17 @@ def create_embeddings():
         for key, value in steps_context.items() if value
     }
 
-    return embedder, condition_embeddings, all_steps_embeddings
+    nutrit_embeds  = embedder.encode(nutrition_chunks, convert_to_tensor=True)
+    return embedder, condition_embeddings, all_steps_embeddings, nutrit_embeds
 
-embedder, condition_embeddings, steps_embeddings = create_embeddings()
+embedder, condition_embeddings, steps_embeddings, nutrition_embeds = create_embeddings()
+
+NUTRITION_KEYS = ["diet", "food", "foods", "nutrition", "meal", "menu",
+                  "iron rich", "vitamin c", "wifs", "balanced diet"]
+
+def needs_nutrition(prompt: str) -> bool:
+    p = prompt.lower()
+    return any(k in p for k in NUTRITION_KEYS)
 
 # -------------------- CLASSIFY CONDITION -------------------- based on cosine similarity of query with the respective guidelines of 
 # anemia and diabetes
@@ -97,23 +112,29 @@ def retrieve_relevant_chunks(prompt, selected_condition, top_k=5):
         else "Diabetes-General"
     )
 
-    steps_text = steps_context.get(sheet_key, [])
-    steps_tensor = steps_embeddings.get(sheet_key, None)
-    pdf_chunks = anemia_chunks if selected_condition == "anemia" else diabetes_chunks
+    stp_text   = steps_context.get(sheet_key, [])
+    stp_tensor = steps_embeddings.get(sheet_key)
+
+    stp_hits = []
+    if stp_tensor is not None and stp_text:
+        stp_scores = util.pytorch_cos_sim(query_embedding, stp_tensor)[0]
+        stp_idx    = torch.topk(stp_scores, k=min(top_k, len(stp_text))).indices.tolist()
+        stp_hits   = [stp_text[i] for i in stp_idx]
+
+    pdf_chunks = all_pdf_chunks[selected_condition]
     pdf_tensor = embedder.encode(pdf_chunks, convert_to_tensor=True)
-
-    results = []
-
-    if steps_tensor is not None and steps_text:
-        step_scores = util.pytorch_cos_sim(query_embedding, steps_tensor)[0]
-        top_step_idx = torch.topk(step_scores, k=min(top_k, len(steps_text))).indices.tolist()
-        results += [steps_text[i] for i in top_step_idx]
-
     pdf_scores = util.pytorch_cos_sim(query_embedding, pdf_tensor)[0]
-    top_pdf_idx = torch.topk(pdf_scores, k=min(top_k, len(pdf_chunks))).indices.tolist()
-    results += [pdf_chunks[i] for i in top_pdf_idx]
+    pdf_idx    = torch.topk(pdf_scores, k=min(top_k, len(pdf_chunks))).indices.tolist()
+    pdf_hits   = [pdf_chunks[i] for i in pdf_idx]
 
-    return results
+    # nutrition retrieval if prompt requests it
+    nutrit_hits = []
+    if needs_nutrition(prompt):
+        n_scores = util.pytorch_cos_sim(query_embedding, nutrition_embeds)[0]
+        n_idx    = torch.topk(n_scores, k=min(3, len(nutrition_chunks))).indices.tolist()
+        nutrit_hits = [nutrition_chunks[i] for i in n_idx]
+
+    return  stp_hits + pdf_hits + nutrit_hits
 
 # -------------------- BUILD CONTEXT --------------------
 def build_context(chat_history, chunks, condition):
@@ -170,6 +191,24 @@ Assistant:"""
         st.markdown(answer)
 
     st.session_state.chat_history.append({"role": "assistant", "content": answer})
+
+if needs_nutrition(prompt):
+        img_prompt = (
+            "A colourful photo-style collage of common iron-rich Indian foods like "
+            "spinach (palak), methi leaves, chana, soya bean, sesame seeds (til), "
+            "amla and citrus fruits, served on a traditional thali plate"
+        )
+        img_resp = model.generate_content(
+            [
+                img_prompt,
+                {
+                    "type": "image_generation",
+                    "size": "512x512"
+                }
+            ]
+        )
+        st.image(img_resp["data"][0]["url"],
+                 caption="Example iron-rich foods")
 
 # -------------------- END SCREENING --------------------
 st.markdown("---")
