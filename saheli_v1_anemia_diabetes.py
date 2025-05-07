@@ -5,7 +5,7 @@ import google.generativeai as genai
 import pdfplumber
 import pandas as pd
 import logging
-from transformers import AutoProcessor, AutoModelForVisionText2Text
+#from transformers import AutoProcessor, AutoModelForVisionText2Text
 
 
 logging.basicConfig(
@@ -212,7 +212,7 @@ Assistant:"""
         st.markdown(answer)
 
     st.session_state.chat_history.append({"role": "assistant", "content": answer})
-
+"""
 if needs_nutrition(prompt):
     log.info("entered inside image generation module...about to generate image")
     img_prompt = (
@@ -227,7 +227,7 @@ if needs_nutrition(prompt):
         st.image(img_url, caption="Example iron-rich foods")
     except Exception as e:
         st.warning(f"Image generation failed: {e}")
-
+"""
 # -------------------- END SCREENING --------------------
 st.markdown("---")
 if st.button("🔁 End Screening"):
