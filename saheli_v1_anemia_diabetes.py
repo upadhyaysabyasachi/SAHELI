@@ -212,22 +212,22 @@ Assistant:"""
         st.markdown(answer)
 
     st.session_state.chat_history.append({"role": "assistant", "content": answer})
-"""
-if needs_nutrition(prompt):
-    log.info("entered inside image generation module...about to generate image")
-    img_prompt = (
-        "A colourful photo-style collage of common iron-rich Indian foods like "
-        "spinach (palak), methi leaves, roasted chana, soyabean, sesame seeds, "
-        "amla and oranges served on a traditional thali plate"
-    )
 
-    try:
-        img_resp   = image_model.generate_image(img_prompt, size="512x512")
-        img_url    = img_resp.images[0].uri          # first image URL
-        st.image(img_url, caption="Example iron-rich foods")
-    except Exception as e:
-        st.warning(f"Image generation failed: {e}")
-"""
+#if needs_nutrition(prompt):
+ #   log.info("entered inside image generation module...about to generate image")
+  #  img_prompt = (
+   #     "A colourful photo-style collage of common iron-rich Indian foods like "
+    #    "spinach (palak), methi leaves, roasted chana, soyabean, sesame seeds, "
+     #   "amla and oranges served on a traditional thali plate"
+    #)
+
+    #try:
+     #   img_resp   = image_model.generate_image(img_prompt, size="512x512")
+      #  img_url    = img_resp.images[0].uri          # first image URL
+       # st.image(img_url, caption="Example iron-rich foods")
+    #except Exception as e:
+     #   st.warning(f"Image generation failed: {e}")
+#"""
 # -------------------- END SCREENING --------------------
 st.markdown("---")
 if st.button("🔁 End Screening"):
