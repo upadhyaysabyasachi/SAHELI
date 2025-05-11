@@ -5,18 +5,78 @@ import pdfplumber
 import pandas as pd
 from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+import logging
+from transformers import BitsAndBytesConfig
+import os
 
 # -------------------- CONFIGURATION --------------------
 login(token=st.secrets["HUGGINGFACE_KEY"])
 st.set_page_config(page_title="SAHELI Assistant", layout="wide")
 st.title("🤖 SAHELI: Maternal Healthcare Assistant")
 
-@st.cache_resource
+log = logging.getLogger("SAHELI")
+
+def _supports_cuda() -> bool:
+    return torch.cuda.is_available() and torch.cuda.device_count() > 0
+
+def _import_accelerate():
+    try:
+        import accelerate  # noqa: F401
+        return True
+    except ImportError:
+        return False
+
+# -------------------- CACHED LOADER --------------------
+@st.cache_resource(show_spinner="Loading Mistral 7B…")
 def load_model():
-    model_name = "mistralai/Mistral-7B-Instruct-v0.2"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
-    return pipeline("text-generation", model=model, tokenizer=tokenizer)
+    """
+    Returns a text-generation pipeline powered by Mistral 7B if possible;
+    otherwise falls back to Gemini (already in your project).
+    """
+    if not _supports_cuda() and torch.cuda.is_available():
+        # edge case: CUDA present but not initialised correctly
+        log.warning("CUDA detected but unusable – falling back to CPU.")
+    
+    
+
+    HF_MODEL = "mistralai/Mistral-7B-Instruct-v0.2"
+    HF_TOKEN = st.secrets.get("HUGGINGFACE_KEY", None)
+
+    if (_supports_cuda() or os.getenv("FORCE_MISTRAL_CPU")) and _import_accelerate():
+        log.info("Initialising Mistral 7B (%s)…", "GPU" if _supports_cuda() else "CPU/4-bit")
+
+        quant_cfg = None
+        if not _supports_cuda():
+            quant_cfg = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_use_double_quant=True,
+                bnb_4bit_compute_dtype=torch.float16,
+                bnb_4bit_quant_type="nf4",
+            )
+
+        tokenizer = AutoTokenizer.from_pretrained(HF_MODEL, use_fast=True, token=HF_TOKEN)
+        model = AutoModelForCausalLM.from_pretrained(
+            HF_MODEL,
+            device_map="auto",
+            token=HF_TOKEN,
+            quantization_config=quant_cfg,
+            trust_remote_code=True,
+        )
+        return pipeline(
+            "text-generation",
+            model=model,
+            tokenizer=tokenizer,
+            device=0 if _supports_cuda() else -1,
+            max_new_tokens=512,
+            temperature=0.3,
+        )
+
+#@st.cache_resource
+#def load_model():
+#    model_name = "mistralai/Mistral-7B-Instruct-v0.2"
+#    tokenizer = AutoTokenizer.from_pretrained(model_name)
+#    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
+#    return pipeline("text-generation", model=model, tokenizer=tokenizer)
 
 model = load_model()
 
