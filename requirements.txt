@@ -8,3 +8,4 @@ PyPDF2
 faiss-cpu
 huggingface-hub
 openpyxl
+accelerate>=0.28
