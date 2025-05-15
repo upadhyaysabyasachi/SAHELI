@@ -91,7 +91,7 @@ if not st.session_state.pathway_selected:
     if st.button("Start Screening"):
         st.session_state.selected_condition = condition
         st.session_state.pathway_selected = True
-        st.experimental_rerun()
+        st.rerun()
 else:
     selected_condition = st.session_state.selected_condition
     stepwise_questions_map = {
@@ -123,14 +123,14 @@ else:
             st.session_state.step_responses.append(f"{q} — {answer}")
             st.session_state.chat_history.append({"role": "user", "content": answer})
             st.session_state.step_index += 1
-            st.experimental_rerun()
+            st.rerun()
     elif not st.session_state.ai_completed:
         user_summary = "\n".join(st.session_state.step_responses)
         steps_key = (
-            "Anemia-Pregnant" if selected_condition == "Anemia" and "pregnant" in user_summary.lower() else
-            "Anemia-General" if selected_condition == "Anemia" else
-            "Diabetes-Pregnant" if "pregnant" in user_summary.lower() else
-            "Diabetes-NonPregnant"
+            "anemia-pregnant" if selected_condition == "anemia" and "pregnant" in user_summary.lower() else
+            "anemia-general" if selected_condition == "anemia" else
+            "diabetes-pregnant" if "pregnant" in user_summary.lower() else
+            "diabetes-general"
         )
         chunks = all_steps.get(steps_key, [])
         if chunks:
@@ -187,7 +187,7 @@ User Observations:
                 for key in ["pathway_selected", "selected_condition", "step_index", "step_responses", "chat_history", "ai_completed"]:
                     st.session_state.pop(key, None)
                 st.success("✅ Session ended. Ready for a new patient.")
-                st.experimental_rerun()
+                st.rerun()
             else:
                 st.session_state.chat_history.append({"role": "user", "content": followup})
                 history_text = "\n".join([

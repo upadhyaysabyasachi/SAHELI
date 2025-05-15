@@ -81,7 +81,7 @@ if not st.session_state.pathway_selected:
     if st.button("Start Screening"):
         st.session_state.selected_condition = condition
         st.session_state.pathway_selected = True
-        st.experimental_rerun()
+        st.rerun()
 else:
     selected_condition = st.session_state.selected_condition
 
@@ -122,16 +122,16 @@ else:
             st.session_state.step_responses.append(f"{current_question} — Response: {user_input}")
             st.session_state.chat_history.append({"role": "user", "content": user_input})
             st.session_state.step_index += 1
-            st.experimental_rerun()
+            st.rerun()
 
     else:
         user_summary = "\n".join(st.session_state.step_responses)
         prompt = f"Proceed with {selected_condition.lower()} diagnosis based on observations."
 
         if selected_condition == "Anemia":
-            steps_key = "Sheet1" if "pregnant" in user_summary.lower() else "Sheet2"
+            steps_key = "anemia-pregnant" if "pregnant" in user_summary.lower() else "anemia-general"
         else:
-            steps_key = "Diabetes-Pregnant" if "pregnant" in user_summary.lower() else "Diabetes-NonPregnant"
+            steps_key = "diabetes-pregnant" if "pregnant" in user_summary.lower() else "diabetes-general"
 
         relevant_chunks = all_steps.get(steps_key, [])
         embeddings = step_embeddings.get(steps_key)
@@ -178,7 +178,7 @@ Assistant:"""
                     if key in st.session_state:
                         del st.session_state[key]
                 st.success("✅ Screening ended. Ready for the next patient.")
-                st.experimental_rerun()
+                st.rerun()
             else:
                 st.session_state.chat_history.append({"role": "user", "content": followup_prompt})
 
