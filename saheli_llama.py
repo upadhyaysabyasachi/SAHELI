@@ -206,30 +206,29 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
 
     # ------------------  Llama-4 Scout call  ------------------
     payload = {
-        "model": MODEL_ID,
-        "messages": [
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": full_prompt},
-                    {  # optional illustrative image; delete if not needed
-                        "type": "image_url",
-                        "image_url": {
-                            "url": "https://s3.amazonaws.com/cms.ipressroom.com/338/files/201808/5b894ee1a138352221103195_A680%7Ejogging-edit/A680%7Ejogging-edit_hero.jpg"
-                        },
-                    },
-                ],
-            }
-        ],
+    "model": MODEL_ID,
+    "messages": [
+        {
+            "role": "user",
+            "content": full_prompt,   # plain text only
+        }
+    ],
+    "temperature": 0.2
     }
 
     headers = {
-        "Content-Type": "application/json",
-        "Authorization": BEARER_TOKEN,
+        "Authorization": f"Bearer {BEARER_TOKEN}",   # <-- Bearer prefix required
+    "Content-Type": "application/json",
     }
 
-    r = requests.post(API_URL, headers=headers, data=json.dumps(payload), timeout=60)
-    r.raise_for_status()                 # throws if response != 2xx
+    try:
+        r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+        r.raise_for_status()                      # will raise for 4xx / 5xx
+    except requests.HTTPError as e:
+        st.error(f"❌ Inference API error {r.status_code}: {r.text[:300]}")
+        log.error("Krutrim API returned an error", exc_info=e)
+        st.stop()
+
     assistant_reply = r.json()["choices"][0]["message"]["content"].strip()
 
     # display assistant reply
