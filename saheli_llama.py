@@ -221,7 +221,9 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
     "Content-Type": "application/json",
     }
 
+    print ("payload is ", payload)
     try:
+        
         r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
         r.raise_for_status()                      # will raise for 4xx / 5xx
     except requests.HTTPError as e:
