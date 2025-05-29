@@ -35,9 +35,9 @@ def load_chunks(path: str):
             for page in pdf.pages:
                 text = page.extract_text()
                 if text:
-                paragraph = " ".join(line.strip() for line in text.split("\n") if line.strip())
+                    paragraph = " ".join(line.strip() for line in text.split("\n") if line.strip())
                     chunks.append(paragraph)
-        return chunks
+    return chunks
 
 log.info("Loading PDF chunks from data files.")
 
