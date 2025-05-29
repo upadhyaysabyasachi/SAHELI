@@ -18,6 +18,8 @@ logging.basicConfig(
 log = logging.getLogger("SAHELI")
 
 #genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+log.info("SAHELI app started. Initializing configurations.")
+
 
 st.set_page_config(page_title="SAHELI Assistant", layout="wide")
 st.title("🤖 SAHELI: Maternal Healthcare Assistant")
@@ -30,16 +32,20 @@ def load_chunks(path: str):
     """Return a list of paragraph strings from a PDF file."""
     chunks = []
     with pdfplumber.open(path) as pdf:
-        for page in pdf.pages:
-            text = page.extract_text()
-            if text:
+            for page in pdf.pages:
+                text = page.extract_text()
+                if text:
                 paragraph = " ".join(line.strip() for line in text.split("\n") if line.strip())
-                chunks.append(paragraph)
-    return chunks
+                    chunks.append(paragraph)
+        return chunks
+
+log.info("Loading PDF chunks from data files.")
 
 anemia_chunks    = load_chunks("data.pdf")
 diabetes_chunks  = load_chunks("diabetes.pdf")
 nutrition_chunks = load_chunks("icds_operational_guidelines_for_wifs.pdf")
+
+log.info("Loading of chunks completed")
 
 all_pdf_chunks = {
     "anemia": anemia_chunks,
@@ -50,6 +56,8 @@ all_pdf_chunks = {
 # --------------------------------------------------------------------
 # EXCEL STP LOADER
 # --------------------------------------------------------------------
+log.info("Loading STP steps from Excel file.")
+
 @st.cache_data
 def load_steps(path: str = "STP_v2.xlsx"):
     xls = pd.ExcelFile(path)
@@ -80,6 +88,8 @@ steps_context = load_steps()
 # --------------------------------------------------------------------
 # EMBEDDINGS
 # --------------------------------------------------------------------
+log.info("Creating sentence embeddings using BioBERT.")
+
 @st.cache_resource
 def create_embeddings():
     embedder = SentenceTransformer("pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb")
@@ -184,8 +194,12 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
     st.session_state.chat_history.append({"role": "user", "content": prompt})
 
     # retrieve context
+    log.info("Initializing classification of condition")
     condition   = classify_condition(prompt)
+    log.info("Condition is classified")
+    log.info("Retrieving the relevant chunks")
     chunks      = retrieve_relevant_chunks(prompt, condition)
+    log.info("relevant chunks retrieved")
 
     # prior pairs (user/assistant alternating)
     past_pairs = [
@@ -194,7 +208,10 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
         if a["role"] == "assistant"
     ]
 
+    log.info("context building started")
     context_text = build_context(past_pairs, chunks, condition)
+    log.info("context building ended")
+    log.info("full prompt construction begins...")
 
     full_prompt = (
         "You are SAHELI, a maternal healthcare chatbot specialized in anemia and "
@@ -204,6 +221,9 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
         f"User: {prompt}\nAssistant:"
     )
 
+    log.info("full prompt construction ends...")
+    log.info("full_prompt is ", full_prompt)
+    
     # ------------------  Llama-4 Scout call  ------------------
     payload = {
     "model": MODEL_ID,
@@ -221,7 +241,9 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
     "Content-Type": "application/json",
     }
 
-    print ("payload is ", payload)
+    log.info("payload is ", payload)
+
+    #print ("payload is ", payload)
     try:
         
         r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
@@ -231,7 +253,9 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
         log.error("Krutrim API returned an error", exc_info=e)
         st.stop()
 
+    log.info("fetching reply from the API")
     assistant_reply = r.json()["choices"][0]["message"]["content"].strip()
+    log.info("reply fetched from the API")
 
     # display assistant reply
     with st.chat_message("assistant"):
