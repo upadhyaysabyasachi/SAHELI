@@ -7,24 +7,29 @@ import os
 import pandas as pd
 import tiktoken  # NEW: For token counting
 import time
+import torch, pdfplumber, pandas as pd, logging, requests, json
 
 # -------------------- ENVIRONMENT SETUP --------------------
-genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+#genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+API_URL = "https://cloud.olakrutrim.com/v1/chat/completions"
+MODEL_ID = "Llama-4-Scout-17B-16E-Instruct"
+BEARER_TOKEN = st.secrets["BEARER_TOKEN"]
 
 # -------------------- CONFIGURATION --------------------
 st.set_page_config(page_title="SAHELI Assistant", layout="wide")
 st.title("🤖 SAHELI: Maternal Healthcare Assistant for Anemia Detection")
+log = logging.getLogger("SAHELI")
 
-@st.cache_resource
-def load_gemini_model():
-    return genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
+#@st.cache_resource
+#def load_gemini_model():
+#    return genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
 
-model = load_gemini_model()
+#model = load_gemini_model()
 
 # -------------------- TOKEN COUNT FUNCTION --------------------
-def count_tokens(text, model_name="gpt-3.5-turbo"):
-    encoding = tiktoken.encoding_for_model(model_name)
-    return len(encoding.encode(text))
+#def count_tokens(text, model_name="gpt-3.5-turbo"):
+#    encoding = tiktoken.encoding_for_model(model_name)
+#    return len(encoding.encode(text))
 
 # -------------------- LOAD PDF DATA & CREATE CHUNKS --------------------
 @st.cache_data
@@ -167,52 +172,72 @@ Here is relevant context to inform your response:
 User: {prompt}
 Assistant (Provide guideline-aligned response about anemia management):"""
 
-    user_tokens = count_tokens(prompt)
-    context_tokens = count_tokens(context)
-    system_tokens = count_tokens(full_prompt)
-    st.sidebar.markdown(f"**🔢 Token Usage (Before LLM Response):**")
-    st.sidebar.markdown(f"- User Prompt: {user_tokens} tokens")
-    st.sidebar.markdown(f"- Context: {context_tokens} tokens")
-    st.sidebar.markdown(f"- Total Input Tokens: {system_tokens} tokens")
+    #user_tokens = count_tokens(prompt)
+    #context_tokens = count_tokens(context)
+    #system_tokens = count_tokens(full_prompt)
+    #st.sidebar.markdown(f"**🔢 Token Usage (Before LLM Response):**")
+    #st.sidebar.markdown(f"- User Prompt: {user_tokens} tokens")
+    #st.sidebar.markdown(f"- Context: {context_tokens} tokens")
+    #st.sidebar.markdown(f"- Total Input Tokens: {system_tokens} tokens")
 
-    response = model.generate_content(full_prompt)
-    answer = response.text.strip()
+    payload = {
+    "model": MODEL_ID,
+    "messages": [
+        {
+            "role": "user",
+            "content": full_prompt,   # plain text only
+        }
+    ],
+    "temperature": 0.2
+    }
 
-    output_tokens = count_tokens(answer)
-    total_tokens = system_tokens + output_tokens
-    st.sidebar.markdown(f"- Assistant Response: {output_tokens} tokens")
-    st.sidebar.markdown(f"- **Total Tokens Used:** {total_tokens} tokens")
+    headers = {
+        "Authorization": f"Bearer {BEARER_TOKEN}",   # <-- Bearer prefix required
+    "Content-Type": "application/json",
+    }
 
+    log.info("payload is ", payload)
+
+    #print ("payload is ", payload)
+    try:
+        
+        r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+        r.raise_for_status()                      # will raise for 4xx / 5xx
+    except requests.HTTPError as e:
+        st.error(f"❌ Inference API error {r.status_code}: {r.text[:300]}")
+        log.error("Krutrim API returned an error", exc_info=e)
+        st.stop()
+
+    log.info("fetching reply from the API")
+    assistant_reply = r.json()["choices"][0]["message"]["content"].strip()
+    log.info("reply fetched from the API")
+
+    # display assistant reply
     with st.chat_message("assistant"):
-        st.markdown(answer)
-    st.session_state.chat_history.append({"role": "assistant", "content": answer})
+        st.markdown(assistant_reply)
 
+    st.session_state.chat_history.append(
+        {"role": "assistant", "content": assistant_reply}
+    )
+
+# --------------------------------------------------------------------
+# FOOTER / RESET
+# --------------------------------------------------------------------
+st.markdown("---")
+if st.button("🔁 End Screening"):
+    st.session_state.pop("chat_history", None)
+    st.success("✅ Session ended. Ready for a new screening.")
+    st.rerun()
+
+# --------------------------------------------------------------------
+# SIDEBAR
+# --------------------------------------------------------------------
 with st.sidebar:
-    st.header("About SAHELI Anemia Detection")
-    st.write("""
-    SAHELI helps healthcare workers screen, diagnose, and manage anemia in women according to the Anemia Mukt Bharat (AMB) guidelines.
-
-    This tool supports:
-    - Step-by-step anemia screening protocols
-    - Clinical decision support
-    - Treatment guidelines
-    - Follow-up recommendations
-    """)
-
-    st.header("Key Screening Steps")
-    st.write("""
-    **Step 1: Physical Signs**
-    - Check for pale lower eyelids, tongue, skin, palms
-    - Check for brittle nails
-
-    **Step 2: Symptoms**
-    - Ask about dizziness, unusual tiredness
-    - Ask about rapid heart rate, shortness of breath
-
-    **Step 3: Testing**
-    - Hemoglobin estimation
-    - Classification by severity
-
-    **Step 4: Kind acknowledgement**
-     - My name is Sabyasachi. Built this with care and love. If you want to donate , UPI ID: sabyasachi.upadhyay4@okicici
-    """)
+    st.header("About SAHELI")
+    st.write(
+        "SAHELI supports frontline workers in screening and managing anemia and "
+        "diabetes based on national protocols.\n\n"
+        "✅ Auto-detects condition from user input  \n"
+        "📄 Uses STP and official PDF guidance  \n"
+        "🧠 Generates context-aware clinical advice"
+    )
