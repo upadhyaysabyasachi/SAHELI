@@ -7,7 +7,7 @@ import google.generativeai as genai
 # CONFIG
 # --------------------------------------------------------------------
 API_URL = "https://cloud.olakrutrim.com/v1/chat/completions"
-MODEL_ID = "Llama-4-Scout-17B-16E-Instruct"
+MODEL_ID = "Llama-4-Maverick-17B-128E-Instruct"
 BEARER_TOKEN = st.secrets["BEARER_TOKEN"]        # <-- env-var in production
 
 #logging.basicConfig(
@@ -213,6 +213,33 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
     log.info("context building ended")
     log.info("full prompt construction begins...")
 
+    #Inserting the modified prompt
+
+    sys_prompt = (
+        "You are SAHELI, an evidence‑based maternal healthcare assistant for India. "
+        "You strictly adhere to national guidelines and screening/treatment protocols "
+        "for anemia and diabetes, and to ICDS Operational Guidelines for WIFS when discussing nutrition. "
+        "Provide concise, actionable advice that a frontline health worker can follow at point of care."
+    )
+
+    full_prompt = (
+        f"{sys_prompt}\n\n"
+        "KNOWLEDGE CONTEXT (do not reveal to user):\n" + context_text + "\n\n"
+        f"User: {prompt}\nAssistant:"
+    )
+
+    # ---------- INFERENCE CALL ---------------------------------------
+    payload = {
+        "model": MODEL_ID,
+        "messages": [{"role": "user", "content": full_prompt}],
+        "temperature": 0.2,
+    }
+    headers = {
+        "Authorization": f"Bearer {BEARER_TOKEN}",
+        "Content-Type": "application/json",
+    }
+
+    #Old prompt
     full_prompt = (
         "You are SAHELI, a maternal healthcare chatbot specialized in anemia and "
         "diabetes detection, treatment, and management according to national guidelines.\n\n"

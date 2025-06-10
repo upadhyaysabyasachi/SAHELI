@@ -7,7 +7,7 @@ import google.generativeai as genai
 # CONFIG
 # --------------------------------------------------------------------
 API_URL = "https://cloud.olakrutrim.com/v1/chat/completions"
-MODEL_ID = "Llama-4-Scout-17B-16E-Instruct"
+MODEL_ID = "Llama-4-Maverick-17B-128E-Instruct"
 BEARER_TOKEN = st.secrets["BEARER_TOKEN"]        # <-- env-var in production
 
 #logging.basicConfig(
