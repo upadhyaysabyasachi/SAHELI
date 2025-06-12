@@ -236,9 +236,11 @@ if prompt := st.chat_input("Type 'start' to begin.."):
     - Based on anemia grading and gestational age, recommend treatment using IFA, IV Iron, or hospital referral.
     - Always align with the trimester-based action plan.
     - Make sure that the treatment action is sourced from the knowledge based in RAG basis Anemia Mukt Bharat Guidelines.
+    - Wheverever relevant, give dietary advice as well.
+    
 
-    Expose each step sequentially and not everything at the first time.
-
+    Expose each step sequentially and not everything at the first time. Make it easy for the health worker to respond.
+communicate as well
     You must:
     - Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
     - Follow the structured screening protocol for detection of anemia
@@ -300,6 +302,7 @@ if prompt := st.chat_input("Type 'start' to begin.."):
 
 # -------------------- SIDEBAR WITH INFORMATION --------------------
 with st.sidebar:
+    
     st.header("About SAHELI Anemia Detection")
     st.write("""
     SAHELI helps healthcare workers screen, diagnose, and manage anemia in women according to the Anemia Mukt Bharat (AMB) guidelines.
