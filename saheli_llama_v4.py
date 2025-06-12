@@ -1,7 +1,12 @@
 import streamlit as st
 from sentence_transformers import SentenceTransformer, util
 import torch, pdfplumber, pandas as pd, logging, requests, json
-import google.generativeai as genai
+#import google.generativeai as genai
+import pickle, argparse, pdfplumber, pandas as pd, torch
+from pathlib import Path
+from typing import List, Dict
+from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
 
 # --------------------------------------------------------------------
 # CONFIG
@@ -90,21 +95,32 @@ steps_context = load_steps()
 # --------------------------------------------------------------------
 log.info("Creating sentence embeddings using BioBERT.")
 
-@st.cache_resource
-def create_embeddings():
-    embedder = SentenceTransformer("pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb")
-    condition_embeddings = {
-        "anemia":   embedder.encode(anemia_chunks[:10],    convert_to_tensor=True),
-        "diabetes": embedder.encode(diabetes_chunks[:10],  convert_to_tensor=True),
-    }
-    steps_embeddings = {
-        k: embedder.encode(v, convert_to_tensor=True) for k, v in steps_context.items() if v
-    }
-    nutrition_embeddings = embedder.encode(nutrition_chunks, convert_to_tensor=True)
-    return embedder, condition_embeddings, steps_embeddings, nutrition_embeddings
+@st.cache_resource(show_spinner="🔄 Loading pre-built embeddings …")
+def load_static_embeddings(pkl_path: str = "embeddings.pkl"):
+    blob = pickle.load(open(pkl_path, "rb"))
 
-embedder, condition_embeddings, steps_embeddings, nutrition_embeddings = create_embeddings()
+    embedder = SentenceTransformer(blob["pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb"])  # <-- use model_name now
 
+    condition_emb     = blob["condition_embeddings"]
+    steps_emb         = blob["steps_embeddings"]
+    nutrition_emb     = blob["nutrition_embeddings"]
+
+    return (embedder,
+            condition_emb,
+            steps_emb,
+            nutrition_emb,
+            blob["steps_context"],
+            blob["condition_chunks"],
+            blob["nutrition_chunks"])
+
+
+(embedder,
+ condition_embeddings,
+ steps_embeddings,
+ nutrition_embeddings,
+ steps_context,
+ condition_chunks,
+ nutrition_chunks) = load_static_embeddings()
 # --------------------------------------------------------------------
 # HELPERS
 # --------------------------------------------------------------------
