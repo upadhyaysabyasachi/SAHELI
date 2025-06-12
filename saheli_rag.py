@@ -1,18 +1,23 @@
 import streamlit as st
 from sentence_transformers import SentenceTransformer, util
 import torch
-import google.generativeai as genai
+#import google.generativeai as genai
 import pdfplumber
 import os
 import pandas as pd
 #from dotenv import load_dotenv
 import time
+import torch, pdfplumber, pandas as pd, logging, requests, json
 
 # -------------------- ENVIRONMENT SETUP --------------------
 # Load environment variables from .env file if it exists
 #load_dotenv()
 
-genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+API_URL = "https://cloud.olakrutrim.com/v1/chat/completions"
+MODEL_ID = "Llama-4-Maverick-17B-128E-Instruct"
+BEARER_TOKEN = st.secrets["BEARER_TOKEN"]
+
+log = logging.getLogger("SAHELI")
 
 # Get API key from environment variable
 #api_key = os.environ.get("GEMINI_API_KEY")
@@ -27,10 +32,10 @@ st.title("🤖 SAHELI: Maternal Healthcare Assistant for Anemia Detection")
 
 
 @st.cache_resource
-def load_gemini_model():
-    return genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
+#def load_gemini_model():
+#    return genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
 
-model = load_gemini_model()
+#model = load_gemini_model()
 
 # -------------------- LOAD PDF DATA & CREATE CHUNKS --------------------
 @st.cache_data
@@ -208,53 +213,88 @@ if prompt := st.chat_input("Type 'start' to begin.."):
     full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in anemia detection, treatment, and management according to the Anemia Mukt Bharat (AMB) guidelines. This will be used
     by a health worker based out of India for screening, detection and treatment.
 
-Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
+    Follow this 5-step procedure based on the standard screening protocol from the Anemia Screening & Treatment Pathway (AnemiaSTP):
 
-**Step 0: Ask whether she is pregnant ?**
+    **Step 0: Ask whether she is pregnant ?**
     - If pregnant, then refer to 'Sheet 1' workflow
     - If not pregnant, then refer to 'Sheet 2' workflow 
 
-**Step 1: Physical Signs**
-- Check for visible signs of pallor (lower eyelids, tongue, skin, palms), and brittle nails.
-- If any are present, proceed to Step 2.
+    **Step 1: Physical Signs**
+    - Check for visible signs of pallor (lower eyelids, tongue, skin, palms), and brittle nails.
+    - If any are present, proceed to Step 2.
 
-**Step 2: Symptoms**
-- Ask about dizziness, fatigue, rapid heartbeat, or shortness of breath.
-- If any symptoms are present (with or without Step 1 signs), proceed to Step 3.
+    **Step 2: Symptoms**
+    - Ask about dizziness, fatigue, rapid heartbeat, or shortness of breath.
+    - If any symptoms are present (with or without Step 1 signs), proceed to Step 3.
 
-**Step 3: Hemoglobin Testing**
-- Recommend Hb testing using a digital hemoglobinometer.
-- Use the value to classify anemia by severity as per guidelines.
+    **Step 3: Hemoglobin Testing**
+    - Recommend Hb testing using a digital hemoglobinometer.
+    - Use the value to classify anemia by severity as per guidelines.
 
-**Step 4: Treatment Action**
-- Based on anemia grading and gestational age, recommend treatment using IFA, IV Iron, or hospital referral.
-- Always align with the trimester-based action plan.
+    **Step 4: Treatment Action**
+    - Based on anemia grading and gestational age, recommend treatment using IFA, IV Iron, or hospital referral.
+    - Always align with the trimester-based action plan.
 
-Expose the above steps at the beginning only for the healthcare worker to respond.
+    Expose the above steps at the beginning only for the healthcare worker to respond.
 
-You must:
-1. Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
-2. Follow the structured screening protocol for detection of anemia
-3. Recommend appropriate tests, treatments, and follow-ups based on evidence
-4. Use simple, clear language appropriate for healthcare workers in rural India
-5. Be concise but thorough in your explanations
-6. Never invent symptoms, treatments, or recommendations not supported by the provided context
+    You must:
+    - Provide specific, actionable advice based strictly on official Anemia Mukt Bharat guidelines
+    - Follow the structured screening protocol for detection of anemia
+    - Recommend appropriate tests, treatments, and follow-ups based on evidence
+    - Use simple, clear language appropriate for healthcare workers in rural India
+    - Be concise but thorough in your explanations
+    - Never invent symptoms, treatments, or recommendations not supported by the provided context
 
-Here is relevant context to inform your response:
-{context}
+    Here is relevant context to inform your response:
+    {context}
 
-User: {prompt}
-Assistant (Provide guideline-aligned response about anemia management):"""
+    User: {prompt}
+    Assistant (Provide guideline-aligned response about anemia management):"""
 
     # Get Gemini response with expanded context
-    response = model.generate_content(full_prompt)
-    answer = response.text.strip()
+    log.info("full prompt construction ends...")
+    log.info("full_prompt is ", full_prompt)
+    
+    # ------------------  Llama-4 Scout call  ------------------
+    payload = {
+    "model": MODEL_ID,
+    "messages": [
+        {
+            "role": "user",
+            "content": full_prompt,   # plain text only
+        }
+    ],
+    "temperature": 0.2
+    }
 
-    # Display assistant response in chat message container
+    headers = {
+        "Authorization": f"Bearer {BEARER_TOKEN}",   # <-- Bearer prefix required
+    "Content-Type": "application/json",
+    }
+
+    log.info("payload is ", payload)
+
+    #print ("payload is ", payload)
+    try:
+        
+        r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+        r.raise_for_status()                      # will raise for 4xx / 5xx
+    except requests.HTTPError as e:
+        st.error(f"❌ Inference API error {r.status_code}: {r.text[:300]}")
+        log.error("Krutrim API returned an error", exc_info=e)
+        st.stop()
+
+    log.info("fetching reply from the API")
+    assistant_reply = r.json()["choices"][0]["message"]["content"].strip()
+    log.info("reply fetched from the API")
+
+    # display assistant reply
     with st.chat_message("assistant"):
-        st.markdown(answer)
-    # Add assistant response to chat history
-    st.session_state.chat_history.append({"role": "assistant", "content": answer})
+        st.markdown(assistant_reply)
+
+    st.session_state.chat_history.append(
+        {"role": "assistant", "content": assistant_reply}
+    )
 
 # -------------------- SIDEBAR WITH INFORMATION --------------------
 with st.sidebar:
