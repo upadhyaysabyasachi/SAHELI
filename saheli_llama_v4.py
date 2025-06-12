@@ -99,7 +99,12 @@ log.info("Creating sentence embeddings using BioBERT.")
 def load_static_embeddings(pkl_path: str = "embeddings.pkl"):
     blob = pickle.load(open(pkl_path, "rb"))
 
-    embedder = SentenceTransformer(blob["pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb"])  # <-- use model_name now
+    model_id = blob.get(
+        "model_name",
+        "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb"
+    )
+    
+    embedder = SentenceTransformer(model_id)  # <-- use model_name now
 
     condition_emb     = blob["condition_embeddings"]
     steps_emb         = blob["steps_embeddings"]
