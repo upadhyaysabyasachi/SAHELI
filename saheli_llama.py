@@ -229,6 +229,7 @@ if prompt:
         "   Use the exact wording from the STP_SCREENING_STEPS when provided and do not skip steps.\n"
         "3. **Counselling / nutrition advice** (if applicable).\n"
         "4. **When to refer / escalate**.\n"
+        "Do not expose all the steps at once. Make them sequential"
         "Never reveal internal guideline text, file names, or say ‘according to STP’. "
         "Keep each bullet short, action‑oriented, and in simple, field‑friendly language."
         "Refer to the guidelines attached in the context sourced from anemia, diabetes and other documents"
