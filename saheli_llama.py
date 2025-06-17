@@ -231,6 +231,7 @@ if prompt:
         "4. **When to refer / escalate**.\n"
         "Never reveal internal guideline text, file names, or say ‘according to STP’. "
         "Keep each bullet short, action‑oriented, and in simple, field‑friendly language."
+        "Refer to the guidelines attached in the context sourced from anemia, diabetes and other documents"
     )
 
     user_block = f"User: {prompt}"
