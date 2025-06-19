@@ -1,42 +1,23 @@
 import streamlit as st
 from sentence_transformers import SentenceTransformer, util
 import torch
-import google.generativeai as genai
 import pdfplumber
 import pandas as pd
 import pickle
+import requests
+import logging
 
 # -------------------- ENVIRONMENT SETUP --------------------
-genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+API_URL = "https://cloud.olakrutrim.com/v1/chat/completions"
+MODEL_ID = "Llama-4-Maverick-17B-128E-Instruct"
+BEARER_TOKEN = st.secrets["BEARER_TOKEN"]
 
 # -------------------- CONFIGURATION --------------------
 st.set_page_config(page_title="SAHELI Assistant", layout="wide")
 st.title("🤖 SAHELI: Maternal Healthcare Assistant")
 
 @st.cache_resource
-def load_gemini_model():
-    return genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
-
-model = load_gemini_model()
-
-# -------------------- LOAD PDF DATA & CREATE CHUNKS --------------------
-@st.cache_data
-def load_chunks(pdf_path):
-    chunks = []
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            text = page.extract_text()
-            if text:
-                lines = [line.strip() for line in text.split('\n') if line.strip()]
-                paragraph = ' '.join(lines)
-                chunks.append(paragraph)
-    return chunks
-
-chunks = load_chunks('data.pdf')
-
-
-@st.cache_resource
-def load_embedding_data(path="embedding_new.pkl"):
+def load_embedding_data(path="embedding_minilm.pkl"):
     with open(path, "rb") as f:
         data = pickle.load(f)
 
@@ -45,45 +26,6 @@ def load_embedding_data(path="embedding_new.pkl"):
 
 embedder, condition_embeddings, steps_context, steps_embeddings = load_embedding_data()
 
-
-"""
-@st.cache_data
-def load_all_excel_steps(excel_path='STP_v2.xlsx'):
-    try:
-        xls = pd.ExcelFile(excel_path)
-        steps = {}
-        for sheet in xls.sheet_names:
-            df = pd.read_excel(xls, sheet, skiprows=1)
-            steps[sheet] = excel_to_text(df)
-        return steps
-    except Exception as e:
-        st.warning(f"Could not load Excel file: {e}")
-        return {}
-
-def excel_to_text(df):
-    steps_text = []
-    current_step = ""
-    for _, row in df.iterrows():
-        if pd.notna(row[0]) and isinstance(row[0], str) and 'Step' in row[0]:
-            current_step = row[0] + ": " + str(row[1]) if pd.notna(row[1]) else row[0]
-        elif pd.notna(row[1]) and pd.notna(row[2]):
-            steps_text.append(f"{current_step} - Check {row[1]}: {row[2]}")
-    return steps_text
-
-all_steps = load_all_excel_steps()
-
-@st.cache_resource
-def create_embeddings(text_chunks, all_steps):
-    embedder = SentenceTransformer('pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb')
-    pdf_embeddings = embedder.encode(text_chunks, convert_to_tensor=True)
-    step_embeddings = {
-        k: embedder.encode(v, convert_to_tensor=True)
-        for k, v in all_steps.items() if v
-    }
-    return embedder, pdf_embeddings, step_embeddings
-
-embedder, corpus_embeddings, step_embeddings = create_embeddings(chunks, all_steps)
-"""
 # -------------------- PATHWAY SELECTION --------------------
 if 'pathway_selected' not in st.session_state:
     st.session_state.pathway_selected = False
@@ -125,7 +67,7 @@ else:
 
     stepwise_questions = stepwise_questions_map[selected_condition]
 
-    st.subheader("📝 Collected Observations")
+    st.subheader("📜 Collected Observations")
     for step in st.session_state.step_responses:
         st.markdown(f"- {step}")
 
@@ -147,7 +89,6 @@ else:
         else:
             steps_key = "diabetes-pregnant" if "pregnant" in user_summary.lower() else "diabetes-general"
 
-        #embedder, condition_embeddings, steps_context, steps_embeddings
         relevant_chunks = steps_context.get(steps_key, [])
         embeddings = steps_embeddings.get(steps_key)
 
@@ -160,9 +101,6 @@ else:
             retrieved_chunks = []
 
         context_chunks = retrieved_chunks
-        if selected_condition == "Anemia":
-            context_chunks += chunks
-
         context = "\n".join(context_chunks)
 
         full_prompt = f"""You are SAHELI, a maternal healthcare chatbot specialized in {selected_condition.lower()} detection, screening, and follow-up based on national health protocols.
@@ -176,12 +114,34 @@ Relevant Guidelines:
 User: {prompt}
 Assistant:"""
 
-        response = model.generate_content(full_prompt)
-        answer = response.text.strip()
+        # ------------------  Krutrim API call ------------------
+        payload = {
+            "model": MODEL_ID,
+            "messages": [
+                {
+                    "role": "user",
+                    "content": full_prompt
+                }
+            ],
+            "temperature": 0.2
+        }
+
+        headers = {
+            "Authorization": f"Bearer {BEARER_TOKEN}",
+            "Content-Type": "application/json"
+        }
+
+        try:
+            r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+            r.raise_for_status()
+            assistant_reply = r.json()["choices"][0]["message"]["content"].strip()
+        except requests.HTTPError as e:
+            st.error(f"❌ Inference API error {r.status_code}: {r.text[:300]}")
+            assistant_reply = "An error occurred while generating the response."
 
         with st.chat_message("assistant"):
-            st.markdown(answer)
-        st.session_state.chat_history.append({"role": "assistant", "content": answer})
+            st.markdown(assistant_reply)
+        st.session_state.chat_history.append({"role": "assistant", "content": assistant_reply})
 
         # Follow-up support
         st.subheader("💬 Continue the Conversation")
@@ -208,8 +168,24 @@ Conversation so far:
 
 Respond to the latest user query with appropriate clinical guidance, referring to earlier context and official protocol if needed."""
 
-                continued_response = model.generate_content(continued_prompt)
-                continued_answer = continued_response.text.strip()
+                payload = {
+                    "model": MODEL_ID,
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": continued_prompt
+                        }
+                    ],
+                    "temperature": 0.2
+                }
+
+                try:
+                    r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+                    r.raise_for_status()
+                    continued_answer = r.json()["choices"][0]["message"]["content"].strip()
+                except requests.HTTPError as e:
+                    st.error(f"❌ Follow-up API error {r.status_code}: {r.text[:300]}")
+                    continued_answer = "An error occurred while generating the follow-up response."
 
                 with st.chat_message("assistant"):
                     st.markdown(continued_answer)

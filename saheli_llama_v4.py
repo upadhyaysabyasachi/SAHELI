@@ -261,7 +261,7 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
     }
 
     #Old prompt
-    """
+    
     full_prompt = (
         "You are SAHELI, a maternal healthcare chatbot specialized in anemia and "
         "diabetes detection, treatment, and management according to national guidelines.\n\n"
@@ -289,8 +289,9 @@ if prompt := st.chat_input("E.g. pregnant woman with RBS 200"):
         "Authorization": f"Bearer {BEARER_TOKEN}",   # <-- Bearer prefix required
     "Content-Type": "application/json",
     }
-"""
+
     log.info("payload is ", payload)
+
 
     #print ("payload is ", payload)
     try:

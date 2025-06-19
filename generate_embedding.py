@@ -50,7 +50,7 @@ steps_context = load_steps()
 
 # -------------------- Create Embeddings --------------------
 print("Loading BioBERT model...")
-embedder = SentenceTransformer("pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb")
+embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 print("Encoding chunks...")
 condition_embeddings = {
@@ -67,9 +67,9 @@ steps_embeddings = {
 
 # -------------------- Save to Pickle --------------------
 print("Saving to pickle...")
-with open("embedding_new.pkl", "wb") as f:
+with open("embedding_minilm.pkl", "wb") as f:
     pickle.dump({
-        "embedder_model_id": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "embedder_model_id": "sentence-transformers/all-MiniLM-L6-v2",
         "condition_embeddings": condition_embeddings,
         "steps_context": steps_context,
         "steps_embeddings": steps_embeddings
