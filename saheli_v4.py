@@ -4,6 +4,7 @@ import torch
 import google.generativeai as genai
 import pdfplumber
 import pandas as pd
+import pickle
 
 # -------------------- ENVIRONMENT SETUP --------------------
 genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
@@ -33,6 +34,19 @@ def load_chunks(pdf_path):
 
 chunks = load_chunks('data.pdf')
 
+
+@st.cache_resource
+def load_embedding_data(path="embedding_new.pkl"):
+    with open(path, "rb") as f:
+        data = pickle.load(f)
+
+    embedder = SentenceTransformer(data["embedder_model_id"])
+    return embedder, data["condition_embeddings"], data["steps_context"], data["steps_embeddings"]
+
+embedder, condition_embeddings, steps_context, steps_embeddings = load_embedding_data()
+
+
+"""
 @st.cache_data
 def load_all_excel_steps(excel_path='STP_v2.xlsx'):
     try:
@@ -69,7 +83,7 @@ def create_embeddings(text_chunks, all_steps):
     return embedder, pdf_embeddings, step_embeddings
 
 embedder, corpus_embeddings, step_embeddings = create_embeddings(chunks, all_steps)
-
+"""
 # -------------------- PATHWAY SELECTION --------------------
 if 'pathway_selected' not in st.session_state:
     st.session_state.pathway_selected = False
@@ -133,8 +147,9 @@ else:
         else:
             steps_key = "diabetes-pregnant" if "pregnant" in user_summary.lower() else "diabetes-general"
 
-        relevant_chunks = all_steps.get(steps_key, [])
-        embeddings = step_embeddings.get(steps_key)
+        #embedder, condition_embeddings, steps_context, steps_embeddings
+        relevant_chunks = steps_context.get(steps_key, [])
+        embeddings = steps_embeddings.get(steps_key)
 
         if embeddings:
             query_embedding = embedder.encode(user_summary, convert_to_tensor=True)
